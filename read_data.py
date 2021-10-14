@@ -1,7 +1,7 @@
 
 
 class Preprocessing:
-    def __init__(self, scale=100):
+    def __init__(self, filename, scale=100):
         self.A1A2 = 'a1a2'
         self.A1B2 = 'a1b2'
         self.B1A2 = 'b1a2'
@@ -9,7 +9,7 @@ class Preprocessing:
         self.data = {'a1a2': [], 'b1a2': [], 'b1b2': [], 'a1b2': []}
         self.SCALE = scale
         self.measurements = []
-        self.extract_data()
+        self.extract_data(filename)
 
     def extract_distance(self, token, line):
         key_word = 'r_' + token + ' ='
@@ -18,8 +18,8 @@ class Preprocessing:
         return line[start: end]
 
 
-    def extract_data(self):
-        with open('0926test1.data') as f:
+    def extract_data(self, filename):
+        with open(filename) as f:
             lines = f.readlines()
 
         self.data = {'a1a2': [], 'b1a2': [], 'b1b2': [], 'a1b2': []}
@@ -39,6 +39,10 @@ class Preprocessing:
         self.measurements = []
         for a1a2, a1b2, b1a2, b1b2 in zip(self.data[self.A1A2], self.data[self.A1B2], self.data[self.B1A2], self.data[self.B1B2]):
             self.measurements.append((a1a2, a1b2, b1a2,  b1b2))
+
+    def get_all_measurements(self):
+        return self.data.copy()
+
 
     def get_measurement(self):
 

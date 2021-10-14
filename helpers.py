@@ -8,12 +8,12 @@ def resize_and_plot(canvas, resize):
     cv2.imshow('resized', resized)
     cv2.waitKey()
 
-def draw_particles(particles, canvas):
+def draw_particles(particles, canvas, circle_size, color=(0, 255, 0)):
     for p in particles:
         x = int(round((p.a2x + p.b2x)/2))
         y = int(round((p.a2y + p.b2y)/2))
         # print(x, y)
-        cv2.circle(canvas, (x, y), 10, (0, 255, 0), -1)
+        cv2.circle(canvas, (x, y), circle_size, color, -1)
 
 
 def eval(r, p, world_size):
@@ -27,5 +27,5 @@ def eval(r, p, world_size):
         sum += err
     return sum / float(len(p)), (r.x, r.y)
 
-def draw_robot(myrobot, canvas):
-    cv2.circle(canvas, (int(round(myrobot.x)), int(round(myrobot.y))), 10, (0, 0, 0), -1)
+def draw_robot(myrobot, canvas, circle_size):
+    cv2.circle(canvas, (int(round(myrobot.x)), int(round(myrobot.y))), circle_size, (0, 0, 0), -1)

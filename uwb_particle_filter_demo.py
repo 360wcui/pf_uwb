@@ -6,18 +6,26 @@ import read_data
 from helpers import draw_particles, resize_and_plot, draw_robot
 from robot import robot
 
-world_size = 1000
+world_size = 500
 RESIZE = 500
 scale = 100.0
 THREE_FEET = 914.4 / scale #mm to px
-N = 1000
-noise = 5 # px
+N = 2000
+noise = 3 # px
+circle_size = 2
 
 
-experimental_data = read_data.Preprocessing(scale=scale)
+experimental_data = read_data.Preprocessing(filename='0926test3.data', scale=scale)
+
+measurements = experimental_data.get_all_measurements()
+
+print(sum(measurements['a1a2'])/len(measurements['a1a2']))
+print(sum(measurements['a1b2'])/len(measurements['a1b2']))
+print(sum(measurements['b1a2'])/len(measurements['b1a2']))
+print(sum(measurements['b1b2'])/len(measurements['b1b2']))
 
 myrobot = robot(world_size, noise, scale=scale)
-myrobot.set(new_a2x=world_size / 2 + THREE_FEET / 2, new_b2x= world_size / 2 - THREE_FEET/2, new_a2y=world_size / 2, new_b2y=world_size / 2, new_orientation=0)
+myrobot.set(new_a2x=world_size / 2 + THREE_FEET / 2, new_a2y=world_size / 2, new_orientation= np.pi/2)
 
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
@@ -29,8 +37,9 @@ for i in range(N):
     r.set_noise(noise, noise, noise)
     p.append(r)
 canvas = np.ones((world_size, world_size, 3), np.uint8) * 255
-draw_particles(p, canvas)
-draw_robot(myrobot, canvas)
+draw_particles(p, canvas, circle_size, color=(255, 0, 0))
+draw_robot(myrobot, canvas, circle_size
+)
 resize_and_plot(canvas, RESIZE)
 
 
@@ -67,8 +76,8 @@ for t in range(T):
         p3.append(p[index])
     p = p3
     # print_particles(p)
-    draw_robot(myrobot, canvas)
-    draw_particles(p, canvas)
+    draw_robot(myrobot, canvas, circle_size)
+    draw_particles(p, canvas, circle_size, color=(255, 0, 0))
     resize_and_plot(canvas, RESIZE)
     print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
 
