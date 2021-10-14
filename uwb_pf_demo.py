@@ -1,36 +1,34 @@
 import random
 import numpy as np
-
 import helpers
 import read_data
 from helpers import draw_particles, resize_and_plot, draw_robot
 from robot import robot
 
+## parameters
+data_file = '0926test3.data'
 world_size = 500
 RESIZE = 500
 scale = 100.0
-THREE_FEET = 914.4 / scale #mm to px
-N = 2000
-noise = 3 # px
-circle_size = 2
+THREE_FEET = 914.4 / scale  # mm to px
+circle_size = 2 # for plot
 
+## hyperparameters
+N = 2000  # num of particles
+noise = 3  # px
 
-experimental_data = read_data.Preprocessing(filename='0926test3.data', scale=scale)
-
+## extract data
+experimental_data = read_data.Preprocessing(filename=data_file, scale=scale)
 measurements = experimental_data.get_all_measurements()
 
-print(sum(measurements['a1a2'])/len(measurements['a1a2']))
-print(sum(measurements['a1b2'])/len(measurements['a1b2']))
-print(sum(measurements['b1a2'])/len(measurements['b1a2']))
-print(sum(measurements['b1b2'])/len(measurements['b1b2']))
-
+## initialize robot (Drone 1)
 myrobot = robot(world_size, noise, scale=scale)
-myrobot.set(new_a2x=world_size / 2 + THREE_FEET / 2, new_a2y=world_size / 2, new_orientation= np.pi/2)
-
+myrobot.set(new_a2x=world_size / 2 + THREE_FEET / 2, new_a2y=world_size / 2, new_orientation=np.pi / 2)
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
 T = 30
 
+## initialize N particles
 p = []
 for i in range(N):
     r = robot(world_size, noise, scale)
@@ -39,14 +37,10 @@ for i in range(N):
 canvas = np.ones((world_size, world_size, 3), np.uint8) * 255
 draw_particles(p, canvas, circle_size, color=(255, 0, 0))
 draw_robot(myrobot, canvas, circle_size
-)
+           )
 resize_and_plot(canvas, RESIZE)
 
-
-def print_particles(p):
-    for particle in p:
-        print(particle.a2x, particle.a2y, particle.b2x, particle.b2y)
-
+# iterate through each time step (pressing a key is required)
 
 for t in range(T):
     canvas = np.ones((world_size, world_size, 3), np.uint8) * 255
@@ -80,4 +74,3 @@ for t in range(T):
     draw_particles(p, canvas, circle_size, color=(255, 0, 0))
     resize_and_plot(canvas, RESIZE)
     print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
-
