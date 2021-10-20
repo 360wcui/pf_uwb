@@ -6,7 +6,7 @@ import cv2
 def resize_and_plot(canvas, resize):
     resized = cv2.resize(canvas, (resize, resize), interpolation=cv2.INTER_AREA)
     cv2.imshow('resized', resized)
-    cv2.waitKey()
+    cv2.waitKey(1000)
 
 def draw_particles(particles, canvas, circle_size, color=(0, 255, 0)):
     for p in particles:

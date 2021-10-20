@@ -7,6 +7,7 @@ from robot import robot
 
 ## parameters
 data_file = '0926test3.data'
+data_file = '10-14-21-test1'
 world_size = 500
 RESIZE = 500
 scale = 100.0
@@ -15,7 +16,7 @@ circle_size = 2 # for plot
 
 ## hyperparameters
 N = 2000  # num of particles
-noise = 3  # px
+noise = 2  # px
 
 ## extract data
 experimental_data = read_data.Preprocessing(filename=data_file, scale=scale)

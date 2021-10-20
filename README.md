@@ -5,4 +5,4 @@ this project is using particle filter to localize the other drone.
 1. numpy
 
 ## How to Run:
-Run uwb_pf_demo.py.  Change parameters and hyperparameters if needed. 
+Run `uwb_pf_demo.py`.  Change parameters and hyperparameters if needed. 

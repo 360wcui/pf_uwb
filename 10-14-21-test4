@@ -1,0 +1,2548 @@
+r_a1a2 = 4373 mm  at t = 2174448 ms, current time = 0.021
+r_b1a2 = 5403 mm  at t = 2174554 ms, current time = 0.038
+r_a1b2 = 5380 mm  at t = 2174486 ms, current time = 0.055
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5380 mm  at t = 2174657 ms, current time = 0.141
+r_a1b2 = 5422 mm  at t = 2174589 ms, current time = 0.158
+r_b1b2 = 6166 mm  at t = 2174690 ms, current time = 0.174
+r_a1a2 = 4316 mm  at t = 2174673 ms, current time = 0.241
+r_b1a2 = 5352 mm  at t = 2174774 ms, current time = 0.258
+r_a1b2 = 5445 mm  at t = 2174706 ms, current time = 0.274
+r_b1b2 = 6166 mm  at t = 2174806 ms, current time = 0.295
+r_a1a2 = 4326 mm  at t = 2174793 ms, current time = 0.361
+r_b1a2 = 5337 mm  at t = 2174893 ms, current time = 0.378
+r_a1b2 = 5427 mm  at t = 2174826 ms, current time = 0.395
+r_b1b2 = 6138 mm  at t = 2174927 ms, current time = 0.412
+r_a1a2 = 4358 mm  at t = 2174911 ms, current time = 0.479
+r_b1a2 = 5342 mm  at t = 2175011 ms, current time = 0.496
+r_a1b2 = 5427 mm  at t = 2174944 ms, current time = 0.512
+r_b1b2 = 6171 mm  at t = 2175044 ms, current time = 0.529
+r_a1a2 = drop 
+r_b1a2 = 5389 mm  at t = 2175121 ms, current time = 0.606
+r_a1b2 = 5445 mm  at t = 2175054 ms, current time = 0.623
+r_b1b2 = 6162 mm  at t = 2175155 ms, current time = 0.64
+r_a1a2 = 4344 mm  at t = 2175138 ms, current time = 0.707
+r_b1a2 = 5380 mm  at t = 2175239 ms, current time = 0.725
+r_a1b2 = 5445 mm  at t = 2175173 ms, current time = 0.742
+r_b1b2 = 6190 mm  at t = 2175273 ms, current time = 0.759
+r_a1a2 = 4316 mm  at t = 2175257 ms, current time = 0.826
+r_b1a2 = 5380 mm  at t = 2175358 ms, current time = 0.842
+r_a1b2 = 5417 mm  at t = 2175290 ms, current time = 0.859
+r_b1b2 = 6157 mm  at t = 2175391 ms, current time = 0.876
+r_a1a2 = 4349 mm  at t = 2175374 ms, current time = 0.944
+r_b1a2 = 5370 mm  at t = 2175476 ms, current time = 0.961
+r_a1b2 = 5417 mm  at t = 2175408 ms, current time = 0.978
+r_b1b2 = 6171 mm  at t = 2175509 ms, current time = 0.994
+r_a1a2 = 4377 mm  at t = 2175492 ms, current time = 1.063
+r_b1a2 = 5384 mm  at t = 2175594 ms, current time = 1.081
+r_a1b2 = 5431 mm  at t = 2175528 ms, current time = 1.098
+r_b1b2 = 6199 mm  at t = 2175629 ms, current time = 1.116
+r_a1a2 = 4297 mm  at t = 2175613 ms, current time = 1.183
+r_b1a2 = 5370 mm  at t = 2175714 ms, current time = 1.2
+r_a1b2 = 5389 mm  at t = 2175647 ms, current time = 1.216
+r_b1b2 = 6209 mm  at t = 2175747 ms, current time = 1.233
+r_a1a2 = 4340 mm  at t = 2175731 ms, current time = 1.3
+r_b1a2 = 5375 mm  at t = 2175831 ms, current time = 1.317
+r_a1b2 = 5333 mm  at t = 2175764 ms, current time = 1.333
+r_b1b2 = drop 
+r_a1a2 = 4429 mm  at t = 2175840 ms, current time = 1.41
+r_b1a2 = 5300 mm  at t = 2175941 ms, current time = 1.427
+r_a1b2 = 5408 mm  at t = 2175874 ms, current time = 1.443
+r_b1b2 = 6185 mm  at t = 2175974 ms, current time = 1.459
+r_a1a2 = 4297 mm  at t = 2175956 ms, current time = 1.526
+r_b1a2 = 5356 mm  at t = 2176057 ms, current time = 1.543
+r_a1b2 = 5403 mm  at t = 2175990 ms, current time = 1.56
+r_b1b2 = 6204 mm  at t = 2176091 ms, current time = 1.576
+r_a1a2 = 4316 mm  at t = 2176073 ms, current time = 1.643
+r_b1a2 = 5384 mm  at t = 2176174 ms, current time = 1.66
+r_a1b2 = 5366 mm  at t = 2176107 ms, current time = 1.677
+r_b1b2 = 6241 mm  at t = 2176208 ms, current time = 1.693
+r_a1a2 = 4283 mm  at t = 2176190 ms, current time = 1.76
+r_b1a2 = 5384 mm  at t = 2176291 ms, current time = 1.776
+r_a1b2 = 5464 mm  at t = 2176223 ms, current time = 1.793
+r_b1b2 = 6162 mm  at t = 2176324 ms, current time = 1.81
+r_a1a2 = 4382 mm  at t = 2176308 ms, current time = 1.878
+r_b1a2 = 5337 mm  at t = 2176409 ms, current time = 1.895
+r_a1b2 = 5361 mm  at t = 2176341 ms, current time = 1.911
+r_b1b2 = 6209 mm  at t = 2176442 ms, current time = 1.928
+r_a1a2 = 4344 mm  at t = 2176425 ms, current time = 1.995
+r_b1a2 = 5417 mm  at t = 2176526 ms, current time = 2.012
+r_a1b2 = 5366 mm  at t = 2176458 ms, current time = 2.028
+r_b1b2 = 6195 mm  at t = 2176558 ms, current time = 2.044
+r_a1a2 = 4288 mm  at t = 2176541 ms, current time = 2.111
+r_b1a2 = 5408 mm  at t = 2176642 ms, current time = 2.128
+r_a1b2 = 5286 mm  at t = 2176574 ms, current time = 2.144
+r_b1b2 = 6199 mm  at t = 2176675 ms, current time = 2.161
+r_a1a2 = 4321 mm  at t = 2176657 ms, current time = 2.227
+r_b1a2 = 5356 mm  at t = 2176758 ms, current time = 2.243
+r_a1b2 = 5553 mm  at t = 2176690 ms, current time = 2.26
+r_b1b2 = 6195 mm  at t = 2176790 ms, current time = 2.277
+r_a1a2 = 4401 mm  at t = 2176773 ms, current time = 2.344
+r_b1a2 = 5352 mm  at t = 2176874 ms, current time = 2.36
+r_a1b2 = 5342 mm  at t = 2176806 ms, current time = 2.377
+r_b1b2 = 6166 mm  at t = 2176907 ms, current time = 2.394
+r_a1a2 = 4363 mm  at t = 2176890 ms, current time = 2.461
+r_b1a2 = 5356 mm  at t = 2176991 ms, current time = 2.477
+r_a1b2 = 5445 mm  at t = 2176923 ms, current time = 2.494
+r_b1b2 = 6199 mm  at t = 2177024 ms, current time = 2.51
+r_a1a2 = 4363 mm  at t = 2177006 ms, current time = 2.577
+r_b1a2 = 5417 mm  at t = 2177107 ms, current time = 2.594
+r_a1b2 = 5483 mm  at t = 2177040 ms, current time = 2.611
+r_b1b2 = 6227 mm  at t = 2177141 ms, current time = 2.627
+r_a1a2 = 4396 mm  at t = 2177123 ms, current time = 2.694
+r_b1a2 = 5380 mm  at t = 2177224 ms, current time = 2.712
+r_a1b2 = 5455 mm  at t = 2177157 ms, current time = 2.729
+r_b1b2 = 6176 mm  at t = 2177259 ms, current time = 2.745
+r_a1a2 = drop 
+r_b1a2 = 5375 mm  at t = 2177335 ms, current time = 2.821
+r_a1b2 = 5295 mm  at t = 2177267 ms, current time = 2.837
+r_b1b2 = 6232 mm  at t = 2177367 ms, current time = 2.854
+r_a1a2 = 4218 mm  at t = 2177350 ms, current time = 2.922
+r_b1a2 = 5370 mm  at t = 2177452 ms, current time = 2.939
+r_a1b2 = 5291 mm  at t = 2177385 ms, current time = 2.956
+r_b1b2 = 6181 mm  at t = 2177486 ms, current time = 2.972
+r_a1a2 = 4410 mm  at t = 2177468 ms, current time = 3.04
+r_b1a2 = 5277 mm  at t = 2177569 ms, current time = 3.056
+r_a1b2 = 5413 mm  at t = 2177501 ms, current time = 3.072
+r_b1b2 = 6176 mm  at t = 2177602 ms, current time = 3.088
+r_a1a2 = 4358 mm  at t = 2177584 ms, current time = 3.155
+r_b1a2 = 5408 mm  at t = 2177685 ms, current time = 3.172
+r_a1b2 = 5291 mm  at t = 2177617 ms, current time = 3.189
+r_b1b2 = 6176 mm  at t = 2177718 ms, current time = 3.205
+r_a1a2 = drop 
+r_b1a2 = 5398 mm  at t = 2177794 ms, current time = 3.282
+r_a1b2 = 5375 mm  at t = 2177727 ms, current time = 3.298
+r_b1b2 = 6176 mm  at t = 2177828 ms, current time = 3.316
+r_a1a2 = 4396 mm  at t = 2177811 ms, current time = 3.382
+r_b1a2 = 5323 mm  at t = 2177912 ms, current time = 3.399
+r_a1b2 = 5361 mm  at t = 2177844 ms, current time = 3.415
+r_b1b2 = 6171 mm  at t = 2177945 ms, current time = 3.432
+r_a1a2 = 4396 mm  at t = 2177928 ms, current time = 3.499
+r_b1a2 = 5295 mm  at t = 2178028 ms, current time = 3.515
+r_a1b2 = 5295 mm  at t = 2177960 ms, current time = 3.533
+r_b1b2 = 6199 mm  at t = 2178062 ms, current time = 3.549
+r_a1a2 = 4377 mm  at t = 2178044 ms, current time = 3.616
+r_b1a2 = 5333 mm  at t = 2178145 ms, current time = 3.633
+r_a1b2 = 5389 mm  at t = 2178078 ms, current time = 3.65
+r_b1b2 = 6185 mm  at t = 2178179 ms, current time = 3.667
+r_a1a2 = 4391 mm  at t = 2178162 ms, current time = 3.733
+r_b1a2 = 5417 mm  at t = 2178262 ms, current time = 3.75
+r_a1b2 = drop 
+r_b1b2 = 6176 mm  at t = 2178288 ms, current time = 3.776
+r_a1a2 = 4349 mm  at t = 2178271 ms, current time = 3.843
+r_b1a2 = 5356 mm  at t = 2178372 ms, current time = 3.86
+r_a1b2 = 5389 mm  at t = 2178304 ms, current time = 3.877
+r_b1b2 = 6166 mm  at t = 2178406 ms, current time = 3.893
+r_a1a2 = 4373 mm  at t = 2178388 ms, current time = 3.96
+r_b1a2 = 5342 mm  at t = 2178489 ms, current time = 3.976
+r_a1b2 = 5427 mm  at t = 2178421 ms, current time = 3.993
+r_b1b2 = drop 
+r_a1a2 = 4358 mm  at t = 2178497 ms, current time = 4.07
+r_b1a2 = 5375 mm  at t = 2178599 ms, current time = 4.087
+r_a1b2 = 5413 mm  at t = 2178531 ms, current time = 4.103
+r_b1b2 = 6190 mm  at t = 2178631 ms, current time = 4.12
+r_a1a2 = 4349 mm  at t = 2178614 ms, current time = 4.187
+r_b1a2 = 5356 mm  at t = 2178715 ms, current time = 4.203
+r_a1b2 = 5159 mm  at t = 2178647 ms, current time = 4.219
+r_b1b2 = drop 
+r_a1a2 = 4274 mm  at t = 2178723 ms, current time = 4.295
+r_b1a2 = drop 
+r_a1b2 = 5413 mm  at t = 2178749 ms, current time = 4.321
+r_b1b2 = 6185 mm  at t = 2178849 ms, current time = 4.337
+r_a1a2 = 4344 mm  at t = 2178831 ms, current time = 4.404
+r_b1a2 = 5408 mm  at t = 2178932 ms, current time = 4.421
+r_a1b2 = 5295 mm  at t = 2178865 ms, current time = 4.437
+r_b1b2 = 6237 mm  at t = 2178965 ms, current time = 4.454
+r_a1a2 = 4321 mm  at t = 2178948 ms, current time = 4.52
+r_b1a2 = drop 
+r_a1b2 = 5333 mm  at t = 2178973 ms, current time = 4.546
+r_b1b2 = 6166 mm  at t = 2179074 ms, current time = 4.563
+r_a1a2 = drop 
+r_b1a2 = 5356 mm  at t = 2179151 ms, current time = 4.639
+r_a1b2 = 5436 mm  at t = 2179083 ms, current time = 4.656
+r_b1b2 = 6185 mm  at t = 2179184 ms, current time = 4.673
+r_a1a2 = 4307 mm  at t = 2179167 ms, current time = 4.74
+r_b1a2 = 5394 mm  at t = 2179268 ms, current time = 4.756
+r_a1b2 = 5028 mm  at t = 2179200 ms, current time = 4.773
+r_b1b2 = 6199 mm  at t = 2179301 ms, current time = 4.79
+r_a1a2 = 4368 mm  at t = 2179284 ms, current time = 4.857
+r_b1a2 = 5375 mm  at t = 2179384 ms, current time = 4.874
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4358 mm  at t = 2179388 ms, current time = 4.961
+r_b1a2 = 5352 mm  at t = 2179489 ms, current time = 4.978
+r_a1b2 = 5047 mm  at t = 2179422 ms, current time = 4.996
+r_b1b2 = 6213 mm  at t = 2179524 ms, current time = 5.013
+r_a1a2 = 4307 mm  at t = 2179507 ms, current time = 5.08
+r_b1a2 = 5389 mm  at t = 2179608 ms, current time = 5.097
+r_a1b2 = drop 
+r_b1b2 = 6218 mm  at t = 2179636 ms, current time = 5.125
+r_a1a2 = 4297 mm  at t = 2179618 ms, current time = 5.192
+r_b1a2 = 5384 mm  at t = 2179720 ms, current time = 5.209
+r_a1b2 = drop 
+r_b1b2 = 6213 mm  at t = 2179747 ms, current time = 5.236
+r_a1a2 = 4335 mm  at t = 2179730 ms, current time = 5.303
+r_b1a2 = 5328 mm  at t = 2179830 ms, current time = 5.319
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4326 mm  at t = 2179839 ms, current time = 5.413
+r_b1a2 = 5413 mm  at t = 2179940 ms, current time = 5.429
+r_a1b2 = 5333 mm  at t = 2179872 ms, current time = 5.445
+r_b1b2 = 6166 mm  at t = 2179972 ms, current time = 5.461
+r_a1a2 = drop 
+r_b1a2 = 5380 mm  at t = 2180048 ms, current time = 5.537
+r_a1b2 = 5319 mm  at t = 2179980 ms, current time = 5.554
+r_b1b2 = 6199 mm  at t = 2180081 ms, current time = 5.571
+r_a1a2 = 4297 mm  at t = 2180064 ms, current time = 5.638
+r_b1a2 = 5375 mm  at t = 2180165 ms, current time = 5.654
+r_a1b2 = 5272 mm  at t = 2180097 ms, current time = 5.671
+r_b1b2 = 6181 mm  at t = 2180198 ms, current time = 5.688
+r_a1a2 = 4326 mm  at t = 2180181 ms, current time = 5.755
+r_b1a2 = 5403 mm  at t = 2180282 ms, current time = 5.772
+r_a1b2 = drop 
+r_b1b2 = 6166 mm  at t = 2180309 ms, current time = 5.799
+r_a1a2 = 4321 mm  at t = 2180292 ms, current time = 5.866
+r_b1a2 = drop 
+r_a1b2 = 5361 mm  at t = 2180318 ms, current time = 5.892
+r_b1b2 = 6166 mm  at t = 2180419 ms, current time = 5.909
+r_a1a2 = 4349 mm  at t = 2180402 ms, current time = 5.976
+r_b1a2 = 5352 mm  at t = 2180503 ms, current time = 5.993
+r_a1b2 = 5488 mm  at t = 2180436 ms, current time = 6.01
+r_b1b2 = 6213 mm  at t = 2180537 ms, current time = 6.027
+r_a1a2 = 4330 mm  at t = 2180520 ms, current time = 6.094
+r_b1a2 = drop 
+r_a1b2 = 5262 mm  at t = 2180546 ms, current time = 6.121
+r_b1b2 = 6181 mm  at t = 2180647 ms, current time = 6.138
+r_a1a2 = drop 
+r_b1a2 = 5366 mm  at t = 2180725 ms, current time = 6.218
+r_a1b2 = 5553 mm  at t = 2180660 ms, current time = 6.235
+r_b1b2 = 6232 mm  at t = 2180761 ms, current time = 6.252
+r_a1a2 = 4321 mm  at t = 2180745 ms, current time = 6.32
+r_b1a2 = 5427 mm  at t = 2180846 ms, current time = 6.337
+r_a1b2 = 5328 mm  at t = 2180779 ms, current time = 6.353
+r_b1b2 = 6166 mm  at t = 2180879 ms, current time = 6.369
+r_a1a2 = 4326 mm  at t = 2180861 ms, current time = 6.437
+r_b1a2 = 5394 mm  at t = 2180964 ms, current time = 6.455
+r_a1b2 = 5492 mm  at t = 2180898 ms, current time = 6.473
+r_b1b2 = 6152 mm  at t = 2180999 ms, current time = 6.489
+r_a1a2 = 4344 mm  at t = 2180981 ms, current time = 6.556
+r_b1a2 = 5356 mm  at t = 2181083 ms, current time = 6.573
+r_a1b2 = drop 
+r_b1b2 = 6166 mm  at t = 2181108 ms, current time = 6.599
+r_a1a2 = 4344 mm  at t = 2181091 ms, current time = 6.666
+r_b1a2 = 5380 mm  at t = 2181192 ms, current time = 6.682
+r_a1b2 = 5291 mm  at t = 2181124 ms, current time = 6.7
+r_b1b2 = 6171 mm  at t = 2181227 ms, current time = 6.717
+r_a1a2 = 4297 mm  at t = 2181209 ms, current time = 6.784
+r_b1a2 = 5366 mm  at t = 2181310 ms, current time = 6.801
+r_a1b2 = 5337 mm  at t = 2181243 ms, current time = 6.818
+r_b1b2 = 6157 mm  at t = 2181344 ms, current time = 6.835
+r_a1a2 = 4387 mm  at t = 2181327 ms, current time = 6.902
+r_b1a2 = 5417 mm  at t = 2181428 ms, current time = 6.919
+r_a1b2 = 5323 mm  at t = 2181361 ms, current time = 6.936
+r_b1b2 = 6237 mm  at t = 2181462 ms, current time = 6.953
+r_a1a2 = 4358 mm  at t = 2181445 ms, current time = 7.02
+r_b1a2 = 5366 mm  at t = 2181546 ms, current time = 7.037
+r_a1b2 = drop 
+r_b1b2 = 6241 mm  at t = 2181572 ms, current time = 7.063
+r_a1a2 = 4387 mm  at t = 2181555 ms, current time = 7.13
+r_b1a2 = 5427 mm  at t = 2181656 ms, current time = 7.147
+r_a1b2 = 5398 mm  at t = 2181588 ms, current time = 7.163
+r_b1b2 = 6251 mm  at t = 2181689 ms, current time = 7.18
+r_a1a2 = 4335 mm  at t = 2181672 ms, current time = 7.247
+r_b1a2 = 5413 mm  at t = 2181773 ms, current time = 7.264
+r_a1b2 = 4907 mm  at t = 2181705 ms, current time = 7.28
+r_b1b2 = 6265 mm  at t = 2181806 ms, current time = 7.297
+r_a1a2 = 4396 mm  at t = 2181788 ms, current time = 7.364
+r_b1a2 = 5436 mm  at t = 2181889 ms, current time = 7.381
+r_a1b2 = 5600 mm  at t = 2181822 ms, current time = 7.397
+r_b1b2 = 6251 mm  at t = 2181923 ms, current time = 7.414
+r_a1a2 = 4410 mm  at t = 2181905 ms, current time = 7.481
+r_b1a2 = 5450 mm  at t = 2182006 ms, current time = 7.498
+r_a1b2 = 6640 mm  at t = 2181939 ms, current time = 7.515
+r_b1b2 = drop 
+r_a1a2 = 4401 mm  at t = 2182016 ms, current time = 7.593
+r_b1a2 = 5375 mm  at t = 2182118 ms, current time = 7.61
+r_a1b2 = drop 
+r_b1b2 = 6265 mm  at t = 2182145 ms, current time = 7.637
+r_a1a2 = drop 
+r_b1a2 = 5408 mm  at t = 2182222 ms, current time = 7.713
+r_a1b2 = drop 
+r_b1b2 = 6213 mm  at t = 2182249 ms, current time = 7.741
+r_a1a2 = 4382 mm  at t = 2182232 ms, current time = 7.808
+r_b1a2 = 5389 mm  at t = 2182333 ms, current time = 7.825
+r_a1b2 = drop 
+r_b1b2 = 6246 mm  at t = 2182359 ms, current time = 7.851
+r_a1a2 = 4110 mm  at t = 2182341 ms, current time = 7.917
+r_b1a2 = drop 
+r_a1b2 = 5234 mm  at t = 2182367 ms, current time = 7.943
+r_b1b2 = 6199 mm  at t = 2182468 ms, current time = 7.959
+r_a1a2 = 4560 mm  at t = 2182450 ms, current time = 8.026
+r_b1a2 = 5389 mm  at t = 2182551 ms, current time = 8.043
+r_a1b2 = 5281 mm  at t = 2182483 ms, current time = 8.06
+r_b1b2 = 6213 mm  at t = 2182584 ms, current time = 8.076
+r_a1a2 = 4513 mm  at t = 2182567 ms, current time = 8.143
+r_b1a2 = 5398 mm  at t = 2182668 ms, current time = 8.16
+r_a1b2 = 5244 mm  at t = 2182601 ms, current time = 8.177
+r_b1b2 = 6270 mm  at t = 2182702 ms, current time = 8.194
+r_a1a2 = 4419 mm  at t = 2182685 ms, current time = 8.261
+r_b1a2 = 5295 mm  at t = 2182786 ms, current time = 8.278
+r_a1b2 = 5197 mm  at t = 2182718 ms, current time = 8.294
+r_b1b2 = 5993 mm  at t = 2182819 ms, current time = 8.311
+r_a1a2 = 4293 mm  at t = 2182801 ms, current time = 8.378
+r_b1a2 = 5258 mm  at t = 2182903 ms, current time = 8.395
+r_a1b2 = 5150 mm  at t = 2182835 ms, current time = 8.412
+r_b1b2 = 6134 mm  at t = 2182937 ms, current time = 8.429
+r_a1a2 = 4326 mm  at t = 2182920 ms, current time = 8.496
+r_b1a2 = 5281 mm  at t = 2183021 ms, current time = 8.513
+r_a1b2 = 5117 mm  at t = 2182954 ms, current time = 8.531
+r_b1b2 = 5923 mm  at t = 2183055 ms, current time = 8.548
+r_a1a2 = 4316 mm  at t = 2183038 ms, current time = 8.615
+r_b1a2 = 5201 mm  at t = 2183139 ms, current time = 8.632
+r_a1b2 = 5117 mm  at t = 2183072 ms, current time = 8.648
+r_b1b2 = 5858 mm  at t = 2183173 ms, current time = 8.666
+r_a1a2 = 4354 mm  at t = 2183156 ms, current time = 8.732
+r_b1a2 = 5277 mm  at t = 2183256 ms, current time = 8.748
+r_a1b2 = 5173 mm  at t = 2183188 ms, current time = 8.765
+r_b1b2 = 5923 mm  at t = 2183289 ms, current time = 8.781
+r_a1a2 = 4171 mm  at t = 2183271 ms, current time = 8.848
+r_b1a2 = 5281 mm  at t = 2183372 ms, current time = 8.864
+r_a1b2 = 5239 mm  at t = 2183304 ms, current time = 8.881
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5305 mm  at t = 2183473 ms, current time = 8.965
+r_a1b2 = 5023 mm  at t = 2183404 ms, current time = 8.982
+r_b1b2 = 6237 mm  at t = 2183506 ms, current time = 8.999
+r_a1a2 = 4509 mm  at t = 2183489 ms, current time = 9.066
+r_b1a2 = 5403 mm  at t = 2183590 ms, current time = 9.082
+r_a1b2 = 5136 mm  at t = 2183522 ms, current time = 9.099
+r_b1b2 = 6218 mm  at t = 2183623 ms, current time = 9.117
+r_a1a2 = 4424 mm  at t = 2183606 ms, current time = 9.184
+r_b1a2 = 5398 mm  at t = 2183708 ms, current time = 9.201
+r_a1b2 = 5197 mm  at t = 2183640 ms, current time = 9.217
+r_b1b2 = 5881 mm  at t = 2183741 ms, current time = 9.233
+r_a1a2 = 4480 mm  at t = 2183723 ms, current time = 9.3
+r_b1a2 = 5384 mm  at t = 2183823 ms, current time = 9.316
+r_a1b2 = 5145 mm  at t = 2183755 ms, current time = 9.333
+r_b1b2 = 6068 mm  at t = 2183857 ms, current time = 9.35
+r_a1a2 = 4672 mm  at t = 2183839 ms, current time = 9.416
+r_b1a2 = 5394 mm  at t = 2183940 ms, current time = 9.433
+r_a1b2 = 5164 mm  at t = 2183872 ms, current time = 9.449
+r_b1b2 = 6077 mm  at t = 2183973 ms, current time = 9.466
+r_a1a2 = 4214 mm  at t = 2183955 ms, current time = 9.532
+r_b1a2 = 5389 mm  at t = 2184055 ms, current time = 9.549
+r_a1b2 = 5126 mm  at t = 2183988 ms, current time = 9.565
+r_b1b2 = 6049 mm  at t = 2184089 ms, current time = 9.582
+r_a1a2 = 4274 mm  at t = 2184072 ms, current time = 9.649
+r_b1a2 = drop 
+r_a1b2 = 5192 mm  at t = 2184098 ms, current time = 9.675
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5375 mm  at t = 2184268 ms, current time = 9.761
+r_a1b2 = 5244 mm  at t = 2184200 ms, current time = 9.778
+r_b1b2 = drop 
+r_a1a2 = 4452 mm  at t = 2184277 ms, current time = 9.855
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 6298 mm  at t = 2184397 ms, current time = 9.891
+r_a1a2 = 4452 mm  at t = 2184380 ms, current time = 9.958
+r_b1a2 = drop 
+r_a1b2 = 4977 mm  at t = 2184407 ms, current time = 9.984
+r_b1b2 = drop 
+r_a1a2 = 4261 mm  at t = 2184483 ms, current time = 10.061
+r_b1a2 = 5361 mm  at t = 2184584 ms, current time = 10.077
+r_a1b2 = 5183 mm  at t = 2184516 ms, current time = 10.094
+r_b1b2 = 6049 mm  at t = 2184616 ms, current time = 10.11
+r_a1a2 = 4153 mm  at t = 2184599 ms, current time = 10.178
+r_b1a2 = 5366 mm  at t = 2184701 ms, current time = 10.195
+r_a1b2 = 5248 mm  at t = 2184634 ms, current time = 10.211
+r_b1b2 = 6143 mm  at t = 2184734 ms, current time = 10.228
+r_a1a2 = 4246 mm  at t = 2184717 ms, current time = 10.295
+r_b1a2 = 5375 mm  at t = 2184817 ms, current time = 10.311
+r_a1b2 = 5305 mm  at t = 2184750 ms, current time = 10.328
+r_b1b2 = 6091 mm  at t = 2184851 ms, current time = 10.345
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5065 mm  at t = 2184853 ms, current time = 10.431
+r_b1b2 = 6143 mm  at t = 2184953 ms, current time = 10.448
+r_a1a2 = 4480 mm  at t = 2184936 ms, current time = 10.514
+r_b1a2 = 5239 mm  at t = 2185037 ms, current time = 10.531
+r_a1b2 = 4930 mm  at t = 2184969 ms, current time = 10.548
+r_b1b2 = 6105 mm  at t = 2185070 ms, current time = 10.566
+r_a1a2 = 4232 mm  at t = 2185054 ms, current time = 10.632
+r_b1a2 = 5309 mm  at t = 2185154 ms, current time = 10.648
+r_a1b2 = drop 
+r_b1b2 = 6007 mm  at t = 2185179 ms, current time = 10.673
+r_a1a2 = 4391 mm  at t = 2185162 ms, current time = 10.74
+r_b1a2 = drop 
+r_a1b2 = 5248 mm  at t = 2185187 ms, current time = 10.766
+r_b1b2 = 6035 mm  at t = 2185288 ms, current time = 10.783
+r_a1a2 = 4429 mm  at t = 2185271 ms, current time = 10.85
+r_b1a2 = 5272 mm  at t = 2185372 ms, current time = 10.866
+r_a1b2 = 5197 mm  at t = 2185304 ms, current time = 10.883
+r_b1b2 = 6021 mm  at t = 2185405 ms, current time = 10.9
+r_a1a2 = 4396 mm  at t = 2185388 ms, current time = 10.967
+r_b1a2 = 5319 mm  at t = 2185489 ms, current time = 10.984
+r_a1b2 = 5225 mm  at t = 2185422 ms, current time = 11.001
+r_b1b2 = drop 
+r_a1a2 = 4223 mm  at t = 2185499 ms, current time = 11.078
+r_b1a2 = 5305 mm  at t = 2185600 ms, current time = 11.096
+r_a1b2 = 5328 mm  at t = 2185533 ms, current time = 11.113
+r_b1b2 = 6063 mm  at t = 2185635 ms, current time = 11.13
+r_a1a2 = 4279 mm  at t = 2185618 ms, current time = 11.197
+r_b1a2 = 5314 mm  at t = 2185719 ms, current time = 11.213
+r_a1b2 = 5070 mm  at t = 2185651 ms, current time = 11.229
+r_b1b2 = 6082 mm  at t = 2185751 ms, current time = 11.246
+r_a1a2 = 4275 mm  at t = 2185733 ms, current time = 11.313
+r_b1a2 = 5281 mm  at t = 2185835 ms, current time = 11.33
+r_a1b2 = 5014 mm  at t = 2185767 ms, current time = 11.347
+r_b1b2 = 6026 mm  at t = 2185868 ms, current time = 11.363
+r_a1a2 = 4256 mm  at t = 2185851 ms, current time = 11.431
+r_b1a2 = 5300 mm  at t = 2185952 ms, current time = 11.448
+r_a1b2 = drop 
+r_b1b2 = 6068 mm  at t = 2185978 ms, current time = 11.473
+r_a1a2 = 4261 mm  at t = 2185961 ms, current time = 11.54
+r_b1a2 = 5300 mm  at t = 2186062 ms, current time = 11.556
+r_a1b2 = 5295 mm  at t = 2185994 ms, current time = 11.573
+r_b1b2 = 6035 mm  at t = 2186094 ms, current time = 11.589
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5295 mm  at t = 2186096 ms, current time = 11.676
+r_b1b2 = 6059 mm  at t = 2186197 ms, current time = 11.693
+r_a1a2 = 4340 mm  at t = 2186180 ms, current time = 11.76
+r_b1a2 = drop 
+r_a1b2 = 5248 mm  at t = 2186207 ms, current time = 11.786
+r_b1b2 = 6077 mm  at t = 2186308 ms, current time = 11.803
+r_a1a2 = 4373 mm  at t = 2186290 ms, current time = 11.87
+r_b1a2 = 5291 mm  at t = 2186391 ms, current time = 11.887
+r_a1b2 = 5244 mm  at t = 2186324 ms, current time = 11.904
+r_b1b2 = 6096 mm  at t = 2186425 ms, current time = 11.92
+r_a1a2 = 4401 mm  at t = 2186407 ms, current time = 11.987
+r_b1a2 = 5286 mm  at t = 2186508 ms, current time = 12.004
+r_a1b2 = 5206 mm  at t = 2186441 ms, current time = 12.025
+r_b1b2 = 6105 mm  at t = 2186547 ms, current time = 12.042
+r_a1a2 = 4373 mm  at t = 2186529 ms, current time = 12.109
+r_b1a2 = 5234 mm  at t = 2186630 ms, current time = 12.125
+r_a1b2 = 5234 mm  at t = 2186562 ms, current time = 12.142
+r_b1b2 = 6110 mm  at t = 2186663 ms, current time = 12.159
+r_a1a2 = 4307 mm  at t = 2186645 ms, current time = 12.226
+r_b1a2 = drop 
+r_a1b2 = 5131 mm  at t = 2186671 ms, current time = 12.251
+r_b1b2 = 6105 mm  at t = 2186771 ms, current time = 12.267
+r_a1a2 = 4218 mm  at t = 2186754 ms, current time = 12.334
+r_b1a2 = 5291 mm  at t = 2186855 ms, current time = 12.351
+r_a1b2 = 5122 mm  at t = 2186788 ms, current time = 12.368
+r_b1b2 = 6148 mm  at t = 2186888 ms, current time = 12.384
+r_a1a2 = 4283 mm  at t = 2186871 ms, current time = 12.451
+r_b1a2 = 5319 mm  at t = 2186972 ms, current time = 12.468
+r_a1b2 = 5244 mm  at t = 2186904 ms, current time = 12.484
+r_b1b2 = 6120 mm  at t = 2187005 ms, current time = 12.501
+r_a1a2 = 4181 mm  at t = 2186987 ms, current time = 12.568
+r_b1a2 = 5267 mm  at t = 2187088 ms, current time = 12.586
+r_a1b2 = drop 
+r_b1b2 = 6105 mm  at t = 2187116 ms, current time = 12.613
+r_a1a2 = 4200 mm  at t = 2187099 ms, current time = 12.679
+r_b1a2 = 5239 mm  at t = 2187200 ms, current time = 12.696
+r_a1b2 = 4996 mm  at t = 2187132 ms, current time = 12.713
+r_b1b2 = 6096 mm  at t = 2187233 ms, current time = 12.729
+r_a1a2 = 4321 mm  at t = 2187216 ms, current time = 12.796
+r_b1a2 = 5140 mm  at t = 2187316 ms, current time = 12.812
+r_a1b2 = 4982 mm  at t = 2187248 ms, current time = 12.829
+r_b1b2 = 6115 mm  at t = 2187349 ms, current time = 12.845
+r_a1a2 = 4387 mm  at t = 2187332 ms, current time = 12.912
+r_b1a2 = 5211 mm  at t = 2187432 ms, current time = 12.928
+r_a1b2 = 4991 mm  at t = 2187364 ms, current time = 12.945
+r_b1b2 = 6096 mm  at t = 2187465 ms, current time = 12.962
+r_a1a2 = 4358 mm  at t = 2187448 ms, current time = 13.028
+r_b1a2 = 5342 mm  at t = 2187548 ms, current time = 13.045
+r_a1b2 = 4958 mm  at t = 2187481 ms, current time = 13.062
+r_b1b2 = 6068 mm  at t = 2187582 ms, current time = 13.078
+r_a1a2 = 4448 mm  at t = 2187564 ms, current time = 13.145
+r_b1a2 = 5394 mm  at t = 2187665 ms, current time = 13.161
+r_a1b2 = 5009 mm  at t = 2187597 ms, current time = 13.178
+r_b1b2 = 6040 mm  at t = 2187698 ms, current time = 13.195
+r_a1a2 = drop 
+r_b1a2 = 5445 mm  at t = 2187775 ms, current time = 13.272
+r_a1b2 = 4986 mm  at t = 2187708 ms, current time = 13.289
+r_b1b2 = 6059 mm  at t = 2187809 ms, current time = 13.306
+r_a1a2 = 4429 mm  at t = 2187792 ms, current time = 13.373
+r_b1a2 = 5384 mm  at t = 2187892 ms, current time = 13.389
+r_a1b2 = 5004 mm  at t = 2187825 ms, current time = 13.406
+r_b1b2 = drop 
+r_a1a2 = 4480 mm  at t = 2187901 ms, current time = 13.483
+r_b1a2 = 5347 mm  at t = 2188002 ms, current time = 13.499
+r_a1b2 = 5014 mm  at t = 2187934 ms, current time = 13.515
+r_b1b2 = 6176 mm  at t = 2188035 ms, current time = 13.533
+r_a1a2 = 4494 mm  at t = 2188018 ms, current time = 13.599
+r_b1a2 = 5333 mm  at t = 2188119 ms, current time = 13.616
+r_a1b2 = 4963 mm  at t = 2188051 ms, current time = 13.632
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5342 mm  at t = 2188222 ms, current time = 13.719
+r_a1b2 = 4996 mm  at t = 2188154 ms, current time = 13.736
+r_b1b2 = 6148 mm  at t = 2188256 ms, current time = 13.753
+r_a1a2 = 4480 mm  at t = 2188239 ms, current time = 13.82
+r_b1a2 = 5347 mm  at t = 2188339 ms, current time = 13.836
+r_a1b2 = 5047 mm  at t = 2188271 ms, current time = 13.853
+r_b1b2 = 6115 mm  at t = 2188372 ms, current time = 13.869
+r_a1a2 = 4466 mm  at t = 2188355 ms, current time = 13.936
+r_b1a2 = 5398 mm  at t = 2188456 ms, current time = 13.953
+r_a1b2 = 5140 mm  at t = 2188388 ms, current time = 13.97
+r_b1b2 = 5975 mm  at t = 2188489 ms, current time = 13.986
+r_a1a2 = 4494 mm  at t = 2188471 ms, current time = 14.053
+r_b1a2 = 5431 mm  at t = 2188572 ms, current time = 14.07
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4485 mm  at t = 2188574 ms, current time = 14.156
+r_b1a2 = 5450 mm  at t = 2188675 ms, current time = 14.172
+r_a1b2 = 5126 mm  at t = 2188607 ms, current time = 14.189
+r_b1b2 = 6059 mm  at t = 2188708 ms, current time = 14.206
+r_a1a2 = drop 
+r_b1a2 = 5370 mm  at t = 2188784 ms, current time = 14.283
+r_a1b2 = 5145 mm  at t = 2188718 ms, current time = 14.299
+r_b1b2 = 6007 mm  at t = 2188818 ms, current time = 14.316
+r_a1a2 = 4560 mm  at t = 2188800 ms, current time = 14.382
+r_b1a2 = 5309 mm  at t = 2188901 ms, current time = 14.399
+r_a1b2 = drop 
+r_b1b2 = 6073 mm  at t = 2188928 ms, current time = 14.426
+r_a1a2 = 4494 mm  at t = 2188910 ms, current time = 14.493
+r_b1a2 = drop 
+r_a1b2 = 5239 mm  at t = 2188937 ms, current time = 14.519
+r_b1b2 = 6077 mm  at t = 2189038 ms, current time = 14.537
+r_a1a2 = drop 
+r_b1a2 = 5305 mm  at t = 2189115 ms, current time = 14.613
+r_a1b2 = drop 
+r_b1b2 = 6040 mm  at t = 2189142 ms, current time = 14.639
+r_a1a2 = 4517 mm  at t = 2189124 ms, current time = 14.706
+r_b1a2 = 5333 mm  at t = 2189225 ms, current time = 14.724
+r_a1b2 = drop 
+r_b1b2 = 5970 mm  at t = 2189252 ms, current time = 14.751
+r_a1a2 = 4602 mm  at t = 2189235 ms, current time = 14.817
+r_b1a2 = 5356 mm  at t = 2189336 ms, current time = 14.834
+r_a1b2 = drop 
+r_b1b2 = 6059 mm  at t = 2189362 ms, current time = 14.86
+r_a1a2 = 4531 mm  at t = 2189344 ms, current time = 14.926
+r_b1a2 = drop 
+r_a1b2 = 5206 mm  at t = 2189370 ms, current time = 14.954
+r_b1b2 = 5979 mm  at t = 2189472 ms, current time = 14.971
+r_a1a2 = 4574 mm  at t = 2189455 ms, current time = 15.038
+r_b1a2 = 5352 mm  at t = 2189556 ms, current time = 15.054
+r_a1b2 = 5131 mm  at t = 2189488 ms, current time = 15.071
+r_b1b2 = 5993 mm  at t = 2189589 ms, current time = 15.087
+r_a1a2 = 4597 mm  at t = 2189571 ms, current time = 15.155
+r_b1a2 = 5286 mm  at t = 2189673 ms, current time = 15.171
+r_a1b2 = 5169 mm  at t = 2189605 ms, current time = 15.195
+r_b1b2 = 6040 mm  at t = 2189713 ms, current time = 15.211
+r_a1a2 = 4686 mm  at t = 2189695 ms, current time = 15.279
+r_b1a2 = 5183 mm  at t = 2189796 ms, current time = 15.297
+r_a1b2 = 5159 mm  at t = 2189731 ms, current time = 15.315
+r_b1b2 = 6021 mm  at t = 2189833 ms, current time = 15.332
+r_a1a2 = 4705 mm  at t = 2189815 ms, current time = 15.398
+r_b1a2 = 5248 mm  at t = 2189916 ms, current time = 15.415
+r_a1b2 = drop 
+r_b1b2 = 5942 mm  at t = 2189943 ms, current time = 15.442
+r_a1a2 = 4747 mm  at t = 2189926 ms, current time = 15.509
+r_b1a2 = 5319 mm  at t = 2190026 ms, current time = 15.526
+r_a1b2 = 5150 mm  at t = 2189959 ms, current time = 15.542
+r_b1b2 = 5904 mm  at t = 2190060 ms, current time = 15.559
+r_a1a2 = 4578 mm  at t = 2190043 ms, current time = 15.626
+r_b1a2 = 5145 mm  at t = 2190144 ms, current time = 15.643
+r_a1b2 = 5239 mm  at t = 2190076 ms, current time = 15.66
+r_b1b2 = 5961 mm  at t = 2190177 ms, current time = 15.676
+r_a1a2 = 4606 mm  at t = 2190160 ms, current time = 15.743
+r_b1a2 = 5065 mm  at t = 2190261 ms, current time = 15.76
+r_a1b2 = drop 
+r_b1b2 = 5979 mm  at t = 2190288 ms, current time = 15.788
+r_a1a2 = 4536 mm  at t = 2190271 ms, current time = 15.854
+r_b1a2 = 5065 mm  at t = 2190372 ms, current time = 15.871
+r_a1b2 = drop 
+r_b1b2 = 5876 mm  at t = 2190398 ms, current time = 15.897
+r_a1a2 = 4560 mm  at t = 2190380 ms, current time = 15.963
+r_b1a2 = 5037 mm  at t = 2190481 ms, current time = 15.982
+r_a1b2 = 5291 mm  at t = 2190415 ms, current time = 15.999
+r_b1b2 = 5811 mm  at t = 2190516 ms, current time = 16.016
+r_a1a2 = 4550 mm  at t = 2190499 ms, current time = 16.082
+r_b1a2 = 5103 mm  at t = 2190599 ms, current time = 16.099
+r_a1b2 = drop 
+r_b1b2 = 6002 mm  at t = 2190626 ms, current time = 16.126
+r_a1a2 = 4625 mm  at t = 2190609 ms, current time = 16.193
+r_b1a2 = 5070 mm  at t = 2190710 ms, current time = 16.21
+r_a1b2 = 5183 mm  at t = 2190643 ms, current time = 16.226
+r_b1b2 = 5839 mm  at t = 2190743 ms, current time = 16.243
+r_a1a2 = 4681 mm  at t = 2190726 ms, current time = 16.31
+r_b1a2 = 5089 mm  at t = 2190827 ms, current time = 16.326
+r_a1b2 = 5187 mm  at t = 2190759 ms, current time = 16.343
+r_b1b2 = 5778 mm  at t = 2190860 ms, current time = 16.36
+r_a1a2 = 4705 mm  at t = 2190842 ms, current time = 16.426
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4677 mm  at t = 2190938 ms, current time = 16.522
+r_b1a2 = 5510 mm  at t = 2191039 ms, current time = 16.538
+r_a1b2 = 5159 mm  at t = 2190971 ms, current time = 16.555
+r_b1b2 = 5707 mm  at t = 2191072 ms, current time = 16.571
+r_a1a2 = 4808 mm  at t = 2191054 ms, current time = 16.638
+r_b1a2 = drop 
+r_a1b2 = 5187 mm  at t = 2191079 ms, current time = 16.664
+r_b1b2 = 5712 mm  at t = 2191180 ms, current time = 16.68
+r_a1a2 = 4902 mm  at t = 2191163 ms, current time = 16.747
+r_b1a2 = 5422 mm  at t = 2191263 ms, current time = 16.763
+r_a1b2 = 5173 mm  at t = 2191195 ms, current time = 16.78
+r_b1b2 = drop 
+r_a1a2 = 4893 mm  at t = 2191271 ms, current time = 16.856
+r_b1a2 = drop 
+r_a1b2 = 5178 mm  at t = 2191298 ms, current time = 16.883
+r_b1b2 = 6040 mm  at t = 2191399 ms, current time = 16.899
+r_a1a2 = 4864 mm  at t = 2191382 ms, current time = 16.966
+r_b1a2 = 5384 mm  at t = 2191483 ms, current time = 16.983
+r_a1b2 = 5192 mm  at t = 2191415 ms, current time = 16.999
+r_b1b2 = 5961 mm  at t = 2191515 ms, current time = 17.015
+r_a1a2 = 4921 mm  at t = 2191497 ms, current time = 17.082
+r_b1a2 = 5347 mm  at t = 2191598 ms, current time = 17.099
+r_a1b2 = 5206 mm  at t = 2191530 ms, current time = 17.115
+r_b1b2 = 5933 mm  at t = 2191631 ms, current time = 17.131
+r_a1a2 = 4963 mm  at t = 2191613 ms, current time = 17.198
+r_b1a2 = 5300 mm  at t = 2191714 ms, current time = 17.215
+r_a1b2 = 5211 mm  at t = 2191646 ms, current time = 17.231
+r_b1b2 = 5909 mm  at t = 2191747 ms, current time = 17.247
+r_a1a2 = 4803 mm  at t = 2191729 ms, current time = 17.314
+r_b1a2 = 5347 mm  at t = 2191830 ms, current time = 17.331
+r_a1b2 = 5272 mm  at t = 2191762 ms, current time = 17.347
+r_b1b2 = 5886 mm  at t = 2191863 ms, current time = 17.364
+r_a1a2 = 4836 mm  at t = 2191846 ms, current time = 17.432
+r_b1a2 = 5375 mm  at t = 2191947 ms, current time = 17.448
+r_a1b2 = 5253 mm  at t = 2191879 ms, current time = 17.464
+r_b1b2 = drop 
+r_a1a2 = 4808 mm  at t = 2191956 ms, current time = 17.541
+r_b1a2 = 5370 mm  at t = 2192057 ms, current time = 17.558
+r_a1b2 = 5248 mm  at t = 2191989 ms, current time = 17.574
+r_b1b2 = 5867 mm  at t = 2192090 ms, current time = 17.591
+r_a1a2 = 4757 mm  at t = 2192072 ms, current time = 17.658
+r_b1a2 = 5361 mm  at t = 2192174 ms, current time = 17.674
+r_a1b2 = 5230 mm  at t = 2192106 ms, current time = 17.69
+r_b1b2 = 5886 mm  at t = 2192206 ms, current time = 17.707
+r_a1a2 = 4775 mm  at t = 2192188 ms, current time = 17.774
+r_b1a2 = 5300 mm  at t = 2192290 ms, current time = 17.792
+r_a1b2 = 5206 mm  at t = 2192223 ms, current time = 17.808
+r_b1b2 = drop 
+r_a1a2 = 4757 mm  at t = 2192299 ms, current time = 17.884
+r_b1a2 = 5281 mm  at t = 2192399 ms, current time = 17.9
+r_a1b2 = 5239 mm  at t = 2192331 ms, current time = 17.917
+r_b1b2 = drop 
+r_a1a2 = 4822 mm  at t = 2192407 ms, current time = 17.994
+r_b1a2 = drop 
+r_a1b2 = 5277 mm  at t = 2192434 ms, current time = 18.02
+r_b1b2 = 5895 mm  at t = 2192535 ms, current time = 18.036
+r_a1a2 = 4724 mm  at t = 2192517 ms, current time = 18.103
+r_b1a2 = 5281 mm  at t = 2192618 ms, current time = 18.119
+r_a1b2 = 5272 mm  at t = 2192550 ms, current time = 18.136
+r_b1b2 = 5862 mm  at t = 2192651 ms, current time = 18.152
+r_a1a2 = 4832 mm  at t = 2192633 ms, current time = 18.22
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 5937 mm  at t = 2192753 ms, current time = 18.255
+r_a1a2 = 4780 mm  at t = 2192736 ms, current time = 18.321
+r_b1a2 = 5319 mm  at t = 2192836 ms, current time = 18.337
+r_a1b2 = 5220 mm  at t = 2192768 ms, current time = 18.354
+r_b1b2 = 5909 mm  at t = 2192869 ms, current time = 18.37
+r_a1a2 = drop 
+r_b1a2 = 5291 mm  at t = 2192945 ms, current time = 18.447
+r_a1b2 = 5126 mm  at t = 2192877 ms, current time = 18.464
+r_b1b2 = 5900 mm  at t = 2192979 ms, current time = 18.48
+r_a1a2 = 4738 mm  at t = 2192961 ms, current time = 18.547
+r_b1a2 = drop 
+r_a1b2 = 5145 mm  at t = 2192987 ms, current time = 18.573
+r_b1b2 = 5918 mm  at t = 2193088 ms, current time = 18.59
+r_a1a2 = 4710 mm  at t = 2193071 ms, current time = 18.657
+r_b1a2 = 5281 mm  at t = 2193171 ms, current time = 18.674
+r_a1b2 = 5319 mm  at t = 2193104 ms, current time = 18.691
+r_b1b2 = 5956 mm  at t = 2193205 ms, current time = 18.709
+r_a1a2 = 4733 mm  at t = 2193189 ms, current time = 18.776
+r_b1a2 = 5253 mm  at t = 2193290 ms, current time = 18.792
+r_a1b2 = 5483 mm  at t = 2193222 ms, current time = 18.808
+r_b1b2 = 5956 mm  at t = 2193323 ms, current time = 18.825
+r_a1a2 = 4752 mm  at t = 2193305 ms, current time = 18.892
+r_b1a2 = 5244 mm  at t = 2193406 ms, current time = 18.908
+r_a1b2 = 5201 mm  at t = 2193338 ms, current time = 18.925
+r_b1b2 = 5890 mm  at t = 2193439 ms, current time = 18.941
+r_a1a2 = 4921 mm  at t = 2193421 ms, current time = 19.008
+r_b1a2 = 5258 mm  at t = 2193522 ms, current time = 19.024
+r_a1b2 = drop 
+r_b1b2 = 5848 mm  at t = 2193548 ms, current time = 19.05
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2193625 ms, current time = 19.127
+r_a1b2 = 5239 mm  at t = 2193557 ms, current time = 19.143
+r_b1b2 = 5890 mm  at t = 2193658 ms, current time = 19.16
+r_a1a2 = 4958 mm  at t = 2193640 ms, current time = 19.226
+r_b1a2 = drop 
+r_a1b2 = 5220 mm  at t = 2193665 ms, current time = 19.252
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2193836 ms, current time = 19.339
+r_a1b2 = 5220 mm  at t = 2193768 ms, current time = 19.356
+r_b1b2 = 5867 mm  at t = 2193870 ms, current time = 19.372
+r_a1a2 = 4958 mm  at t = 2193851 ms, current time = 19.438
+r_b1a2 = 5291 mm  at t = 2193952 ms, current time = 19.455
+r_a1b2 = 5211 mm  at t = 2193885 ms, current time = 19.471
+r_b1b2 = 5792 mm  at t = 2193985 ms, current time = 19.488
+r_a1a2 = 4907 mm  at t = 2193968 ms, current time = 19.555
+r_b1a2 = 5300 mm  at t = 2194069 ms, current time = 19.572
+r_a1b2 = 5234 mm  at t = 2194002 ms, current time = 19.589
+r_b1b2 = 5726 mm  at t = 2194103 ms, current time = 19.605
+r_a1a2 = 4949 mm  at t = 2194085 ms, current time = 19.673
+r_b1a2 = 5262 mm  at t = 2194187 ms, current time = 19.69
+r_a1b2 = 5201 mm  at t = 2194120 ms, current time = 19.707
+r_b1b2 = 6321 mm  at t = 2194221 ms, current time = 19.724
+r_a1a2 = 4846 mm  at t = 2194204 ms, current time = 19.792
+r_b1a2 = 5225 mm  at t = 2194306 ms, current time = 19.81
+r_a1b2 = 5225 mm  at t = 2194240 ms, current time = 19.828
+r_b1b2 = 6171 mm  at t = 2194342 ms, current time = 19.845
+r_a1a2 = 4696 mm  at t = 2194325 ms, current time = 19.913
+r_b1a2 = 5277 mm  at t = 2194426 ms, current time = 19.93
+r_a1b2 = 5286 mm  at t = 2194359 ms, current time = 19.946
+r_b1b2 = 6312 mm  at t = 2194460 ms, current time = 19.964
+r_a1a2 = 4658 mm  at t = 2194443 ms, current time = 20.031
+r_b1a2 = 5248 mm  at t = 2194545 ms, current time = 20.049
+r_a1b2 = 5206 mm  at t = 2194478 ms, current time = 20.066
+r_b1b2 = 6007 mm  at t = 2194579 ms, current time = 20.082
+r_a1a2 = 4728 mm  at t = 2194561 ms, current time = 20.149
+r_b1a2 = drop 
+r_a1b2 = 5192 mm  at t = 2194588 ms, current time = 20.176
+r_b1b2 = 5876 mm  at t = 2194689 ms, current time = 20.193
+r_a1a2 = 4672 mm  at t = 2194672 ms, current time = 20.259
+r_b1a2 = 5267 mm  at t = 2194773 ms, current time = 20.276
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4766 mm  at t = 2194774 ms, current time = 20.362
+r_b1a2 = 5267 mm  at t = 2194875 ms, current time = 20.378
+r_a1b2 = 5230 mm  at t = 2194807 ms, current time = 20.395
+r_b1b2 = 6349 mm  at t = 2194908 ms, current time = 20.412
+r_a1a2 = 4728 mm  at t = 2194891 ms, current time = 20.479
+r_b1a2 = 5248 mm  at t = 2194992 ms, current time = 20.496
+r_a1b2 = 5272 mm  at t = 2194924 ms, current time = 20.513
+r_b1b2 = 6237 mm  at t = 2195026 ms, current time = 20.529
+r_a1a2 = 4658 mm  at t = 2195008 ms, current time = 20.596
+r_b1a2 = 5262 mm  at t = 2195109 ms, current time = 20.612
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4663 mm  at t = 2195111 ms, current time = 20.699
+r_b1a2 = 5239 mm  at t = 2195212 ms, current time = 20.717
+r_a1b2 = 5197 mm  at t = 2195145 ms, current time = 20.733
+r_b1b2 = 5656 mm  at t = 2195246 ms, current time = 20.749
+r_a1a2 = 4846 mm  at t = 2195228 ms, current time = 20.816
+r_b1a2 = 5258 mm  at t = 2195329 ms, current time = 20.832
+r_a1b2 = 5192 mm  at t = 2195261 ms, current time = 20.849
+r_b1b2 = 5571 mm  at t = 2195361 ms, current time = 20.865
+r_a1a2 = drop 
+r_b1a2 = 5286 mm  at t = 2195437 ms, current time = 20.941
+r_a1b2 = 5234 mm  at t = 2195369 ms, current time = 20.957
+r_b1b2 = 5585 mm  at t = 2195470 ms, current time = 20.974
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2195546 ms, current time = 21.05
+r_a1b2 = 5155 mm  at t = 2195478 ms, current time = 21.067
+r_b1b2 = 5413 mm  at t = 2195579 ms, current time = 21.084
+r_a1a2 = 4832 mm  at t = 2195562 ms, current time = 21.151
+r_b1a2 = 5183 mm  at t = 2195663 ms, current time = 21.167
+r_a1b2 = 5197 mm  at t = 2195595 ms, current time = 21.184
+r_b1b2 = 6227 mm  at t = 2195696 ms, current time = 21.2
+r_a1a2 = 4752 mm  at t = 2195679 ms, current time = 21.267
+r_b1a2 = 5197 mm  at t = 2195779 ms, current time = 21.284
+r_a1b2 = 5244 mm  at t = 2195712 ms, current time = 21.301
+r_b1b2 = 5787 mm  at t = 2195813 ms, current time = 21.317
+r_a1a2 = 4827 mm  at t = 2195795 ms, current time = 21.384
+r_b1a2 = 5164 mm  at t = 2195896 ms, current time = 21.401
+r_a1b2 = 5206 mm  at t = 2195828 ms, current time = 21.418
+r_b1b2 = 5862 mm  at t = 2195930 ms, current time = 21.435
+r_a1a2 = 4775 mm  at t = 2195913 ms, current time = 21.502
+r_b1a2 = 5234 mm  at t = 2196014 ms, current time = 21.519
+r_a1b2 = 5253 mm  at t = 2195946 ms, current time = 21.538
+r_b1b2 = 6190 mm  at t = 2196050 ms, current time = 21.554
+r_a1a2 = 4728 mm  at t = 2196032 ms, current time = 21.621
+r_b1a2 = 5314 mm  at t = 2196133 ms, current time = 21.638
+r_a1b2 = 5281 mm  at t = 2196066 ms, current time = 21.655
+r_b1b2 = 6284 mm  at t = 2196167 ms, current time = 21.672
+r_a1a2 = 4667 mm  at t = 2196150 ms, current time = 21.74
+r_b1a2 = 5272 mm  at t = 2196252 ms, current time = 21.756
+r_a1b2 = 5300 mm  at t = 2196183 ms, current time = 21.772
+r_b1b2 = 5562 mm  at t = 2196284 ms, current time = 21.789
+r_a1a2 = 4724 mm  at t = 2196266 ms, current time = 21.856
+r_b1a2 = 5206 mm  at t = 2196368 ms, current time = 21.873
+r_a1b2 = 5281 mm  at t = 2196301 ms, current time = 21.89
+r_b1b2 = 5557 mm  at t = 2196401 ms, current time = 21.906
+r_a1a2 = 4696 mm  at t = 2196384 ms, current time = 21.973
+r_b1a2 = 5272 mm  at t = 2196485 ms, current time = 21.99
+r_a1b2 = 5281 mm  at t = 2196417 ms, current time = 22.006
+r_b1b2 = 5557 mm  at t = 2196518 ms, current time = 22.023
+r_a1a2 = 5005 mm  at t = 2196500 ms, current time = 22.09
+r_b1a2 = drop 
+r_a1b2 = 5295 mm  at t = 2196527 ms, current time = 22.116
+r_b1b2 = 5590 mm  at t = 2196628 ms, current time = 22.133
+r_a1a2 = 5258 mm  at t = 2196611 ms, current time = 22.201
+r_b1a2 = 5277 mm  at t = 2196712 ms, current time = 22.217
+r_a1b2 = 5183 mm  at t = 2196644 ms, current time = 22.234
+r_b1b2 = 5529 mm  at t = 2196745 ms, current time = 22.25
+r_a1a2 = 5014 mm  at t = 2196727 ms, current time = 22.317
+r_b1a2 = 5155 mm  at t = 2196829 ms, current time = 22.335
+r_a1b2 = 5286 mm  at t = 2196762 ms, current time = 22.351
+r_b1b2 = 5520 mm  at t = 2196862 ms, current time = 22.368
+r_a1a2 = 4996 mm  at t = 2196845 ms, current time = 22.436
+r_b1a2 = 5155 mm  at t = 2196947 ms, current time = 22.454
+r_a1b2 = 5262 mm  at t = 2196882 ms, current time = 22.473
+r_b1b2 = 5478 mm  at t = 2196984 ms, current time = 22.492
+r_a1a2 = 4977 mm  at t = 2196969 ms, current time = 22.56
+r_b1a2 = 5136 mm  at t = 2197070 ms, current time = 22.577
+r_a1b2 = 5169 mm  at t = 2197003 ms, current time = 22.594
+r_b1b2 = 5417 mm  at t = 2197105 ms, current time = 22.61
+r_a1a2 = 5122 mm  at t = 2197087 ms, current time = 22.677
+r_b1a2 = 5169 mm  at t = 2197188 ms, current time = 22.694
+r_a1b2 = 5112 mm  at t = 2197121 ms, current time = 22.711
+r_b1b2 = 5488 mm  at t = 2197222 ms, current time = 22.728
+r_a1a2 = 4972 mm  at t = 2197204 ms, current time = 22.795
+r_b1a2 = 5051 mm  at t = 2197306 ms, current time = 22.812
+r_a1b2 = 5117 mm  at t = 2197238 ms, current time = 22.828
+r_b1b2 = 5488 mm  at t = 2197339 ms, current time = 22.845
+r_a1a2 = 4944 mm  at t = 2197321 ms, current time = 22.912
+r_b1a2 = 5239 mm  at t = 2197422 ms, current time = 22.928
+r_a1b2 = 5155 mm  at t = 2197354 ms, current time = 22.945
+r_b1b2 = 5492 mm  at t = 2197456 ms, current time = 22.962
+r_a1a2 = 5019 mm  at t = 2197438 ms, current time = 23.028
+r_b1a2 = 5126 mm  at t = 2197538 ms, current time = 23.045
+r_a1b2 = 5230 mm  at t = 2197471 ms, current time = 23.063
+r_b1b2 = drop 
+r_a1a2 = 5075 mm  at t = 2197549 ms, current time = 23.14
+r_b1a2 = 5234 mm  at t = 2197650 ms, current time = 23.156
+r_a1b2 = drop 
+r_b1b2 = 5417 mm  at t = 2197677 ms, current time = 23.183
+r_a1a2 = 5126 mm  at t = 2197660 ms, current time = 23.251
+r_b1a2 = 5267 mm  at t = 2197761 ms, current time = 23.268
+r_a1b2 = 5211 mm  at t = 2197694 ms, current time = 23.285
+r_b1b2 = 5506 mm  at t = 2197795 ms, current time = 23.301
+r_a1a2 = 5126 mm  at t = 2197777 ms, current time = 23.367
+r_b1a2 = 5272 mm  at t = 2197878 ms, current time = 23.384
+r_a1b2 = 5239 mm  at t = 2197810 ms, current time = 23.401
+r_b1b2 = 5548 mm  at t = 2197911 ms, current time = 23.418
+r_a1a2 = 5075 mm  at t = 2197894 ms, current time = 23.485
+r_b1a2 = 5220 mm  at t = 2197995 ms, current time = 23.503
+r_a1b2 = 5309 mm  at t = 2197928 ms, current time = 23.52
+r_b1b2 = drop 
+r_a1a2 = 5014 mm  at t = 2198006 ms, current time = 23.597
+r_b1a2 = 5262 mm  at t = 2198107 ms, current time = 23.615
+r_a1b2 = 5267 mm  at t = 2198040 ms, current time = 23.631
+r_b1b2 = 5524 mm  at t = 2198141 ms, current time = 23.648
+r_a1a2 = 5019 mm  at t = 2198124 ms, current time = 23.715
+r_b1a2 = 5267 mm  at t = 2198225 ms, current time = 23.732
+r_a1b2 = 5267 mm  at t = 2198157 ms, current time = 23.749
+r_b1b2 = drop 
+r_a1a2 = 5075 mm  at t = 2198234 ms, current time = 23.825
+r_b1a2 = 5225 mm  at t = 2198334 ms, current time = 23.841
+r_a1b2 = 5305 mm  at t = 2198267 ms, current time = 23.858
+r_b1b2 = 5520 mm  at t = 2198367 ms, current time = 23.874
+r_a1a2 = 5014 mm  at t = 2198350 ms, current time = 23.942
+r_b1a2 = 5206 mm  at t = 2198452 ms, current time = 23.958
+r_a1b2 = 5253 mm  at t = 2198384 ms, current time = 23.975
+r_b1b2 = 5483 mm  at t = 2198484 ms, current time = 23.992
+r_a1a2 = 5084 mm  at t = 2198467 ms, current time = 24.059
+r_b1a2 = 5183 mm  at t = 2198568 ms, current time = 24.076
+r_a1b2 = 5230 mm  at t = 2198501 ms, current time = 24.092
+r_b1b2 = 5492 mm  at t = 2198602 ms, current time = 24.109
+r_a1a2 = 5009 mm  at t = 2198584 ms, current time = 24.178
+r_b1a2 = 5197 mm  at t = 2198687 ms, current time = 24.195
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4977 mm  at t = 2198689 ms, current time = 24.281
+r_b1a2 = drop 
+r_a1b2 = 5197 mm  at t = 2198715 ms, current time = 24.307
+r_b1b2 = 5413 mm  at t = 2198817 ms, current time = 24.324
+r_a1a2 = 5065 mm  at t = 2198799 ms, current time = 24.392
+r_b1a2 = 5192 mm  at t = 2198901 ms, current time = 24.408
+r_a1b2 = 5197 mm  at t = 2198833 ms, current time = 24.425
+r_b1b2 = 5356 mm  at t = 2198934 ms, current time = 24.441
+r_a1a2 = 5112 mm  at t = 2198916 ms, current time = 24.508
+r_b1a2 = 5178 mm  at t = 2199017 ms, current time = 24.525
+r_a1b2 = 5150 mm  at t = 2198949 ms, current time = 24.542
+r_b1b2 = 5347 mm  at t = 2199051 ms, current time = 24.559
+r_a1a2 = 5159 mm  at t = 2199034 ms, current time = 24.625
+r_b1a2 = 5173 mm  at t = 2199135 ms, current time = 24.642
+r_a1b2 = 5230 mm  at t = 2199067 ms, current time = 24.659
+r_b1b2 = 5380 mm  at t = 2199168 ms, current time = 24.676
+r_a1a2 = 5136 mm  at t = 2199151 ms, current time = 24.744
+r_b1a2 = 5169 mm  at t = 2199252 ms, current time = 24.761
+r_a1b2 = drop 
+r_b1b2 = 5342 mm  at t = 2199279 ms, current time = 24.787
+r_a1a2 = 5098 mm  at t = 2199261 ms, current time = 24.854
+r_b1a2 = 5169 mm  at t = 2199363 ms, current time = 24.871
+r_a1b2 = 5187 mm  at t = 2199296 ms, current time = 24.894
+r_b1b2 = 5337 mm  at t = 2199403 ms, current time = 24.911
+r_a1a2 = 5094 mm  at t = 2199386 ms, current time = 24.978
+r_b1a2 = 5197 mm  at t = 2199487 ms, current time = 24.995
+r_a1b2 = 5187 mm  at t = 2199419 ms, current time = 25.012
+r_b1b2 = 5291 mm  at t = 2199520 ms, current time = 25.028
+r_a1a2 = 5145 mm  at t = 2199503 ms, current time = 25.095
+r_b1a2 = 5192 mm  at t = 2199604 ms, current time = 25.113
+r_a1b2 = 5178 mm  at t = 2199537 ms, current time = 25.129
+r_b1b2 = 5309 mm  at t = 2199638 ms, current time = 25.146
+r_a1a2 = 5112 mm  at t = 2199621 ms, current time = 25.214
+r_b1a2 = 5225 mm  at t = 2199722 ms, current time = 25.23
+r_a1b2 = 5253 mm  at t = 2199654 ms, current time = 25.247
+r_b1b2 = 5314 mm  at t = 2199756 ms, current time = 25.264
+r_a1a2 = 5216 mm  at t = 2199738 ms, current time = 25.331
+r_b1a2 = 5220 mm  at t = 2199839 ms, current time = 25.348
+r_a1b2 = 5398 mm  at t = 2199772 ms, current time = 25.365
+r_b1b2 = 5305 mm  at t = 2199873 ms, current time = 25.381
+r_a1a2 = 5080 mm  at t = 2199855 ms, current time = 25.448
+r_b1a2 = 5197 mm  at t = 2199956 ms, current time = 25.465
+r_a1b2 = 5380 mm  at t = 2199889 ms, current time = 25.482
+r_b1b2 = 5291 mm  at t = 2199990 ms, current time = 25.498
+r_a1a2 = 5337 mm  at t = 2199972 ms, current time = 25.565
+r_b1a2 = 5187 mm  at t = 2200073 ms, current time = 25.582
+r_a1b2 = 5557 mm  at t = 2200005 ms, current time = 25.598
+r_b1b2 = 5286 mm  at t = 2200106 ms, current time = 25.614
+r_a1a2 = 5098 mm  at t = 2200088 ms, current time = 25.681
+r_b1a2 = 5211 mm  at t = 2200189 ms, current time = 25.698
+r_a1b2 = 5515 mm  at t = 2200121 ms, current time = 25.714
+r_b1b2 = 5244 mm  at t = 2200222 ms, current time = 25.73
+r_a1a2 = 5253 mm  at t = 2200204 ms, current time = 25.797
+r_b1a2 = 5192 mm  at t = 2200305 ms, current time = 25.813
+r_a1b2 = 5543 mm  at t = 2200236 ms, current time = 25.829
+r_b1b2 = drop 
+r_a1a2 = 5286 mm  at t = 2200311 ms, current time = 25.904
+r_b1a2 = 5159 mm  at t = 2200412 ms, current time = 25.921
+r_a1b2 = 5543 mm  at t = 2200345 ms, current time = 25.939
+r_b1b2 = 5248 mm  at t = 2200446 ms, current time = 25.955
+r_a1a2 = 5319 mm  at t = 2200429 ms, current time = 26.023
+r_b1a2 = 5155 mm  at t = 2200531 ms, current time = 26.04
+r_a1b2 = 5567 mm  at t = 2200463 ms, current time = 26.056
+r_b1b2 = 5305 mm  at t = 2200564 ms, current time = 26.073
+r_a1a2 = 5305 mm  at t = 2200546 ms, current time = 26.14
+r_b1a2 = 5173 mm  at t = 2200647 ms, current time = 26.156
+r_a1b2 = 5590 mm  at t = 2200579 ms, current time = 26.173
+r_b1b2 = 5314 mm  at t = 2200681 ms, current time = 26.19
+r_a1a2 = 5309 mm  at t = 2200663 ms, current time = 26.257
+r_b1a2 = 5164 mm  at t = 2200765 ms, current time = 26.273
+r_a1b2 = 5628 mm  at t = 2200697 ms, current time = 26.29
+r_b1b2 = 5319 mm  at t = 2200797 ms, current time = 26.306
+r_a1a2 = 5319 mm  at t = 2200780 ms, current time = 26.374
+r_b1a2 = 5178 mm  at t = 2200881 ms, current time = 26.39
+r_a1b2 = 5642 mm  at t = 2200813 ms, current time = 26.407
+r_b1b2 = 5300 mm  at t = 2200915 ms, current time = 26.424
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5679 mm  at t = 2200916 ms, current time = 26.51
+r_b1b2 = 5295 mm  at t = 2201017 ms, current time = 26.538
+r_a1a2 = 5220 mm  at t = 2201010 ms, current time = 26.604
+r_b1a2 = 5117 mm  at t = 2201111 ms, current time = 26.62
+r_a1b2 = 5853 mm  at t = 2201043 ms, current time = 26.636
+r_b1b2 = 5337 mm  at t = 2201143 ms, current time = 26.653
+r_a1a2 = 5262 mm  at t = 2201125 ms, current time = 26.719
+r_b1a2 = 5094 mm  at t = 2201226 ms, current time = 26.736
+r_a1b2 = 5600 mm  at t = 2201158 ms, current time = 26.752
+r_b1b2 = 5337 mm  at t = 2201259 ms, current time = 26.769
+r_a1a2 = 5309 mm  at t = 2201241 ms, current time = 26.835
+r_b1a2 = 5112 mm  at t = 2201342 ms, current time = 26.852
+r_a1b2 = 5628 mm  at t = 2201274 ms, current time = 26.869
+r_b1b2 = 5328 mm  at t = 2201376 ms, current time = 26.886
+r_a1a2 = drop 
+r_b1a2 = 5164 mm  at t = 2201453 ms, current time = 26.963
+r_a1b2 = drop 
+r_b1b2 = 5305 mm  at t = 2201480 ms, current time = 26.99
+r_a1a2 = 5309 mm  at t = 2201462 ms, current time = 27.057
+r_b1a2 = 5164 mm  at t = 2201564 ms, current time = 27.074
+r_a1b2 = drop 
+r_b1b2 = 5248 mm  at t = 2201591 ms, current time = 27.101
+r_a1a2 = 5333 mm  at t = 2201574 ms, current time = 27.168
+r_b1a2 = 5136 mm  at t = 2201675 ms, current time = 27.184
+r_a1b2 = 5441 mm  at t = 2201606 ms, current time = 27.201
+r_b1b2 = 5225 mm  at t = 2201708 ms, current time = 27.218
+r_a1a2 = 5394 mm  at t = 2201690 ms, current time = 27.285
+r_b1a2 = 5178 mm  at t = 2201791 ms, current time = 27.301
+r_a1b2 = 5431 mm  at t = 2201723 ms, current time = 27.318
+r_b1b2 = 5248 mm  at t = 2201825 ms, current time = 27.335
+r_a1a2 = 5408 mm  at t = 2201807 ms, current time = 27.402
+r_b1a2 = 5169 mm  at t = 2201909 ms, current time = 27.419
+r_a1b2 = 5403 mm  at t = 2201841 ms, current time = 27.435
+r_b1b2 = 5309 mm  at t = 2201942 ms, current time = 27.452
+r_a1a2 = 5450 mm  at t = 2201924 ms, current time = 27.519
+r_b1a2 = 5183 mm  at t = 2202025 ms, current time = 27.535
+r_a1b2 = 5408 mm  at t = 2201957 ms, current time = 27.553
+r_b1b2 = 5267 mm  at t = 2202059 ms, current time = 27.569
+r_a1a2 = 5389 mm  at t = 2202041 ms, current time = 27.636
+r_b1a2 = 5122 mm  at t = 2202142 ms, current time = 27.653
+r_a1b2 = 5403 mm  at t = 2202074 ms, current time = 27.669
+r_b1b2 = 5262 mm  at t = 2202175 ms, current time = 27.688
+r_a1a2 = 5413 mm  at t = 2202159 ms, current time = 27.755
+r_b1a2 = 5140 mm  at t = 2202262 ms, current time = 27.772
+r_a1b2 = 5328 mm  at t = 2202194 ms, current time = 27.789
+r_b1b2 = 5239 mm  at t = 2202295 ms, current time = 27.806
+r_a1a2 = 5380 mm  at t = 2202278 ms, current time = 27.873
+r_b1a2 = 5136 mm  at t = 2202379 ms, current time = 27.889
+r_a1b2 = 5216 mm  at t = 2202311 ms, current time = 27.906
+r_b1b2 = 5211 mm  at t = 2202412 ms, current time = 27.923
+r_a1a2 = 5403 mm  at t = 2202394 ms, current time = 27.989
+r_b1a2 = 5098 mm  at t = 2202495 ms, current time = 28.005
+r_a1b2 = 5173 mm  at t = 2202427 ms, current time = 28.022
+r_b1b2 = 5197 mm  at t = 2202528 ms, current time = 28.039
+r_a1a2 = 5450 mm  at t = 2202510 ms, current time = 28.106
+r_b1a2 = 5136 mm  at t = 2202612 ms, current time = 28.123
+r_a1b2 = 5797 mm  at t = 2202544 ms, current time = 28.139
+r_b1b2 = 5277 mm  at t = 2202645 ms, current time = 28.156
+r_a1a2 = drop 
+r_b1a2 = 5117 mm  at t = 2202722 ms, current time = 28.232
+r_a1b2 = 5488 mm  at t = 2202653 ms, current time = 28.249
+r_b1b2 = 5187 mm  at t = 2202754 ms, current time = 28.266
+r_a1a2 = 5492 mm  at t = 2202737 ms, current time = 28.333
+r_b1a2 = 5155 mm  at t = 2202838 ms, current time = 28.35
+r_a1b2 = 5483 mm  at t = 2202771 ms, current time = 28.367
+r_b1b2 = drop 
+r_a1a2 = 5474 mm  at t = 2202848 ms, current time = 28.453
+r_b1a2 = 5225 mm  at t = 2202959 ms, current time = 28.471
+r_a1b2 = 5323 mm  at t = 2202892 ms, current time = 28.493
+r_b1b2 = 5145 mm  at t = 2202999 ms, current time = 28.51
+r_a1a2 = 5323 mm  at t = 2202981 ms, current time = 28.578
+r_b1a2 = 5258 mm  at t = 2203083 ms, current time = 28.595
+r_a1b2 = 5356 mm  at t = 2203016 ms, current time = 28.612
+r_b1b2 = 5131 mm  at t = 2203117 ms, current time = 28.628
+r_a1a2 = 5342 mm  at t = 2203099 ms, current time = 28.695
+r_b1a2 = drop 
+r_a1b2 = 5309 mm  at t = 2203126 ms, current time = 28.722
+r_b1b2 = 5084 mm  at t = 2203227 ms, current time = 28.738
+r_a1a2 = 5417 mm  at t = 2203208 ms, current time = 28.804
+r_b1a2 = 5225 mm  at t = 2203309 ms, current time = 28.82
+r_a1b2 = drop 
+r_b1b2 = 5023 mm  at t = 2203335 ms, current time = 28.847
+r_a1a2 = 5408 mm  at t = 2203318 ms, current time = 28.915
+r_b1a2 = drop 
+r_a1b2 = 5309 mm  at t = 2203345 ms, current time = 28.94
+r_b1b2 = 5014 mm  at t = 2203445 ms, current time = 28.956
+r_a1a2 = 5366 mm  at t = 2203427 ms, current time = 29.023
+r_b1a2 = 5211 mm  at t = 2203528 ms, current time = 29.04
+r_a1b2 = 5291 mm  at t = 2203460 ms, current time = 29.056
+r_b1b2 = 5009 mm  at t = 2203561 ms, current time = 29.073
+r_a1a2 = 5422 mm  at t = 2203543 ms, current time = 29.139
+r_b1a2 = 5211 mm  at t = 2203644 ms, current time = 29.156
+r_a1b2 = 5333 mm  at t = 2203576 ms, current time = 29.173
+r_b1b2 = 5000 mm  at t = 2203678 ms, current time = 29.189
+r_a1a2 = 5488 mm  at t = 2203660 ms, current time = 29.256
+r_b1a2 = 5159 mm  at t = 2203761 ms, current time = 29.273
+r_a1b2 = 5305 mm  at t = 2203693 ms, current time = 29.289
+r_b1b2 = 4968 mm  at t = 2203794 ms, current time = 29.306
+r_a1a2 = 5567 mm  at t = 2203776 ms, current time = 29.374
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 5483 mm  at t = 2203873 ms, current time = 29.47
+r_b1a2 = 5098 mm  at t = 2203975 ms, current time = 29.487
+r_a1b2 = 5413 mm  at t = 2203907 ms, current time = 29.504
+r_b1b2 = 4850 mm  at t = 2204008 ms, current time = 29.52
+r_a1a2 = drop 
+r_b1a2 = 5140 mm  at t = 2204084 ms, current time = 29.596
+r_a1b2 = 5380 mm  at t = 2204016 ms, current time = 29.613
+r_b1b2 = 4841 mm  at t = 2204117 ms, current time = 29.629
+r_a1a2 = 5712 mm  at t = 2204099 ms, current time = 29.697
+r_b1a2 = 5216 mm  at t = 2204202 ms, current time = 29.714
+r_a1b2 = 5352 mm  at t = 2204134 ms, current time = 29.73
+r_b1b2 = 4893 mm  at t = 2204234 ms, current time = 29.749
+r_a1a2 = 5801 mm  at t = 2204218 ms, current time = 29.815
+r_b1a2 = 5155 mm  at t = 2204319 ms, current time = 29.832
+r_a1b2 = 5314 mm  at t = 2204251 ms, current time = 29.849
+r_b1b2 = 4893 mm  at t = 2204353 ms, current time = 29.865
+r_a1a2 = 5806 mm  at t = 2204335 ms, current time = 29.931
+r_b1a2 = 5211 mm  at t = 2204435 ms, current time = 29.948
+r_a1b2 = drop 
+r_b1b2 = 4921 mm  at t = 2204462 ms, current time = 29.975
+r_a1a2 = 5806 mm  at t = 2204444 ms, current time = 30.041
+r_b1a2 = 5216 mm  at t = 2204545 ms, current time = 30.058
+r_a1b2 = 5281 mm  at t = 2204477 ms, current time = 30.075
+r_b1b2 = 4860 mm  at t = 2204579 ms, current time = 30.091
+r_a1a2 = drop 
+r_b1a2 = 5239 mm  at t = 2204655 ms, current time = 30.168
+r_a1b2 = 5295 mm  at t = 2204587 ms, current time = 30.185
+r_b1b2 = 4869 mm  at t = 2204689 ms, current time = 30.202
+r_a1a2 = 5858 mm  at t = 2204671 ms, current time = 30.269
+r_b1a2 = 5230 mm  at t = 2204772 ms, current time = 30.285
+r_a1b2 = 5253 mm  at t = 2204704 ms, current time = 30.301
+r_b1b2 = 4874 mm  at t = 2204805 ms, current time = 30.318
+r_a1a2 = 5848 mm  at t = 2204787 ms, current time = 30.384
+r_b1a2 = drop 
+r_a1b2 = 5216 mm  at t = 2204813 ms, current time = 30.412
+r_b1b2 = 4846 mm  at t = 2204915 ms, current time = 30.428
+r_a1a2 = 5872 mm  at t = 2204898 ms, current time = 30.496
+r_b1a2 = 5262 mm  at t = 2204999 ms, current time = 30.513
+r_a1b2 = 5244 mm  at t = 2204931 ms, current time = 30.53
+r_b1b2 = 4846 mm  at t = 2205033 ms, current time = 30.546
+r_a1a2 = 5867 mm  at t = 2205015 ms, current time = 30.613
+r_b1a2 = 5248 mm  at t = 2205116 ms, current time = 30.629
+r_a1b2 = 5323 mm  at t = 2205048 ms, current time = 30.646
+r_b1b2 = 4860 mm  at t = 2205149 ms, current time = 30.663
+r_a1a2 = 5829 mm  at t = 2205132 ms, current time = 30.73
+r_b1a2 = drop 
+r_a1b2 = 5258 mm  at t = 2205158 ms, current time = 30.756
+r_b1b2 = 4832 mm  at t = 2205259 ms, current time = 30.773
+r_a1a2 = 5848 mm  at t = 2205241 ms, current time = 30.839
+r_b1a2 = 5277 mm  at t = 2205342 ms, current time = 30.855
+r_a1b2 = 5075 mm  at t = 2205274 ms, current time = 30.872
+r_b1b2 = 4832 mm  at t = 2205375 ms, current time = 30.889
+r_a1a2 = 5867 mm  at t = 2205357 ms, current time = 30.961
+r_b1a2 = 5277 mm  at t = 2205464 ms, current time = 30.978
+r_a1b2 = 4935 mm  at t = 2205396 ms, current time = 30.995
+r_b1b2 = drop 
+r_a1a2 = 5829 mm  at t = 2205473 ms, current time = 31.071
+r_b1a2 = drop 
+r_a1b2 = 4911 mm  at t = 2205497 ms, current time = 31.096
+r_b1b2 = 4738 mm  at t = 2205599 ms, current time = 31.114
+r_a1a2 = 5914 mm  at t = 2205582 ms, current time = 31.181
+r_b1a2 = drop 
+r_a1b2 = 4855 mm  at t = 2205608 ms, current time = 31.208
+r_b1b2 = 4710 mm  at t = 2205711 ms, current time = 31.226
+r_a1a2 = 5876 mm  at t = 2205694 ms, current time = 31.293
+r_b1a2 = 5272 mm  at t = 2205796 ms, current time = 31.309
+r_a1b2 = 4846 mm  at t = 2205727 ms, current time = 31.327
+r_b1b2 = 4719 mm  at t = 2205829 ms, current time = 31.343
+r_a1a2 = 5984 mm  at t = 2205811 ms, current time = 31.41
+r_b1a2 = 5323 mm  at t = 2205912 ms, current time = 31.426
+r_a1b2 = 5051 mm  at t = 2205845 ms, current time = 31.443
+r_b1b2 = 4677 mm  at t = 2205945 ms, current time = 31.459
+r_a1a2 = 5890 mm  at t = 2205928 ms, current time = 31.526
+r_b1a2 = 5281 mm  at t = 2206029 ms, current time = 31.543
+r_a1b2 = 5557 mm  at t = 2205961 ms, current time = 31.56
+r_b1b2 = 4691 mm  at t = 2206062 ms, current time = 31.577
+r_a1a2 = 5928 mm  at t = 2206045 ms, current time = 31.643
+r_b1a2 = 5314 mm  at t = 2206146 ms, current time = 31.66
+r_a1b2 = 5534 mm  at t = 2206078 ms, current time = 31.677
+r_b1b2 = 4691 mm  at t = 2206179 ms, current time = 31.693
+r_a1a2 = 5923 mm  at t = 2206161 ms, current time = 31.761
+r_b1a2 = 5314 mm  at t = 2206263 ms, current time = 31.779
+r_a1b2 = 5497 mm  at t = 2206197 ms, current time = 31.796
+r_b1b2 = 4635 mm  at t = 2206298 ms, current time = 31.812
+r_a1a2 = 5942 mm  at t = 2206280 ms, current time = 31.88
+r_b1a2 = 5239 mm  at t = 2206382 ms, current time = 31.896
+r_a1b2 = 5441 mm  at t = 2206314 ms, current time = 31.913
+r_b1b2 = 4667 mm  at t = 2206415 ms, current time = 31.929
+r_a1a2 = 5904 mm  at t = 2206397 ms, current time = 31.996
+r_b1a2 = 5225 mm  at t = 2206498 ms, current time = 32.012
+r_a1b2 = 5277 mm  at t = 2206430 ms, current time = 32.029
+r_b1b2 = drop 
+r_a1a2 = 5970 mm  at t = 2206507 ms, current time = 32.106
+r_b1a2 = 5277 mm  at t = 2206608 ms, current time = 32.124
+r_a1b2 = 5201 mm  at t = 2206541 ms, current time = 32.14
+r_b1b2 = 4606 mm  at t = 2206642 ms, current time = 32.157
+r_a1a2 = 6021 mm  at t = 2206624 ms, current time = 32.224
+r_b1a2 = 5258 mm  at t = 2206725 ms, current time = 32.24
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 5998 mm  at t = 2206727 ms, current time = 32.326
+r_b1a2 = 5492 mm  at t = 2206828 ms, current time = 32.343
+r_a1b2 = drop 
+r_b1b2 = 4574 mm  at t = 2206855 ms, current time = 32.37
+r_a1a2 = 6087 mm  at t = 2206837 ms, current time = 32.438
+r_b1a2 = drop 
+r_a1b2 = 4921 mm  at t = 2206865 ms, current time = 32.465
+r_b1b2 = 4531 mm  at t = 2206966 ms, current time = 32.481
+r_a1a2 = 5998 mm  at t = 2206949 ms, current time = 32.548
+r_b1a2 = 5309 mm  at t = 2207050 ms, current time = 32.564
+r_a1b2 = 4893 mm  at t = 2206981 ms, current time = 32.581
+r_b1b2 = drop 
+r_a1a2 = 6007 mm  at t = 2207058 ms, current time = 32.658
+r_b1a2 = drop 
+r_a1b2 = 4888 mm  at t = 2207085 ms, current time = 32.684
+r_b1b2 = 4517 mm  at t = 2207186 ms, current time = 32.701
+r_a1a2 = 6007 mm  at t = 2207167 ms, current time = 32.768
+r_b1a2 = 5398 mm  at t = 2207269 ms, current time = 32.785
+r_a1b2 = 4897 mm  at t = 2207202 ms, current time = 32.803
+r_b1b2 = 4513 mm  at t = 2207304 ms, current time = 32.821
+r_a1a2 = 6012 mm  at t = 2207288 ms, current time = 32.889
+r_b1a2 = 5394 mm  at t = 2207390 ms, current time = 32.906
+r_a1b2 = 4813 mm  at t = 2207323 ms, current time = 32.923
+r_b1b2 = 4518 mm  at t = 2207424 ms, current time = 32.94
+r_a1a2 = 6063 mm  at t = 2207406 ms, current time = 33.006
+r_b1a2 = 5529 mm  at t = 2207507 ms, current time = 33.022
+r_a1b2 = 4855 mm  at t = 2207439 ms, current time = 33.04
+r_b1b2 = 4517 mm  at t = 2207541 ms, current time = 33.056
+r_a1a2 = 6068 mm  at t = 2207523 ms, current time = 33.123
+r_b1a2 = 5543 mm  at t = 2207624 ms, current time = 33.14
+r_a1b2 = 5553 mm  at t = 2207556 ms, current time = 33.157
+r_b1b2 = 4536 mm  at t = 2207658 ms, current time = 33.173
+r_a1a2 = 5933 mm  at t = 2207640 ms, current time = 33.24
+r_b1a2 = 5337 mm  at t = 2207740 ms, current time = 33.256
+r_a1b2 = drop 
+r_b1b2 = 4564 mm  at t = 2207767 ms, current time = 33.283
+r_a1a2 = 6059 mm  at t = 2207749 ms, current time = 33.35
+r_b1a2 = 5408 mm  at t = 2207851 ms, current time = 33.367
+r_a1b2 = 5352 mm  at t = 2207783 ms, current time = 33.383
+r_b1b2 = 4574 mm  at t = 2207884 ms, current time = 33.4
+r_a1a2 = 6059 mm  at t = 2207866 ms, current time = 33.467
+r_b1a2 = 5361 mm  at t = 2207968 ms, current time = 33.483
+r_a1b2 = 5272 mm  at t = 2207899 ms, current time = 33.501
+r_b1b2 = drop 
+r_a1a2 = 6110 mm  at t = 2207977 ms, current time = 33.577
+r_b1a2 = 5342 mm  at t = 2208078 ms, current time = 33.595
+r_a1b2 = 5281 mm  at t = 2208011 ms, current time = 33.611
+r_b1b2 = 4625 mm  at t = 2208112 ms, current time = 33.628
+r_a1a2 = 6124 mm  at t = 2208094 ms, current time = 33.695
+r_b1a2 = drop 
+r_a1b2 = 5328 mm  at t = 2208121 ms, current time = 33.723
+r_b1b2 = 4527 mm  at t = 2208224 ms, current time = 33.739
+r_a1a2 = drop 
+r_b1a2 = 5361 mm  at t = 2208300 ms, current time = 33.816
+r_a1b2 = 5211 mm  at t = 2208231 ms, current time = 33.832
+r_b1b2 = drop 
+r_a1a2 = 6030 mm  at t = 2208307 ms, current time = 33.909
+r_b1a2 = 5366 mm  at t = 2208409 ms, current time = 33.925
+r_a1b2 = 5117 mm  at t = 2208341 ms, current time = 33.943
+r_b1b2 = 4564 mm  at t = 2208443 ms, current time = 33.959
+r_a1a2 = 6049 mm  at t = 2208425 ms, current time = 34.026
+r_b1a2 = 5328 mm  at t = 2208526 ms, current time = 34.042
+r_a1b2 = 5051 mm  at t = 2208457 ms, current time = 34.058
+r_b1b2 = 4569 mm  at t = 2208558 ms, current time = 34.074
+r_a1a2 = 6073 mm  at t = 2208540 ms, current time = 34.14
+r_b1a2 = 5258 mm  at t = 2208640 ms, current time = 34.157
+r_a1b2 = 5042 mm  at t = 2208572 ms, current time = 34.173
+r_b1b2 = 4415 mm  at t = 2208673 ms, current time = 34.189
+r_a1a2 = drop 
+r_b1a2 = 5356 mm  at t = 2208750 ms, current time = 34.267
+r_a1b2 = 5023 mm  at t = 2208682 ms, current time = 34.283
+r_b1b2 = 4471 mm  at t = 2208783 ms, current time = 34.3
+r_a1a2 = 6138 mm  at t = 2208765 ms, current time = 34.366
+r_b1a2 = 5323 mm  at t = 2208866 ms, current time = 34.383
+r_a1b2 = drop 
+r_b1b2 = 4457 mm  at t = 2208892 ms, current time = 34.41
+r_a1a2 = 5993 mm  at t = 2208875 ms, current time = 34.477
+r_b1a2 = 5492 mm  at t = 2208977 ms, current time = 34.493
+r_a1b2 = 4968 mm  at t = 2208908 ms, current time = 34.509
+r_b1b2 = 4564 mm  at t = 2209009 ms, current time = 34.526
+r_a1a2 = 5839 mm  at t = 2208991 ms, current time = 34.593
+r_b1a2 = 5623 mm  at t = 2209092 ms, current time = 34.609
+r_a1b2 = 5089 mm  at t = 2209024 ms, current time = 34.625
+r_b1b2 = 4578 mm  at t = 2209125 ms, current time = 34.643
+r_a1a2 = 5839 mm  at t = 2209108 ms, current time = 34.71
+r_b1a2 = drop 
+r_a1b2 = 5230 mm  at t = 2209133 ms, current time = 34.734
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5258 mm  at t = 2209303 ms, current time = 34.82
+r_a1b2 = 5230 mm  at t = 2209235 ms, current time = 34.837
+r_b1b2 = 4574 mm  at t = 2209336 ms, current time = 34.854
+r_a1a2 = 5961 mm  at t = 2209318 ms, current time = 34.921
+r_b1a2 = drop 
+r_a1b2 = 5192 mm  at t = 2209345 ms, current time = 34.948
+r_b1b2 = 4569 mm  at t = 2209447 ms, current time = 34.966
+r_a1a2 = 6063 mm  at t = 2209430 ms, current time = 35.033
+r_b1a2 = 5295 mm  at t = 2209532 ms, current time = 35.05
+r_a1b2 = 5061 mm  at t = 2209464 ms, current time = 35.066
+r_b1b2 = drop 
+r_a1a2 = 5815 mm  at t = 2209541 ms, current time = 35.143
+r_b1a2 = 5225 mm  at t = 2209642 ms, current time = 35.16
+r_a1b2 = 5225 mm  at t = 2209574 ms, current time = 35.176
+r_b1b2 = 4443 mm  at t = 2209675 ms, current time = 35.193
+r_a1a2 = 5914 mm  at t = 2209658 ms, current time = 35.26
+r_b1a2 = 5103 mm  at t = 2209759 ms, current time = 35.276
+r_a1b2 = 5220 mm  at t = 2209690 ms, current time = 35.293
+r_b1b2 = 4513 mm  at t = 2209791 ms, current time = 35.309
+r_a1a2 = 6073 mm  at t = 2209774 ms, current time = 35.376
+r_b1a2 = 5159 mm  at t = 2209875 ms, current time = 35.393
+r_a1b2 = 5211 mm  at t = 2209807 ms, current time = 35.409
+r_b1b2 = 4509 mm  at t = 2209908 ms, current time = 35.425
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5164 mm  at t = 2209910 ms, current time = 35.513
+r_b1b2 = 4419 mm  at t = 2210012 ms, current time = 35.53
+r_a1a2 = 6087 mm  at t = 2209994 ms, current time = 35.597
+r_b1a2 = 5375 mm  at t = 2210095 ms, current time = 35.613
+r_a1b2 = 5117 mm  at t = 2210027 ms, current time = 35.63
+r_b1b2 = 4288 mm  at t = 2210129 ms, current time = 35.647
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5225 mm  at t = 2210130 ms, current time = 35.733
+r_b1b2 = 4340 mm  at t = 2210231 ms, current time = 35.749
+r_a1a2 = 6007 mm  at t = 2210213 ms, current time = 35.816
+r_b1a2 = 5333 mm  at t = 2210314 ms, current time = 35.832
+r_a1b2 = drop 
+r_b1b2 = 4363 mm  at t = 2210341 ms, current time = 35.859
+r_a1a2 = 6044 mm  at t = 2210323 ms, current time = 35.926
+r_b1a2 = 5037 mm  at t = 2210424 ms, current time = 35.943
+r_a1b2 = 5239 mm  at t = 2210357 ms, current time = 35.96
+r_b1b2 = 4415 mm  at t = 2210458 ms, current time = 35.977
+r_a1a2 = drop 
+r_b1a2 = 5070 mm  at t = 2210535 ms, current time = 36.053
+r_a1b2 = 5253 mm  at t = 2210467 ms, current time = 36.07
+r_b1b2 = 4522 mm  at t = 2210568 ms, current time = 36.087
+r_a1a2 = 6040 mm  at t = 2210551 ms, current time = 36.154
+r_b1a2 = 5126 mm  at t = 2210652 ms, current time = 36.171
+r_a1b2 = 5197 mm  at t = 2210584 ms, current time = 36.188
+r_b1b2 = 4513 mm  at t = 2210686 ms, current time = 36.205
+r_a1a2 = 6105 mm  at t = 2210668 ms, current time = 36.271
+r_b1a2 = 5140 mm  at t = 2210769 ms, current time = 36.288
+r_a1b2 = 5187 mm  at t = 2210701 ms, current time = 36.305
+r_b1b2 = 4564 mm  at t = 2210803 ms, current time = 36.322
+r_a1a2 = 6077 mm  at t = 2210785 ms, current time = 36.389
+r_b1a2 = 5150 mm  at t = 2210887 ms, current time = 36.406
+r_a1b2 = 5155 mm  at t = 2210819 ms, current time = 36.423
+r_b1b2 = drop 
+r_a1a2 = 6157 mm  at t = 2210895 ms, current time = 36.499
+r_b1a2 = 5131 mm  at t = 2210996 ms, current time = 36.515
+r_a1b2 = 5197 mm  at t = 2210928 ms, current time = 36.532
+r_b1b2 = drop 
+r_a1a2 = 6110 mm  at t = 2211005 ms, current time = 36.609
+r_b1a2 = drop 
+r_a1b2 = 5253 mm  at t = 2211031 ms, current time = 36.635
+r_b1b2 = 4297 mm  at t = 2211132 ms, current time = 36.651
+r_a1a2 = 6162 mm  at t = 2211114 ms, current time = 36.718
+r_b1a2 = 5201 mm  at t = 2211216 ms, current time = 36.735
+r_a1b2 = drop 
+r_b1b2 = 4340 mm  at t = 2211243 ms, current time = 36.762
+r_a1a2 = 6181 mm  at t = 2211225 ms, current time = 36.829
+r_b1a2 = 5239 mm  at t = 2211326 ms, current time = 36.846
+r_a1b2 = drop 
+r_b1b2 = 4302 mm  at t = 2211352 ms, current time = 36.872
+r_a1a2 = 6284 mm  at t = 2211335 ms, current time = 36.939
+r_b1a2 = drop 
+r_a1b2 = 5248 mm  at t = 2211362 ms, current time = 36.966
+r_b1b2 = 4377 mm  at t = 2211463 ms, current time = 36.982
+r_a1a2 = 6204 mm  at t = 2211445 ms, current time = 37.049
+r_b1a2 = 5136 mm  at t = 2211546 ms, current time = 37.066
+r_a1b2 = 5347 mm  at t = 2211479 ms, current time = 37.083
+r_b1b2 = 4358 mm  at t = 2211581 ms, current time = 37.101
+r_a1a2 = 6181 mm  at t = 2211563 ms, current time = 37.168
+r_b1a2 = 5098 mm  at t = 2211665 ms, current time = 37.185
+r_a1b2 = 5333 mm  at t = 2211598 ms, current time = 37.203
+r_b1b2 = 4344 mm  at t = 2211700 ms, current time = 37.22
+r_a1a2 = 6166 mm  at t = 2211683 ms, current time = 37.287
+r_b1a2 = 5145 mm  at t = 2211784 ms, current time = 37.303
+r_a1b2 = 5277 mm  at t = 2211716 ms, current time = 37.321
+r_b1b2 = 4340 mm  at t = 2211818 ms, current time = 37.338
+r_a1a2 = 6298 mm  at t = 2211800 ms, current time = 37.405
+r_b1a2 = drop 
+r_a1b2 = 5314 mm  at t = 2211826 ms, current time = 37.43
+r_b1b2 = 4330 mm  at t = 2211927 ms, current time = 37.446
+r_a1a2 = 6279 mm  at t = 2211909 ms, current time = 37.513
+r_b1a2 = 5197 mm  at t = 2212010 ms, current time = 37.53
+r_a1b2 = 5361 mm  at t = 2211942 ms, current time = 37.546
+r_b1b2 = 4340 mm  at t = 2212043 ms, current time = 37.563
+r_a1a2 = 6110 mm  at t = 2212025 ms, current time = 37.63
+r_b1a2 = 5211 mm  at t = 2212126 ms, current time = 37.646
+r_a1b2 = drop 
+r_b1b2 = 4321 mm  at t = 2212153 ms, current time = 37.673
+r_a1a2 = 6105 mm  at t = 2212135 ms, current time = 37.739
+r_b1a2 = 5230 mm  at t = 2212236 ms, current time = 37.756
+r_a1b2 = 5445 mm  at t = 2212167 ms, current time = 37.772
+r_b1b2 = 4349 mm  at t = 2212269 ms, current time = 37.789
+r_a1a2 = drop 
+r_b1a2 = 5239 mm  at t = 2212345 ms, current time = 37.865
+r_a1b2 = 5413 mm  at t = 2212277 ms, current time = 37.881
+r_b1b2 = 4302 mm  at t = 2212378 ms, current time = 37.898
+r_a1a2 = 6204 mm  at t = 2212360 ms, current time = 37.965
+r_b1a2 = 5197 mm  at t = 2212461 ms, current time = 37.994
+r_a1b2 = 5323 mm  at t = 2212405 ms, current time = 38.011
+r_b1b2 = 4312 mm  at t = 2212507 ms, current time = 38.028
+r_a1a2 = 6087 mm  at t = 2212490 ms, current time = 38.095
+r_b1a2 = 5150 mm  at t = 2212591 ms, current time = 38.112
+r_a1b2 = drop 
+r_b1b2 = 4340 mm  at t = 2212617 ms, current time = 38.137
+r_a1a2 = 6040 mm  at t = 2212599 ms, current time = 38.204
+r_b1a2 = 5112 mm  at t = 2212700 ms, current time = 38.221
+r_a1b2 = 5253 mm  at t = 2212633 ms, current time = 38.238
+r_b1b2 = 4312 mm  at t = 2212734 ms, current time = 38.254
+r_a1a2 = 5984 mm  at t = 2212716 ms, current time = 38.321
+r_b1a2 = 5131 mm  at t = 2212817 ms, current time = 38.337
+r_a1b2 = drop 
+r_b1b2 = 4297 mm  at t = 2212842 ms, current time = 38.364
+r_a1a2 = 5984 mm  at t = 2212825 ms, current time = 38.43
+r_b1a2 = 5173 mm  at t = 2212926 ms, current time = 38.447
+r_a1b2 = 5230 mm  at t = 2212858 ms, current time = 38.463
+r_b1b2 = 4312 mm  at t = 2212959 ms, current time = 38.48
+r_a1a2 = drop 
+r_b1a2 = 5145 mm  at t = 2213036 ms, current time = 38.556
+r_a1b2 = 5239 mm  at t = 2212967 ms, current time = 38.574
+r_b1b2 = drop 
+r_a1a2 = 6312 mm  at t = 2213045 ms, current time = 38.651
+r_b1a2 = 5140 mm  at t = 2213146 ms, current time = 38.667
+r_a1b2 = 5258 mm  at t = 2213078 ms, current time = 38.684
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5126 mm  at t = 2213250 ms, current time = 38.77
+r_a1b2 = 5216 mm  at t = 2213181 ms, current time = 38.788
+r_b1b2 = 4316 mm  at t = 2213283 ms, current time = 38.805
+r_a1a2 = 6002 mm  at t = 2213265 ms, current time = 38.872
+r_b1a2 = 5173 mm  at t = 2213367 ms, current time = 38.888
+r_a1b2 = 5272 mm  at t = 2213299 ms, current time = 38.904
+r_b1b2 = 4340 mm  at t = 2213400 ms, current time = 38.922
+r_a1a2 = 5961 mm  at t = 2213383 ms, current time = 38.988
+r_b1a2 = 5201 mm  at t = 2213484 ms, current time = 39.005
+r_a1b2 = 5347 mm  at t = 2213416 ms, current time = 39.022
+r_b1b2 = 4279 mm  at t = 2213517 ms, current time = 39.039
+r_a1a2 = 6002 mm  at t = 2213500 ms, current time = 39.106
+r_b1a2 = 5150 mm  at t = 2213601 ms, current time = 39.122
+r_a1b2 = 5436 mm  at t = 2213533 ms, current time = 39.139
+r_b1b2 = 4307 mm  at t = 2213635 ms, current time = 39.157
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2213711 ms, current time = 39.233
+r_a1b2 = 5492 mm  at t = 2213643 ms, current time = 39.249
+r_b1b2 = 4326 mm  at t = 2213744 ms, current time = 39.266
+r_a1a2 = 6063 mm  at t = 2213726 ms, current time = 39.332
+r_b1a2 = 5178 mm  at t = 2213827 ms, current time = 39.349
+r_a1b2 = 5474 mm  at t = 2213759 ms, current time = 39.365
+r_b1b2 = 4312 mm  at t = 2213860 ms, current time = 39.381
+r_a1a2 = 5993 mm  at t = 2213842 ms, current time = 39.448
+r_b1a2 = 5337 mm  at t = 2213943 ms, current time = 39.465
+r_a1b2 = 5366 mm  at t = 2213876 ms, current time = 39.482
+r_b1b2 = 4330 mm  at t = 2213977 ms, current time = 39.499
+r_a1a2 = 6241 mm  at t = 2213960 ms, current time = 39.567
+r_b1a2 = 5323 mm  at t = 2214062 ms, current time = 39.584
+r_a1b2 = drop 
+r_b1b2 = 4382 mm  at t = 2214089 ms, current time = 39.61
+r_a1a2 = 6345 mm  at t = 2214071 ms, current time = 39.678
+r_b1a2 = 5206 mm  at t = 2214172 ms, current time = 39.694
+r_a1b2 = 5356 mm  at t = 2214104 ms, current time = 39.712
+r_b1b2 = 4415 mm  at t = 2214206 ms, current time = 39.729
+r_a1a2 = 6373 mm  at t = 2214189 ms, current time = 39.795
+r_b1a2 = 5244 mm  at t = 2214290 ms, current time = 39.812
+r_a1b2 = 5333 mm  at t = 2214222 ms, current time = 39.829
+r_b1b2 = 4344 mm  at t = 2214324 ms, current time = 39.845
+r_a1a2 = drop 
+r_b1a2 = 5173 mm  at t = 2214400 ms, current time = 39.921
+r_a1b2 = 5309 mm  at t = 2214331 ms, current time = 39.938
+r_b1b2 = 4297 mm  at t = 2214432 ms, current time = 39.954
+r_a1a2 = 6317 mm  at t = 2214414 ms, current time = 40.021
+r_b1a2 = 5258 mm  at t = 2214515 ms, current time = 40.037
+r_a1b2 = drop 
+r_b1b2 = 4340 mm  at t = 2214542 ms, current time = 40.064
+r_a1a2 = 5965 mm  at t = 2214524 ms, current time = 40.131
+r_b1a2 = drop 
+r_a1b2 = 5267 mm  at t = 2214551 ms, current time = 40.157
+r_b1b2 = 4288 mm  at t = 2214652 ms, current time = 40.174
+r_a1a2 = 6120 mm  at t = 2214634 ms, current time = 40.241
+r_b1a2 = 5187 mm  at t = 2214735 ms, current time = 40.257
+r_a1b2 = drop 
+r_b1b2 = 4307 mm  at t = 2214761 ms, current time = 40.283
+r_a1a2 = 6082 mm  at t = 2214743 ms, current time = 40.351
+r_b1a2 = 5164 mm  at t = 2214845 ms, current time = 40.368
+r_a1b2 = 5201 mm  at t = 2214777 ms, current time = 40.384
+r_b1b2 = 4218 mm  at t = 2214878 ms, current time = 40.401
+r_a1a2 = 6105 mm  at t = 2214860 ms, current time = 40.467
+r_b1a2 = 5056 mm  at t = 2214961 ms, current time = 40.484
+r_a1b2 = 5145 mm  at t = 2214893 ms, current time = 40.5
+r_b1b2 = 4232 mm  at t = 2214994 ms, current time = 40.516
+r_a1a2 = drop 
+r_b1a2 = 5112 mm  at t = 2215070 ms, current time = 40.592
+r_a1b2 = drop 
+r_b1b2 = 4218 mm  at t = 2215096 ms, current time = 40.619
+r_a1a2 = 6044 mm  at t = 2215078 ms, current time = 40.687
+r_b1a2 = drop 
+r_a1b2 = 5220 mm  at t = 2215105 ms, current time = 40.712
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5178 mm  at t = 2215276 ms, current time = 40.799
+r_a1b2 = drop 
+r_b1b2 = 4373 mm  at t = 2215303 ms, current time = 40.826
+r_a1a2 = 5988 mm  at t = 2215285 ms, current time = 40.892
+r_b1a2 = 5220 mm  at t = 2215386 ms, current time = 40.909
+r_a1b2 = 5262 mm  at t = 2215317 ms, current time = 40.926
+r_b1b2 = 4545 mm  at t = 2215419 ms, current time = 40.942
+r_a1a2 = 6026 mm  at t = 2215401 ms, current time = 41.009
+r_b1a2 = 5065 mm  at t = 2215502 ms, current time = 41.025
+r_a1b2 = 5262 mm  at t = 2215434 ms, current time = 41.042
+r_b1b2 = 4509 mm  at t = 2215535 ms, current time = 41.058
+r_a1a2 = 5993 mm  at t = 2215517 ms, current time = 41.126
+r_b1a2 = drop 
+r_a1b2 = 5220 mm  at t = 2215544 ms, current time = 41.152
+r_b1b2 = drop 
+r_a1a2 = 5993 mm  at t = 2215621 ms, current time = 41.229
+r_b1a2 = drop 
+r_a1b2 = 5126 mm  at t = 2215647 ms, current time = 41.256
+r_b1b2 = 4307 mm  at t = 2215749 ms, current time = 41.272
+r_a1a2 = 5998 mm  at t = 2215731 ms, current time = 41.339
+r_b1a2 = 5328 mm  at t = 2215832 ms, current time = 41.355
+r_a1b2 = 5145 mm  at t = 2215764 ms, current time = 41.372
+r_b1b2 = 4466 mm  at t = 2215865 ms, current time = 41.39
+r_a1a2 = 5984 mm  at t = 2215848 ms, current time = 41.456
+r_b1a2 = drop 
+r_a1b2 = 5220 mm  at t = 2215874 ms, current time = 41.482
+r_b1b2 = 4462 mm  at t = 2215975 ms, current time = 41.499
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2216052 ms, current time = 41.576
+r_a1b2 = 5244 mm  at t = 2215984 ms, current time = 41.593
+r_b1b2 = 4410 mm  at t = 2216086 ms, current time = 41.61
+r_a1a2 = 5951 mm  at t = 2216069 ms, current time = 41.679
+r_b1a2 = 5356 mm  at t = 2216171 ms, current time = 41.696
+r_a1b2 = 5267 mm  at t = 2216104 ms, current time = 41.712
+r_b1b2 = 4302 mm  at t = 2216205 ms, current time = 41.729
+r_a1a2 = 6040 mm  at t = 2216187 ms, current time = 41.796
+r_b1a2 = 5328 mm  at t = 2216288 ms, current time = 41.813
+r_a1b2 = 5281 mm  at t = 2216221 ms, current time = 41.83
+r_b1b2 = 4714 mm  at t = 2216322 ms, current time = 41.846
+r_a1a2 = drop 
+r_b1a2 = 5459 mm  at t = 2216398 ms, current time = 41.923
+r_a1b2 = 5033 mm  at t = 2216330 ms, current time = 41.939
+r_b1b2 = 4635 mm  at t = 2216431 ms, current time = 41.956
+r_a1a2 = 6101 mm  at t = 2216414 ms, current time = 42.023
+r_b1a2 = 5370 mm  at t = 2216515 ms, current time = 42.04
+r_a1b2 = 5037 mm  at t = 2216447 ms, current time = 42.056
+r_b1b2 = 4649 mm  at t = 2216548 ms, current time = 42.073
+r_a1a2 = 6007 mm  at t = 2216531 ms, current time = 42.14
+r_b1a2 = 5356 mm  at t = 2216632 ms, current time = 42.157
+r_a1b2 = 5164 mm  at t = 2216564 ms, current time = 42.173
+r_b1b2 = 4518 mm  at t = 2216665 ms, current time = 42.19
+r_a1a2 = 5937 mm  at t = 2216647 ms, current time = 42.257
+r_b1a2 = 5328 mm  at t = 2216749 ms, current time = 42.274
+r_a1b2 = 5309 mm  at t = 2216682 ms, current time = 42.291
+r_b1b2 = 4391 mm  at t = 2216784 ms, current time = 42.308
+r_a1a2 = drop 
+r_b1a2 = 5436 mm  at t = 2216860 ms, current time = 42.384
+r_a1b2 = 5347 mm  at t = 2216792 ms, current time = 42.401
+r_b1b2 = 4448 mm  at t = 2216892 ms, current time = 42.417
+r_a1a2 = drop 
+r_b1a2 = 5496 mm  at t = 2216974 ms, current time = 42.499
+r_a1b2 = 5159 mm  at t = 2216906 ms, current time = 42.515
+r_b1b2 = 4433 mm  at t = 2217007 ms, current time = 42.532
+r_a1a2 = 6068 mm  at t = 2216989 ms, current time = 42.598
+r_b1a2 = 5515 mm  at t = 2217090 ms, current time = 42.615
+r_a1b2 = 5061 mm  at t = 2217022 ms, current time = 42.631
+r_b1b2 = 4354 mm  at t = 2217123 ms, current time = 42.647
+r_a1a2 = 6096 mm  at t = 2217105 ms, current time = 42.714
+r_b1a2 = 5431 mm  at t = 2217206 ms, current time = 42.731
+r_a1b2 = 5061 mm  at t = 2217138 ms, current time = 42.747
+r_b1b2 = 4504 mm  at t = 2217239 ms, current time = 42.764
+r_a1a2 = 5998 mm  at t = 2217221 ms, current time = 42.83
+r_b1a2 = 5342 mm  at t = 2217322 ms, current time = 42.847
+r_a1b2 = 5075 mm  at t = 2217254 ms, current time = 42.863
+r_b1b2 = 4597 mm  at t = 2217355 ms, current time = 42.879
+r_a1a2 = 5988 mm  at t = 2217336 ms, current time = 42.946
+r_b1a2 = 5422 mm  at t = 2217437 ms, current time = 42.964
+r_a1b2 = 5089 mm  at t = 2217370 ms, current time = 42.98
+r_b1b2 = 4611 mm  at t = 2217472 ms, current time = 42.996
+r_a1a2 = 6021 mm  at t = 2217453 ms, current time = 43.063
+r_b1a2 = 5361 mm  at t = 2217555 ms, current time = 43.08
+r_a1b2 = 5103 mm  at t = 2217486 ms, current time = 43.096
+r_b1b2 = 4531 mm  at t = 2217588 ms, current time = 43.112
+r_a1a2 = 6063 mm  at t = 2217569 ms, current time = 43.179
+r_b1a2 = 5253 mm  at t = 2217670 ms, current time = 43.195
+r_a1b2 = 5253 mm  at t = 2217602 ms, current time = 43.212
+r_b1b2 = 4490 mm  at t = 2217703 ms, current time = 43.228
+r_a1a2 = 6105 mm  at t = 2217685 ms, current time = 43.296
+r_b1a2 = 5281 mm  at t = 2217787 ms, current time = 43.312
+r_a1b2 = 5126 mm  at t = 2217719 ms, current time = 43.329
+r_b1b2 = 4592 mm  at t = 2217820 ms, current time = 43.345
+r_a1a2 = 6007 mm  at t = 2217802 ms, current time = 43.413
+r_b1a2 = 5370 mm  at t = 2217904 ms, current time = 43.43
+r_a1b2 = 4911 mm  at t = 2217836 ms, current time = 43.446
+r_b1b2 = 4578 mm  at t = 2217937 ms, current time = 43.462
+r_a1a2 = 5988 mm  at t = 2217919 ms, current time = 43.529
+r_b1a2 = drop 
+r_a1b2 = 5187 mm  at t = 2217945 ms, current time = 43.555
+r_b1b2 = 4578 mm  at t = 2218046 ms, current time = 43.572
+r_a1a2 = 6012 mm  at t = 2218028 ms, current time = 43.638
+r_b1a2 = 5361 mm  at t = 2218129 ms, current time = 43.655
+r_a1b2 = 5524 mm  at t = 2218061 ms, current time = 43.671
+r_b1b2 = 4541 mm  at t = 2218162 ms, current time = 43.688
+r_a1a2 = 5979 mm  at t = 2218144 ms, current time = 43.755
+r_b1a2 = 5337 mm  at t = 2218246 ms, current time = 43.772
+r_a1b2 = 4996 mm  at t = 2218178 ms, current time = 43.788
+r_b1b2 = 4452 mm  at t = 2218279 ms, current time = 43.804
+r_a1a2 = 6002 mm  at t = 2218260 ms, current time = 43.871
+r_b1a2 = 5356 mm  at t = 2218362 ms, current time = 43.887
+r_a1b2 = 4799 mm  at t = 2218293 ms, current time = 43.904
+r_b1b2 = 4490 mm  at t = 2218394 ms, current time = 43.92
+r_a1a2 = 6044 mm  at t = 2218376 ms, current time = 43.986
+r_b1a2 = 5384 mm  at t = 2218477 ms, current time = 44.002
+r_a1b2 = 4864 mm  at t = 2218409 ms, current time = 44.02
+r_b1b2 = 4531 mm  at t = 2218510 ms, current time = 44.036
+r_a1a2 = 6021 mm  at t = 2218492 ms, current time = 44.103
+r_b1a2 = 5375 mm  at t = 2218594 ms, current time = 44.12
+r_a1b2 = 4864 mm  at t = 2218526 ms, current time = 44.136
+r_b1b2 = 4531 mm  at t = 2218626 ms, current time = 44.153
+r_a1a2 = 5984 mm  at t = 2218609 ms, current time = 44.22
+r_b1a2 = 5422 mm  at t = 2218711 ms, current time = 44.237
+r_a1b2 = 5581 mm  at t = 2218643 ms, current time = 44.255
+r_b1b2 = 4531 mm  at t = 2218745 ms, current time = 44.271
+r_a1a2 = 5961 mm  at t = 2218727 ms, current time = 44.338
+r_b1a2 = drop 
+r_a1b2 = 4968 mm  at t = 2218753 ms, current time = 44.365
+r_b1b2 = 4517 mm  at t = 2218855 ms, current time = 44.381
+r_a1a2 = 6044 mm  at t = 2218837 ms, current time = 44.448
+r_b1a2 = 5394 mm  at t = 2218938 ms, current time = 44.464
+r_a1b2 = 4972 mm  at t = 2218869 ms, current time = 44.481
+r_b1b2 = 4536 mm  at t = 2218971 ms, current time = 44.498
+r_a1a2 = 6044 mm  at t = 2218954 ms, current time = 44.565
+r_b1a2 = 5347 mm  at t = 2219055 ms, current time = 44.581
+r_a1b2 = 5019 mm  at t = 2218987 ms, current time = 44.598
+r_b1b2 = 4536 mm  at t = 2219088 ms, current time = 44.615
+r_a1a2 = 6012 mm  at t = 2219070 ms, current time = 44.682
+r_b1a2 = 5398 mm  at t = 2219172 ms, current time = 44.699
+r_a1b2 = 5089 mm  at t = 2219104 ms, current time = 44.716
+r_b1b2 = 4611 mm  at t = 2219206 ms, current time = 44.732
+r_a1a2 = drop 
+r_b1a2 = 5375 mm  at t = 2219282 ms, current time = 44.821
+r_a1b2 = 5028 mm  at t = 2219226 ms, current time = 44.837
+r_b1b2 = 4677 mm  at t = 2219327 ms, current time = 44.854
+r_a1a2 = drop 
+r_b1a2 = 5352 mm  at t = 2219404 ms, current time = 44.931
+r_a1b2 = 4921 mm  at t = 2219336 ms, current time = 44.948
+r_b1b2 = 4620 mm  at t = 2219438 ms, current time = 44.965
+r_a1a2 = 5937 mm  at t = 2219420 ms, current time = 45.033
+r_b1a2 = 5230 mm  at t = 2219522 ms, current time = 45.05
+r_a1b2 = 5000 mm  at t = 2219454 ms, current time = 45.066
+r_b1b2 = 4630 mm  at t = 2219556 ms, current time = 45.083
+r_a1a2 = 5975 mm  at t = 2219537 ms, current time = 45.149
+r_b1a2 = 5309 mm  at t = 2219639 ms, current time = 45.166
+r_a1b2 = 5515 mm  at t = 2219571 ms, current time = 45.183
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5319 mm  at t = 2219742 ms, current time = 45.27
+r_a1b2 = drop 
+r_b1b2 = 4700 mm  at t = 2219769 ms, current time = 45.296
+r_a1a2 = 5862 mm  at t = 2219751 ms, current time = 45.363
+r_b1a2 = 5328 mm  at t = 2219852 ms, current time = 45.379
+r_a1b2 = 5510 mm  at t = 2219784 ms, current time = 45.396
+r_b1b2 = 4635 mm  at t = 2219885 ms, current time = 45.412
+r_a1a2 = 5965 mm  at t = 2219867 ms, current time = 45.48
+r_b1a2 = 5356 mm  at t = 2219969 ms, current time = 45.497
+r_a1b2 = 4864 mm  at t = 2219901 ms, current time = 45.514
+r_b1b2 = 4677 mm  at t = 2220003 ms, current time = 45.53
+r_a1a2 = drop 
+r_b1a2 = 5323 mm  at t = 2220079 ms, current time = 45.607
+r_a1b2 = 5005 mm  at t = 2220011 ms, current time = 45.623
+r_b1b2 = 4620 mm  at t = 2220112 ms, current time = 45.64
+r_a1a2 = 6063 mm  at t = 2220094 ms, current time = 45.706
+r_b1a2 = 5356 mm  at t = 2220195 ms, current time = 45.723
+r_a1b2 = 5384 mm  at t = 2220127 ms, current time = 45.739
+r_b1b2 = 4696 mm  at t = 2220228 ms, current time = 45.756
+r_a1a2 = 5951 mm  at t = 2220210 ms, current time = 45.823
+r_b1a2 = 5323 mm  at t = 2220311 ms, current time = 45.839
+r_a1b2 = 5075 mm  at t = 2220243 ms, current time = 45.856
+r_b1b2 = 4733 mm  at t = 2220344 ms, current time = 45.873
+r_a1a2 = 5876 mm  at t = 2220327 ms, current time = 45.939
+r_b1a2 = 5337 mm  at t = 2220428 ms, current time = 45.956
+r_a1b2 = 5108 mm  at t = 2220359 ms, current time = 45.972
+r_b1b2 = 4742 mm  at t = 2220461 ms, current time = 45.99
+r_a1a2 = 5942 mm  at t = 2220444 ms, current time = 46.058
+r_b1a2 = 5337 mm  at t = 2220546 ms, current time = 46.081
+r_a1b2 = 4972 mm  at t = 2220484 ms, current time = 46.099
+r_b1b2 = 4738 mm  at t = 2220588 ms, current time = 46.116
+r_a1a2 = drop 
+r_b1a2 = 5305 mm  at t = 2220664 ms, current time = 46.192
+r_a1b2 = 5023 mm  at t = 2220596 ms, current time = 46.209
+r_b1b2 = 4752 mm  at t = 2220698 ms, current time = 46.226
+r_a1a2 = 5909 mm  at t = 2220680 ms, current time = 46.293
+r_b1a2 = 5333 mm  at t = 2220781 ms, current time = 46.31
+r_a1b2 = 5080 mm  at t = 2220713 ms, current time = 46.326
+r_b1b2 = 4794 mm  at t = 2220814 ms, current time = 46.343
+r_a1a2 = 5909 mm  at t = 2220796 ms, current time = 46.41
+r_b1a2 = 5342 mm  at t = 2220898 ms, current time = 46.426
+r_a1b2 = 5230 mm  at t = 2220830 ms, current time = 46.443
+r_b1b2 = 4817 mm  at t = 2220931 ms, current time = 46.46
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5211 mm  at t = 2220932 ms, current time = 46.545
+r_b1b2 = 4803 mm  at t = 2221033 ms, current time = 46.562
+r_a1a2 = 5853 mm  at t = 2221015 ms, current time = 46.628
+r_b1a2 = 5305 mm  at t = 2221116 ms, current time = 46.644
+r_a1b2 = 5183 mm  at t = 2221048 ms, current time = 46.661
+r_b1b2 = 4860 mm  at t = 2221149 ms, current time = 46.678
+r_a1a2 = 5890 mm  at t = 2221131 ms, current time = 46.745
+r_b1a2 = 5234 mm  at t = 2221233 ms, current time = 46.762
+r_a1b2 = 5098 mm  at t = 2221165 ms, current time = 46.779
+r_b1b2 = drop 
+r_a1a2 = 5764 mm  at t = 2221242 ms, current time = 46.856
+r_b1a2 = 5253 mm  at t = 2221344 ms, current time = 46.873
+r_a1b2 = drop 
+r_b1b2 = 4827 mm  at t = 2221371 ms, current time = 46.899
+r_a1a2 = 5646 mm  at t = 2221353 ms, current time = 46.967
+r_b1a2 = drop 
+r_a1b2 = 4968 mm  at t = 2221380 ms, current time = 46.993
+r_b1b2 = 4827 mm  at t = 2221481 ms, current time = 47.009
+r_a1a2 = 5553 mm  at t = 2221462 ms, current time = 47.076
+r_b1a2 = 5333 mm  at t = 2221564 ms, current time = 47.092
+r_a1b2 = 5089 mm  at t = 2221495 ms, current time = 47.109
+r_b1b2 = 4841 mm  at t = 2221596 ms, current time = 47.125
+r_a1a2 = 5501 mm  at t = 2221578 ms, current time = 47.192
+r_b1a2 = 5314 mm  at t = 2221679 ms, current time = 47.208
+r_a1b2 = drop 
+r_b1b2 = 4888 mm  at t = 2221705 ms, current time = 47.235
+r_a1a2 = 5427 mm  at t = 2221688 ms, current time = 47.302
+r_b1a2 = 5295 mm  at t = 2221789 ms, current time = 47.318
+r_a1b2 = 5187 mm  at t = 2221720 ms, current time = 47.335
+r_b1b2 = 4907 mm  at t = 2221822 ms, current time = 47.351
+r_a1a2 = 5707 mm  at t = 2221804 ms, current time = 47.419
+r_b1a2 = 5295 mm  at t = 2221906 ms, current time = 47.435
+r_a1b2 = drop 
+r_b1b2 = 4954 mm  at t = 2221932 ms, current time = 47.462
+r_a1a2 = 5895 mm  at t = 2221914 ms, current time = 47.529
+r_b1a2 = 5286 mm  at t = 2222016 ms, current time = 47.545
+r_a1b2 = 5206 mm  at t = 2221947 ms, current time = 47.561
+r_b1b2 = 4977 mm  at t = 2222048 ms, current time = 47.578
+r_a1a2 = 5825 mm  at t = 2222031 ms, current time = 47.646
+r_b1a2 = 5277 mm  at t = 2222133 ms, current time = 47.663
+r_a1b2 = 5140 mm  at t = 2222065 ms, current time = 47.68
+r_b1b2 = 4977 mm  at t = 2222167 ms, current time = 47.715
+r_a1a2 = 5829 mm  at t = 2222168 ms, current time = 47.782
+r_b1a2 = 5295 mm  at t = 2222269 ms, current time = 47.799
+r_a1b2 = drop 
+r_b1b2 = 5023 mm  at t = 2222318 ms, current time = 47.848
+r_a1a2 = 5740 mm  at t = 2222301 ms, current time = 47.916
+r_b1a2 = 5305 mm  at t = 2222403 ms, current time = 47.933
+r_a1b2 = 5314 mm  at t = 2222335 ms, current time = 47.95
+r_b1b2 = 5061 mm  at t = 2222438 ms, current time = 47.982
+r_a1a2 = 5642 mm  at t = 2222434 ms, current time = 48.049
+r_b1a2 = 5328 mm  at t = 2222536 ms, current time = 48.066
+r_a1b2 = 5220 mm  at t = 2222468 ms, current time = 48.083
+r_b1b2 = 5089 mm  at t = 2222571 ms, current time = 48.1
+r_a1a2 = 5632 mm  at t = 2222552 ms, current time = 48.168
+r_b1a2 = 5309 mm  at t = 2222654 ms, current time = 48.184
+r_a1b2 = 5150 mm  at t = 2222585 ms, current time = 48.2
+r_b1b2 = 5037 mm  at t = 2222687 ms, current time = 48.216
+r_a1a2 = 5543 mm  at t = 2222668 ms, current time = 48.283
+r_b1a2 = 5234 mm  at t = 2222770 ms, current time = 48.3
+r_a1b2 = 5140 mm  at t = 2222702 ms, current time = 48.316
+r_b1b2 = 5005 mm  at t = 2222803 ms, current time = 48.333
+r_a1a2 = drop 
+r_b1a2 = 5277 mm  at t = 2222879 ms, current time = 48.41
+r_a1b2 = 5136 mm  at t = 2222811 ms, current time = 48.426
+r_b1b2 = 5009 mm  at t = 2222912 ms, current time = 48.442
+r_a1a2 = 5488 mm  at t = 2222894 ms, current time = 48.51
+r_b1a2 = 5234 mm  at t = 2222996 ms, current time = 48.526
+r_a1b2 = 5169 mm  at t = 2222928 ms, current time = 48.543
+r_b1b2 = 5009 mm  at t = 2223029 ms, current time = 48.559
+r_a1a2 = drop 
+r_b1a2 = 5234 mm  at t = 2223105 ms, current time = 48.635
+r_a1b2 = 5192 mm  at t = 2223037 ms, current time = 48.652
+r_b1b2 = drop 
+r_a1a2 = 5515 mm  at t = 2223113 ms, current time = 48.73
+r_b1a2 = 5319 mm  at t = 2223216 ms, current time = 48.746
+r_a1b2 = 5150 mm  at t = 2223148 ms, current time = 48.764
+r_b1b2 = 4939 mm  at t = 2223249 ms, current time = 48.78
+r_a1a2 = 5567 mm  at t = 2223231 ms, current time = 48.846
+r_b1a2 = 5314 mm  at t = 2223332 ms, current time = 48.863
+r_a1b2 = 5122 mm  at t = 2223264 ms, current time = 48.879
+r_b1b2 = 4925 mm  at t = 2223365 ms, current time = 48.896
+r_a1a2 = 5506 mm  at t = 2223347 ms, current time = 48.963
+r_b1a2 = drop 
+r_a1b2 = 5178 mm  at t = 2223374 ms, current time = 48.989
+r_b1b2 = 4991 mm  at t = 2223475 ms, current time = 49.006
+r_a1a2 = 5510 mm  at t = 2223457 ms, current time = 49.073
+r_b1a2 = 5253 mm  at t = 2223558 ms, current time = 49.089
+r_a1b2 = 5178 mm  at t = 2223490 ms, current time = 49.106
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5220 mm  at t = 2223660 ms, current time = 49.191
+r_a1b2 = 5187 mm  at t = 2223592 ms, current time = 49.208
+r_b1b2 = 5037 mm  at t = 2223693 ms, current time = 49.224
+r_a1a2 = 5408 mm  at t = 2223675 ms, current time = 49.291
+r_b1a2 = 5197 mm  at t = 2223776 ms, current time = 49.307
+r_a1b2 = 5187 mm  at t = 2223708 ms, current time = 49.324
+r_b1b2 = 5047 mm  at t = 2223809 ms, current time = 49.34
+r_a1a2 = 5436 mm  at t = 2223791 ms, current time = 49.407
+r_b1a2 = 5187 mm  at t = 2223892 ms, current time = 49.424
+r_a1b2 = 5112 mm  at t = 2223824 ms, current time = 49.44
+r_b1b2 = 5000 mm  at t = 2223925 ms, current time = 49.456
+r_a1a2 = 5488 mm  at t = 2223907 ms, current time = 49.524
+r_b1a2 = 5281 mm  at t = 2224009 ms, current time = 49.54
+r_a1b2 = 5136 mm  at t = 2223941 ms, current time = 49.557
+r_b1b2 = 4982 mm  at t = 2224042 ms, current time = 49.574
+r_a1a2 = 5501 mm  at t = 2224024 ms, current time = 49.64
+r_b1a2 = 5291 mm  at t = 2224125 ms, current time = 49.656
+r_a1b2 = 5080 mm  at t = 2224057 ms, current time = 49.674
+r_b1b2 = drop 
+r_a1a2 = 5422 mm  at t = 2224134 ms, current time = 49.751
+r_b1a2 = 5272 mm  at t = 2224236 ms, current time = 49.767
+r_a1b2 = 5089 mm  at t = 2224167 ms, current time = 49.783
+r_b1b2 = 4972 mm  at t = 2224268 ms, current time = 49.799
+r_a1a2 = 5478 mm  at t = 2224250 ms, current time = 49.866
+r_b1a2 = 5220 mm  at t = 2224351 ms, current time = 49.883
+r_a1b2 = 5145 mm  at t = 2224283 ms, current time = 49.9
+r_b1b2 = 4958 mm  at t = 2224385 ms, current time = 49.916
+r_a1a2 = 5384 mm  at t = 2224366 ms, current time = 49.984
+r_b1a2 = 5216 mm  at t = 2224468 ms, current time = 50.0
+r_a1b2 = 5145 mm  at t = 2224400 ms, current time = 50.016
+r_b1b2 = 5065 mm  at t = 2224501 ms, current time = 50.032
+r_a1a2 = 5389 mm  at t = 2224482 ms, current time = 50.099
+r_b1a2 = 5150 mm  at t = 2224584 ms, current time = 50.115
+r_a1b2 = 4963 mm  at t = 2224515 ms, current time = 50.132
+r_b1b2 = 5216 mm  at t = 2224616 ms, current time = 50.148
+r_a1a2 = 5366 mm  at t = 2224598 ms, current time = 50.215
+r_b1a2 = 5258 mm  at t = 2224700 ms, current time = 50.231
+r_a1b2 = 5056 mm  at t = 2224631 ms, current time = 50.249
+r_b1b2 = 5216 mm  at t = 2224733 ms, current time = 50.265
+r_a1a2 = 5328 mm  at t = 2224715 ms, current time = 50.332
+r_b1a2 = 5244 mm  at t = 2224817 ms, current time = 50.349
+r_a1b2 = 5098 mm  at t = 2224748 ms, current time = 50.366
+r_b1b2 = 5206 mm  at t = 2224850 ms, current time = 50.382
+r_a1a2 = 5305 mm  at t = 2224832 ms, current time = 50.45
+r_b1a2 = 5220 mm  at t = 2224935 ms, current time = 50.467
+r_a1b2 = drop 
+r_b1b2 = 5225 mm  at t = 2224961 ms, current time = 50.494
+r_a1a2 = drop 
+r_b1a2 = 5234 mm  at t = 2225038 ms, current time = 50.57
+r_a1b2 = 5197 mm  at t = 2224969 ms, current time = 50.586
+r_b1b2 = 5187 mm  at t = 2225070 ms, current time = 50.603
+r_a1a2 = 5239 mm  at t = 2225053 ms, current time = 50.671
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 5169 mm  at t = 2225174 ms, current time = 50.707
+r_a1a2 = 5258 mm  at t = 2225156 ms, current time = 50.774
+r_b1a2 = 5150 mm  at t = 2225258 ms, current time = 50.791
+r_a1b2 = 5070 mm  at t = 2225190 ms, current time = 50.808
+r_b1b2 = 5173 mm  at t = 2225292 ms, current time = 50.824
+r_a1a2 = 5248 mm  at t = 2225273 ms, current time = 50.892
+r_b1a2 = 5089 mm  at t = 2225375 ms, current time = 50.908
+r_a1b2 = 5028 mm  at t = 2225307 ms, current time = 50.925
+r_b1b2 = 5183 mm  at t = 2225409 ms, current time = 50.941
+r_a1a2 = 5291 mm  at t = 2225390 ms, current time = 51.008
+r_b1a2 = 5084 mm  at t = 2225492 ms, current time = 51.024
+r_a1b2 = 5080 mm  at t = 2225423 ms, current time = 51.041
+r_b1b2 = 5197 mm  at t = 2225524 ms, current time = 51.057
+r_a1a2 = 5253 mm  at t = 2225506 ms, current time = 51.124
+r_b1a2 = 5103 mm  at t = 2225608 ms, current time = 51.14
+r_a1b2 = 5051 mm  at t = 2225539 ms, current time = 51.157
+r_b1b2 = 5178 mm  at t = 2225640 ms, current time = 51.174
+r_a1a2 = 5234 mm  at t = 2225623 ms, current time = 51.24
+r_b1a2 = 5117 mm  at t = 2225724 ms, current time = 51.257
+r_a1b2 = 5084 mm  at t = 2225656 ms, current time = 51.274
+r_b1b2 = 5178 mm  at t = 2225757 ms, current time = 51.29
+r_a1a2 = 5169 mm  at t = 2225739 ms, current time = 51.357
+r_b1a2 = 5136 mm  at t = 2225840 ms, current time = 51.373
+r_a1b2 = 5009 mm  at t = 2225772 ms, current time = 51.39
+r_b1b2 = 5201 mm  at t = 2225874 ms, current time = 51.407
+r_a1a2 = 5145 mm  at t = 2225856 ms, current time = 51.474
+r_b1a2 = 5122 mm  at t = 2225957 ms, current time = 51.49
+r_a1b2 = 4944 mm  at t = 2225888 ms, current time = 51.506
+r_b1b2 = 5258 mm  at t = 2225989 ms, current time = 51.523
+r_a1a2 = 5201 mm  at t = 2225972 ms, current time = 51.589
+r_b1a2 = 5155 mm  at t = 2226073 ms, current time = 51.606
+r_a1b2 = 4930 mm  at t = 2226005 ms, current time = 51.623
+r_b1b2 = 5253 mm  at t = 2226106 ms, current time = 51.639
+r_a1a2 = 5164 mm  at t = 2226087 ms, current time = 51.706
+r_b1a2 = 5131 mm  at t = 2226189 ms, current time = 51.723
+r_a1b2 = 4977 mm  at t = 2226121 ms, current time = 51.739
+r_b1b2 = 5248 mm  at t = 2226222 ms, current time = 51.756
+r_a1a2 = 5140 mm  at t = 2226204 ms, current time = 51.823
+r_b1a2 = drop 
+r_a1b2 = 5023 mm  at t = 2226231 ms, current time = 51.85
+r_b1b2 = 5319 mm  at t = 2226333 ms, current time = 51.866
+r_a1a2 = 5028 mm  at t = 2226314 ms, current time = 51.933
+r_b1a2 = 5112 mm  at t = 2226416 ms, current time = 51.95
+r_a1b2 = 5004 mm  at t = 2226348 ms, current time = 51.967
+r_b1b2 = 5328 mm  at t = 2226450 ms, current time = 51.984
+r_a1a2 = drop 
+r_b1a2 = 5145 mm  at t = 2226526 ms, current time = 52.06
+r_a1b2 = 4982 mm  at t = 2226458 ms, current time = 52.076
+r_b1b2 = 5262 mm  at t = 2226559 ms, current time = 52.093
+r_a1a2 = 5225 mm  at t = 2226541 ms, current time = 52.159
+r_b1a2 = 5234 mm  at t = 2226642 ms, current time = 52.176
+r_a1b2 = 4949 mm  at t = 2226574 ms, current time = 52.193
+r_b1b2 = 5267 mm  at t = 2226676 ms, current time = 52.21
+r_a1a2 = 5267 mm  at t = 2226658 ms, current time = 52.276
+r_b1a2 = 5286 mm  at t = 2226759 ms, current time = 52.293
+r_a1b2 = 4991 mm  at t = 2226690 ms, current time = 52.31
+r_b1b2 = 5216 mm  at t = 2226792 ms, current time = 52.327
+r_a1a2 = 5173 mm  at t = 2226775 ms, current time = 52.394
+r_b1a2 = 5309 mm  at t = 2226876 ms, current time = 52.411
+r_a1b2 = 5042 mm  at t = 2226809 ms, current time = 52.428
+r_b1b2 = 5272 mm  at t = 2226911 ms, current time = 52.445
+r_a1a2 = 5394 mm  at t = 2226892 ms, current time = 52.511
+r_b1a2 = 5295 mm  at t = 2226994 ms, current time = 52.528
+r_a1b2 = 5033 mm  at t = 2226925 ms, current time = 52.544
+r_b1b2 = 5300 mm  at t = 2227027 ms, current time = 52.562
+r_a1a2 = 5328 mm  at t = 2227009 ms, current time = 52.628
+r_b1a2 = 5262 mm  at t = 2227110 ms, current time = 52.644
+r_a1b2 = 5000 mm  at t = 2227041 ms, current time = 52.66
+r_b1b2 = 5455 mm  at t = 2227142 ms, current time = 52.677
+r_a1a2 = 5337 mm  at t = 2227124 ms, current time = 52.744
+r_b1a2 = 5220 mm  at t = 2227226 ms, current time = 52.761
+r_a1b2 = 5112 mm  at t = 2227158 ms, current time = 52.778
+r_b1b2 = 5520 mm  at t = 2227260 ms, current time = 52.795
+r_a1a2 = 5576 mm  at t = 2227242 ms, current time = 52.862
+r_b1a2 = 5253 mm  at t = 2227344 ms, current time = 52.879
+r_a1b2 = 5145 mm  at t = 2227276 ms, current time = 52.895
+r_b1b2 = 5534 mm  at t = 2227377 ms, current time = 52.913
+r_a1a2 = 5576 mm  at t = 2227360 ms, current time = 52.98
+r_b1a2 = 5295 mm  at t = 2227462 ms, current time = 52.996
+r_a1b2 = 5225 mm  at t = 2227393 ms, current time = 53.013
+r_b1b2 = 5497 mm  at t = 2227495 ms, current time = 53.03
+r_a1a2 = 5501 mm  at t = 2227477 ms, current time = 53.097
+r_b1a2 = 5258 mm  at t = 2227578 ms, current time = 53.113
+r_a1b2 = 5248 mm  at t = 2227510 ms, current time = 53.13
+r_b1b2 = 5548 mm  at t = 2227611 ms, current time = 53.147
+r_a1a2 = 5483 mm  at t = 2227594 ms, current time = 53.215
+r_b1a2 = 5258 mm  at t = 2227696 ms, current time = 53.231
+r_a1b2 = drop 
+r_b1b2 = 5600 mm  at t = 2227722 ms, current time = 53.257
+r_a1a2 = 5637 mm  at t = 2227704 ms, current time = 53.324
+r_b1a2 = 5169 mm  at t = 2227805 ms, current time = 53.34
+r_a1b2 = 5140 mm  at t = 2227737 ms, current time = 53.357
+r_b1b2 = drop 
+r_a1a2 = 4982 mm  at t = 2227813 ms, current time = 53.433
+r_b1a2 = 5192 mm  at t = 2227915 ms, current time = 53.45
+r_a1b2 = 5084 mm  at t = 2227847 ms, current time = 53.467
+r_b1b2 = 5609 mm  at t = 2227948 ms, current time = 53.484
+r_a1a2 = 5047 mm  at t = 2227930 ms, current time = 53.551
+r_b1a2 = 5281 mm  at t = 2228032 ms, current time = 53.568
+r_a1b2 = 5065 mm  at t = 2227964 ms, current time = 53.584
+r_b1b2 = 5646 mm  at t = 2228065 ms, current time = 53.6
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5056 mm  at t = 2228067 ms, current time = 53.687
+r_b1b2 = 5623 mm  at t = 2228168 ms, current time = 53.704
+r_a1a2 = 4963 mm  at t = 2228150 ms, current time = 53.771
+r_b1a2 = 5258 mm  at t = 2228252 ms, current time = 53.788
+r_a1b2 = 5117 mm  at t = 2228184 ms, current time = 53.805
+r_b1b2 = drop 
+r_a1a2 = 4991 mm  at t = 2228261 ms, current time = 53.882
+r_b1a2 = 5300 mm  at t = 2228363 ms, current time = 53.899
+r_a1b2 = 5080 mm  at t = 2228295 ms, current time = 53.915
+r_b1b2 = 5651 mm  at t = 2228396 ms, current time = 53.932
+r_a1a2 = drop 
+r_b1a2 = 5281 mm  at t = 2228472 ms, current time = 54.008
+r_a1b2 = 5140 mm  at t = 2228404 ms, current time = 54.024
+r_b1b2 = 5548 mm  at t = 2228505 ms, current time = 54.041
+r_a1a2 = 4954 mm  at t = 2228487 ms, current time = 54.108
+r_b1a2 = 5253 mm  at t = 2228588 ms, current time = 54.124
+r_a1b2 = 5206 mm  at t = 2228520 ms, current time = 54.141
+r_b1b2 = 5524 mm  at t = 2228621 ms, current time = 54.158
+r_a1a2 = 4954 mm  at t = 2228604 ms, current time = 54.225
+r_b1a2 = 5225 mm  at t = 2228706 ms, current time = 54.242
+r_a1b2 = 5239 mm  at t = 2228638 ms, current time = 54.259
+r_b1b2 = 5515 mm  at t = 2228740 ms, current time = 54.275
+r_a1a2 = 4827 mm  at t = 2228721 ms, current time = 54.342
+r_b1a2 = 5201 mm  at t = 2228823 ms, current time = 54.359
+r_a1b2 = 5197 mm  at t = 2228754 ms, current time = 54.376
+r_b1b2 = 5628 mm  at t = 2228857 ms, current time = 54.394
+r_a1a2 = 4808 mm  at t = 2228839 ms, current time = 54.461
+r_b1a2 = 5206 mm  at t = 2228942 ms, current time = 54.477
+r_a1b2 = 5206 mm  at t = 2228873 ms, current time = 54.494
+r_b1b2 = 5698 mm  at t = 2228975 ms, current time = 54.511
+r_a1a2 = drop 
+r_b1a2 = 5291 mm  at t = 2229052 ms, current time = 54.589
+r_a1b2 = 5192 mm  at t = 2228984 ms, current time = 54.605
+r_b1b2 = 5693 mm  at t = 2229085 ms, current time = 54.621
+r_a1a2 = drop 
+r_b1a2 = 5319 mm  at t = 2229162 ms, current time = 54.698
+r_a1b2 = 5164 mm  at t = 2229094 ms, current time = 54.717
+r_b1b2 = 5811 mm  at t = 2229197 ms, current time = 54.734
+r_a1a2 = 4555 mm  at t = 2229180 ms, current time = 54.801
+r_b1a2 = 5291 mm  at t = 2229281 ms, current time = 54.818
+r_a1b2 = 5098 mm  at t = 2229214 ms, current time = 54.835
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5234 mm  at t = 2229391 ms, current time = 54.927
+r_a1b2 = 5173 mm  at t = 2229322 ms, current time = 54.943
+r_b1b2 = drop 
+r_a1a2 = 4433 mm  at t = 2229398 ms, current time = 55.02
+r_b1a2 = 5253 mm  at t = 2229500 ms, current time = 55.037
+r_a1b2 = 5211 mm  at t = 2229432 ms, current time = 55.054
+r_b1b2 = 5839 mm  at t = 2229534 ms, current time = 55.07
+r_a1a2 = 4522 mm  at t = 2229516 ms, current time = 55.137
+r_b1a2 = drop 
+r_a1b2 = 5220 mm  at t = 2229542 ms, current time = 55.164
+r_b1b2 = 6012 mm  at t = 2229644 ms, current time = 55.18
+r_a1a2 = 4410 mm  at t = 2229625 ms, current time = 55.247
+r_b1a2 = 5230 mm  at t = 2229727 ms, current time = 55.263
+r_a1b2 = drop 
+r_b1b2 = 6002 mm  at t = 2229752 ms, current time = 55.288
+r_a1a2 = 4611 mm  at t = 2229733 ms, current time = 55.355
+r_b1a2 = 5201 mm  at t = 2229834 ms, current time = 55.371
+r_a1b2 = 5342 mm  at t = 2229766 ms, current time = 55.388
+r_b1b2 = 6002 mm  at t = 2229868 ms, current time = 55.405
+r_a1a2 = drop 
+r_b1a2 = 5140 mm  at t = 2229944 ms, current time = 55.481
+r_a1b2 = 5206 mm  at t = 2229876 ms, current time = 55.498
+r_b1b2 = 5961 mm  at t = 2229977 ms, current time = 55.514
+r_a1a2 = drop 
+r_b1a2 = 5169 mm  at t = 2230053 ms, current time = 55.591
+r_a1b2 = drop 
+r_b1b2 = 5947 mm  at t = 2230080 ms, current time = 55.618
+r_a1a2 = 4728 mm  at t = 2230063 ms, current time = 55.685
+r_b1a2 = 5183 mm  at t = 2230165 ms, current time = 55.703
+r_a1b2 = 5262 mm  at t = 2230097 ms, current time = 55.719
+r_b1b2 = 5895 mm  at t = 2230198 ms, current time = 55.736
+r_a1a2 = 4733 mm  at t = 2230181 ms, current time = 55.804
+r_b1a2 = 5192 mm  at t = 2230283 ms, current time = 55.821
+r_a1b2 = 5258 mm  at t = 2230215 ms, current time = 55.838
+r_b1b2 = 5862 mm  at t = 2230317 ms, current time = 55.855
+r_a1a2 = 4710 mm  at t = 2230299 ms, current time = 55.922
+r_b1a2 = 5192 mm  at t = 2230401 ms, current time = 55.939
+r_a1b2 = 5262 mm  at t = 2230333 ms, current time = 55.955
+r_b1b2 = drop 
+r_a1a2 = 4742 mm  at t = 2230410 ms, current time = 56.032
+r_b1a2 = 5267 mm  at t = 2230511 ms, current time = 56.049
+r_a1b2 = 4968 mm  at t = 2230443 ms, current time = 56.065
+r_b1b2 = 5928 mm  at t = 2230544 ms, current time = 56.082
+r_a1a2 = 4747 mm  at t = 2230526 ms, current time = 56.149
+r_b1a2 = 5140 mm  at t = 2230627 ms, current time = 56.165
+r_a1b2 = 5323 mm  at t = 2230559 ms, current time = 56.181
+r_b1b2 = 5942 mm  at t = 2230660 ms, current time = 56.198
+r_a1a2 = 4728 mm  at t = 2230642 ms, current time = 56.265
+r_b1a2 = drop 
+r_a1b2 = 5515 mm  at t = 2230668 ms, current time = 56.291
+r_b1b2 = 5998 mm  at t = 2230769 ms, current time = 56.307
+r_a1a2 = 4724 mm  at t = 2230751 ms, current time = 56.375
+r_b1a2 = 5042 mm  at t = 2230853 ms, current time = 56.391
+r_a1b2 = 5436 mm  at t = 2230785 ms, current time = 56.407
+r_b1b2 = 5937 mm  at t = 2230886 ms, current time = 56.425
+r_a1a2 = drop 
+r_b1a2 = 5061 mm  at t = 2230963 ms, current time = 56.501
+r_a1b2 = 5305 mm  at t = 2230895 ms, current time = 56.518
+r_b1b2 = 5956 mm  at t = 2230996 ms, current time = 56.534
+r_a1a2 = 4691 mm  at t = 2230978 ms, current time = 56.602
+r_b1a2 = 5342 mm  at t = 2231080 ms, current time = 56.619
+r_a1b2 = 5300 mm  at t = 2231012 ms, current time = 56.636
+r_b1b2 = 5970 mm  at t = 2231114 ms, current time = 56.652
+r_a1a2 = 4742 mm  at t = 2231096 ms, current time = 56.72
+r_b1a2 = 5483 mm  at t = 2231198 ms, current time = 56.737
+r_a1b2 = 5352 mm  at t = 2231130 ms, current time = 56.754
+r_b1b2 = 6012 mm  at t = 2231232 ms, current time = 56.77
+r_a1a2 = 4785 mm  at t = 2231214 ms, current time = 56.838
+r_b1a2 = 5356 mm  at t = 2231316 ms, current time = 56.855
+r_a1b2 = 5323 mm  at t = 2231248 ms, current time = 56.871
+r_b1b2 = 6007 mm  at t = 2231349 ms, current time = 56.888
+r_a1a2 = 4728 mm  at t = 2231331 ms, current time = 56.954
+r_b1a2 = drop 
+r_a1b2 = 5244 mm  at t = 2231357 ms, current time = 56.98
+r_b1b2 = 5984 mm  at t = 2231458 ms, current time = 56.997
+r_a1a2 = 4672 mm  at t = 2231440 ms, current time = 57.063
+r_b1a2 = 5258 mm  at t = 2231541 ms, current time = 57.079
+r_a1b2 = 5178 mm  at t = 2231473 ms, current time = 57.096
+r_b1b2 = 6026 mm  at t = 2231574 ms, current time = 57.113
+r_a1a2 = 4653 mm  at t = 2231556 ms, current time = 57.18
+r_b1a2 = drop 
+r_a1b2 = 5225 mm  at t = 2231583 ms, current time = 57.207
+r_b1b2 = 5942 mm  at t = 2231685 ms, current time = 57.224
+r_a1a2 = 4700 mm  at t = 2231667 ms, current time = 57.291
+r_b1a2 = 5403 mm  at t = 2231768 ms, current time = 57.307
+r_a1b2 = drop 
+r_b1b2 = 5947 mm  at t = 2231794 ms, current time = 57.333
+r_a1a2 = drop 
+r_b1a2 = 5524 mm  at t = 2231871 ms, current time = 57.409
+r_a1b2 = 5380 mm  at t = 2231802 ms, current time = 57.426
+r_b1b2 = 6012 mm  at t = 2231904 ms, current time = 57.442
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5272 mm  at t = 2231905 ms, current time = 57.528
+r_b1b2 = 6021 mm  at t = 2232006 ms, current time = 57.545
+r_a1a2 = 4850 mm  at t = 2231988 ms, current time = 57.613
+r_b1a2 = drop 
+r_a1b2 = 5286 mm  at t = 2232015 ms, current time = 57.639
+r_b1b2 = 5998 mm  at t = 2232117 ms, current time = 57.656
+r_a1a2 = 4799 mm  at t = 2232098 ms, current time = 57.724
+r_b1a2 = 5262 mm  at t = 2232201 ms, current time = 57.741
+r_a1b2 = 5333 mm  at t = 2232133 ms, current time = 57.758
+r_b1b2 = drop 
+r_a1a2 = 4738 mm  at t = 2232210 ms, current time = 57.834
+r_b1a2 = 5216 mm  at t = 2232311 ms, current time = 57.85
+r_a1b2 = 5267 mm  at t = 2232243 ms, current time = 57.867
+r_b1b2 = 5928 mm  at t = 2232344 ms, current time = 57.884
+r_a1a2 = 4663 mm  at t = 2232326 ms, current time = 57.951
+r_b1a2 = 5131 mm  at t = 2232428 ms, current time = 57.967
+r_a1b2 = drop 
+r_b1b2 = 6059 mm  at t = 2232454 ms, current time = 57.994
+r_a1a2 = 4691 mm  at t = 2232436 ms, current time = 58.061
+r_b1a2 = 5277 mm  at t = 2232538 ms, current time = 58.078
+r_a1b2 = 5380 mm  at t = 2232470 ms, current time = 58.095
+r_b1b2 = 6035 mm  at t = 2232572 ms, current time = 58.111
+r_a1a2 = 4728 mm  at t = 2232554 ms, current time = 58.178
+r_b1a2 = 5201 mm  at t = 2232655 ms, current time = 58.195
+r_a1b2 = 5417 mm  at t = 2232587 ms, current time = 58.212
+r_b1b2 = drop 
+r_a1a2 = 4672 mm  at t = 2232664 ms, current time = 58.288
+r_b1a2 = 5206 mm  at t = 2232765 ms, current time = 58.305
+r_a1b2 = 5543 mm  at t = 2232697 ms, current time = 58.321
+r_b1b2 = 6035 mm  at t = 2232798 ms, current time = 58.338
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5417 mm  at t = 2232799 ms, current time = 58.424
+r_b1b2 = 6049 mm  at t = 2232901 ms, current time = 58.44
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5459 mm  at t = 2232901 ms, current time = 58.526
+r_b1b2 = 5956 mm  at t = 2233003 ms, current time = 58.543
+r_a1a2 = 4321 mm  at t = 2232984 ms, current time = 58.61
+r_b1a2 = 5632 mm  at t = 2233086 ms, current time = 58.627
+r_a1b2 = 5314 mm  at t = 2233018 ms, current time = 58.643
+r_b1b2 = drop 
+r_a1a2 = 4209 mm  at t = 2233094 ms, current time = 58.72
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 6448 mm  at t = 2233216 ms, current time = 58.757
+r_a1a2 = 4120 mm  at t = 2233198 ms, current time = 58.824
+r_b1a2 = 5492 mm  at t = 2233300 ms, current time = 58.84
+r_a1b2 = drop 
+r_b1b2 = 6105 mm  at t = 2233326 ms, current time = 58.866
+r_a1a2 = drop 
+r_b1a2 = 5403 mm  at t = 2233402 ms, current time = 58.943
+r_a1b2 = 5211 mm  at t = 2233334 ms, current time = 58.959
+r_b1b2 = 5988 mm  at t = 2233435 ms, current time = 58.975
+r_a1a2 = 4700 mm  at t = 2233417 ms, current time = 59.043
+r_b1a2 = 5384 mm  at t = 2233519 ms, current time = 59.06
+r_a1b2 = 5258 mm  at t = 2233451 ms, current time = 59.078
+r_b1b2 = 6077 mm  at t = 2233554 ms, current time = 59.095
+r_a1a2 = 4536 mm  at t = 2233536 ms, current time = 59.162
+r_b1a2 = 5394 mm  at t = 2233638 ms, current time = 59.178
+r_a1b2 = 5234 mm  at t = 2233569 ms, current time = 59.195
+r_b1b2 = 6392 mm  at t = 2233671 ms, current time = 59.212
+r_a1a2 = 4639 mm  at t = 2233653 ms, current time = 59.279
+r_b1a2 = drop 
+r_a1b2 = 5267 mm  at t = 2233679 ms, current time = 59.305
+r_b1b2 = 6490 mm  at t = 2233781 ms, current time = 59.322
+r_a1a2 = 4555 mm  at t = 2233763 ms, current time = 59.388
+r_b1a2 = 5352 mm  at t = 2233864 ms, current time = 59.405
+r_a1b2 = 5239 mm  at t = 2233796 ms, current time = 59.421
+r_b1b2 = 6326 mm  at t = 2233897 ms, current time = 59.438
+r_a1a2 = 4424 mm  at t = 2233879 ms, current time = 59.504
+r_b1a2 = 5398 mm  at t = 2233980 ms, current time = 59.521
+r_a1b2 = 5309 mm  at t = 2233911 ms, current time = 59.537
+r_b1b2 = 6227 mm  at t = 2234013 ms, current time = 59.554
+r_a1a2 = 4696 mm  at t = 2233995 ms, current time = 59.621
+r_b1a2 = 5422 mm  at t = 2234097 ms, current time = 59.638
+r_a1b2 = 5267 mm  at t = 2234028 ms, current time = 59.654
+r_b1b2 = 6227 mm  at t = 2234130 ms, current time = 59.671
+r_a1a2 = 4653 mm  at t = 2234111 ms, current time = 59.737
+r_b1a2 = 5389 mm  at t = 2234213 ms, current time = 59.755
+r_a1b2 = 5225 mm  at t = 2234145 ms, current time = 59.771
+r_b1b2 = 6218 mm  at t = 2234247 ms, current time = 59.788
+r_a1a2 = 4541 mm  at t = 2234229 ms, current time = 59.856
+r_b1a2 = 5384 mm  at t = 2234331 ms, current time = 59.873
+r_a1b2 = 5258 mm  at t = 2234263 ms, current time = 59.89
+r_b1b2 = 6213 mm  at t = 2234365 ms, current time = 59.906
+r_a1a2 = 4490 mm  at t = 2234346 ms, current time = 59.973
+r_b1a2 = 5356 mm  at t = 2234448 ms, current time = 59.989
+r_a1b2 = 5258 mm  at t = 2234380 ms, current time = 60.007
+r_b1b2 = 6138 mm  at t = 2234482 ms, current time = 60.023
+r_a1a2 = 4518 mm  at t = 2234463 ms, current time = 60.09
+r_b1a2 = 5328 mm  at t = 2234565 ms, current time = 60.106
+r_a1b2 = 5230 mm  at t = 2234496 ms, current time = 60.123
+r_b1b2 = 6073 mm  at t = 2234598 ms, current time = 60.139
+r_a1a2 = 4438 mm  at t = 2234579 ms, current time = 60.205
+r_b1a2 = 5272 mm  at t = 2234680 ms, current time = 60.222
+r_a1b2 = 5272 mm  at t = 2234612 ms, current time = 60.239
+r_b1b2 = 6054 mm  at t = 2234713 ms, current time = 60.256
+r_a1a2 = 4377 mm  at t = 2234696 ms, current time = 60.323
+r_b1a2 = 5225 mm  at t = 2234798 ms, current time = 60.34
+r_a1b2 = 5080 mm  at t = 2234730 ms, current time = 60.357
+r_b1b2 = 6087 mm  at t = 2234831 ms, current time = 60.373
+r_a1a2 = 4279 mm  at t = 2234812 ms, current time = 60.439
+r_b1a2 = drop 
+r_a1b2 = 5080 mm  at t = 2234837 ms, current time = 60.464
+r_b1b2 = 6096 mm  at t = 2234939 ms, current time = 60.48
+r_a1a2 = drop 
+r_b1a2 = 5291 mm  at t = 2235015 ms, current time = 60.556
+r_a1b2 = 5187 mm  at t = 2234946 ms, current time = 60.573
+r_b1b2 = 6185 mm  at t = 2235047 ms, current time = 60.59
+r_a1a2 = 4358 mm  at t = 2235029 ms, current time = 60.657
+r_b1a2 = 5286 mm  at t = 2235131 ms, current time = 60.673
+r_a1b2 = 5183 mm  at t = 2235063 ms, current time = 60.69
+r_b1b2 = 6077 mm  at t = 2235165 ms, current time = 60.707
+r_a1a2 = 4433 mm  at t = 2235147 ms, current time = 60.775
+r_b1a2 = 5230 mm  at t = 2235249 ms, current time = 60.792
+r_a1b2 = 5220 mm  at t = 2235181 ms, current time = 60.808
+r_b1b2 = drop 
+r_a1a2 = 4518 mm  at t = 2235256 ms, current time = 60.884
+r_b1a2 = 5239 mm  at t = 2235358 ms, current time = 60.9
+r_a1b2 = 5248 mm  at t = 2235289 ms, current time = 60.918
+r_b1b2 = 6087 mm  at t = 2235392 ms, current time = 60.934
+r_a1a2 = 4513 mm  at t = 2235374 ms, current time = 61.001
+r_b1a2 = 5277 mm  at t = 2235476 ms, current time = 61.018
+r_a1b2 = 5337 mm  at t = 2235407 ms, current time = 61.034
+r_b1b2 = 6040 mm  at t = 2235508 ms, current time = 61.051
+r_a1a2 = 4569 mm  at t = 2235490 ms, current time = 61.118
+r_b1a2 = 5314 mm  at t = 2235592 ms, current time = 61.135
+r_a1b2 = 5272 mm  at t = 2235524 ms, current time = 61.152
+r_b1b2 = 6073 mm  at t = 2235626 ms, current time = 61.168
+r_a1a2 = 4513 mm  at t = 2235607 ms, current time = 61.235
+r_b1a2 = 5352 mm  at t = 2235709 ms, current time = 61.252
+r_a1b2 = 5323 mm  at t = 2235641 ms, current time = 61.269
+r_b1b2 = 6176 mm  at t = 2235743 ms, current time = 61.286
+r_a1a2 = 4620 mm  at t = 2235725 ms, current time = 61.353
+r_b1a2 = 5319 mm  at t = 2235827 ms, current time = 61.371
+r_a1b2 = 5239 mm  at t = 2235760 ms, current time = 61.388
+r_b1b2 = drop 
+r_a1a2 = 4560 mm  at t = 2235836 ms, current time = 61.464
+r_b1a2 = 5352 mm  at t = 2235938 ms, current time = 61.481
+r_a1b2 = drop 
+r_b1b2 = 6199 mm  at t = 2235965 ms, current time = 61.508
+r_a1a2 = 4541 mm  at t = 2235947 ms, current time = 61.575
+r_b1a2 = 5370 mm  at t = 2236049 ms, current time = 61.592
+r_a1b2 = 5277 mm  at t = 2235981 ms, current time = 61.609
+r_b1b2 = 6256 mm  at t = 2236082 ms, current time = 61.625
+r_a1a2 = 4391 mm  at t = 2236064 ms, current time = 61.692
+r_b1a2 = drop 
+r_a1b2 = 5248 mm  at t = 2236090 ms, current time = 61.718
+r_b1b2 = 6209 mm  at t = 2236191 ms, current time = 61.734
+r_a1a2 = 4382 mm  at t = 2236173 ms, current time = 61.801
+r_b1a2 = 5366 mm  at t = 2236274 ms, current time = 61.818
+r_a1b2 = 5262 mm  at t = 2236206 ms, current time = 61.835
+r_b1b2 = 6232 mm  at t = 2236308 ms, current time = 61.851
+r_a1a2 = 4321 mm  at t = 2236290 ms, current time = 61.919
+r_b1a2 = 5384 mm  at t = 2236392 ms, current time = 61.935
+r_a1b2 = drop 
+r_b1b2 = 6199 mm  at t = 2236418 ms, current time = 61.961
+r_a1a2 = 4363 mm  at t = 2236400 ms, current time = 62.028
+r_b1a2 = 5370 mm  at t = 2236501 ms, current time = 62.045
+r_a1b2 = 5089 mm  at t = 2236433 ms, current time = 62.061
+r_b1b2 = 6199 mm  at t = 2236534 ms, current time = 62.077
+r_a1a2 = drop 
+r_b1a2 = 5422 mm  at t = 2236610 ms, current time = 62.153
+r_a1b2 = 5084 mm  at t = 2236541 ms, current time = 62.17
+r_b1b2 = 6204 mm  at t = 2236643 ms, current time = 62.186
+r_a1a2 = 4274 mm  at t = 2236624 ms, current time = 62.253
+r_b1a2 = 5347 mm  at t = 2236726 ms, current time = 62.269
+r_a1b2 = drop 
+r_b1b2 = 6185 mm  at t = 2236752 ms, current time = 62.295
+r_a1a2 = 4476 mm  at t = 2236734 ms, current time = 62.363
+r_b1a2 = 5319 mm  at t = 2236836 ms, current time = 62.379
+r_a1b2 = drop 
+r_b1b2 = 6148 mm  at t = 2236862 ms, current time = 62.407
+r_a1a2 = 4195 mm  at t = 2236845 ms, current time = 62.474
+r_b1a2 = 5337 mm  at t = 2236946 ms, current time = 62.49
+r_a1b2 = 5056 mm  at t = 2236877 ms, current time = 62.506
+r_b1b2 = 6223 mm  at t = 2236979 ms, current time = 62.523
+r_a1a2 = 4485 mm  at t = 2236961 ms, current time = 62.59
+r_b1a2 = 5384 mm  at t = 2237063 ms, current time = 62.607
+r_a1b2 = 5244 mm  at t = 2236995 ms, current time = 62.624
+r_b1b2 = 6152 mm  at t = 2237097 ms, current time = 62.641
+r_a1a2 = 4471 mm  at t = 2237079 ms, current time = 62.708
+r_b1a2 = 5347 mm  at t = 2237180 ms, current time = 62.724
+r_a1b2 = 5403 mm  at t = 2237111 ms, current time = 62.74
+r_b1b2 = 6204 mm  at t = 2237213 ms, current time = 62.757
+r_a1a2 = drop 
+r_b1a2 = 5366 mm  at t = 2237289 ms, current time = 62.833
+r_a1b2 = 5384 mm  at t = 2237221 ms, current time = 62.849
+r_b1b2 = 6176 mm  at t = 2237322 ms, current time = 62.866
+r_a1a2 = 4550 mm  at t = 2237304 ms, current time = 62.933
+r_b1a2 = 5328 mm  at t = 2237405 ms, current time = 62.949
+r_a1b2 = 5389 mm  at t = 2237337 ms, current time = 62.967
+r_b1b2 = 6181 mm  at t = 2237439 ms, current time = 62.983
+r_a1a2 = 4710 mm  at t = 2237421 ms, current time = 63.05
+r_b1a2 = drop 
+r_a1b2 = 5408 mm  at t = 2237447 ms, current time = 63.076
+r_b1b2 = 6129 mm  at t = 2237548 ms, current time = 63.093
+r_a1a2 = 4401 mm  at t = 2237530 ms, current time = 63.16
+r_b1a2 = 5380 mm  at t = 2237632 ms, current time = 63.176
+r_a1b2 = 5422 mm  at t = 2237563 ms, current time = 63.193
+r_b1b2 = 6176 mm  at t = 2237665 ms, current time = 63.21
+r_a1a2 = drop 
+r_b1a2 = 5277 mm  at t = 2237741 ms, current time = 63.285
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4560 mm  at t = 2237742 ms, current time = 63.372
+r_b1a2 = 5333 mm  at t = 2237844 ms, current time = 63.388
+r_a1b2 = 5398 mm  at t = 2237775 ms, current time = 63.405
+r_b1b2 = 6171 mm  at t = 2237877 ms, current time = 63.422
+r_a1a2 = 4433 mm  at t = 2237859 ms, current time = 63.49
+r_b1a2 = 5380 mm  at t = 2237962 ms, current time = 63.506
+r_a1b2 = 5384 mm  at t = 2237893 ms, current time = 63.523
+r_b1b2 = 6227 mm  at t = 2237995 ms, current time = 63.54
+r_a1a2 = 4476 mm  at t = 2237977 ms, current time = 63.607
+r_b1a2 = 5328 mm  at t = 2238079 ms, current time = 63.625
+r_a1b2 = 5422 mm  at t = 2238011 ms, current time = 63.641
+r_b1b2 = 6223 mm  at t = 2238113 ms, current time = 63.657
+r_a1a2 = drop 
+r_b1a2 = 5305 mm  at t = 2238189 ms, current time = 63.735
+r_a1b2 = 5389 mm  at t = 2238121 ms, current time = 63.752
+r_b1b2 = 6209 mm  at t = 2238223 ms, current time = 63.768
+r_a1a2 = 4555 mm  at t = 2238205 ms, current time = 63.834
+r_b1a2 = 5380 mm  at t = 2238306 ms, current time = 63.85
+r_a1b2 = 5398 mm  at t = 2238237 ms, current time = 63.867
+r_b1b2 = 6223 mm  at t = 2238338 ms, current time = 63.884
+r_a1a2 = 4509 mm  at t = 2238320 ms, current time = 63.95
+r_b1a2 = 5333 mm  at t = 2238422 ms, current time = 63.967
+r_a1b2 = 5422 mm  at t = 2238354 ms, current time = 63.985
+r_b1b2 = 6213 mm  at t = 2238456 ms, current time = 64.002
+r_a1a2 = 4653 mm  at t = 2238438 ms, current time = 64.069
+r_b1a2 = 5361 mm  at t = 2238540 ms, current time = 64.085
+r_a1b2 = drop 
+r_b1b2 = 6195 mm  at t = 2238566 ms, current time = 64.115
+r_a1a2 = 4279 mm  at t = 2238551 ms, current time = 64.182
+r_b1a2 = 5337 mm  at t = 2238653 ms, current time = 64.199
+r_a1b2 = 5347 mm  at t = 2238585 ms, current time = 64.216
+r_b1b2 = 6199 mm  at t = 2238687 ms, current time = 64.232
+r_a1a2 = 4691 mm  at t = 2238668 ms, current time = 64.3
+r_b1a2 = 5380 mm  at t = 2238771 ms, current time = 64.316
+r_a1b2 = 5361 mm  at t = 2238702 ms, current time = 64.333
+r_b1b2 = 6190 mm  at t = 2238804 ms, current time = 64.35
+r_a1a2 = 4401 mm  at t = 2238786 ms, current time = 64.416
+r_b1a2 = 5333 mm  at t = 2238887 ms, current time = 64.433
+r_a1b2 = 5394 mm  at t = 2238819 ms, current time = 64.45
+r_b1b2 = 6213 mm  at t = 2238920 ms, current time = 64.467
+r_a1a2 = 4775 mm  at t = 2238903 ms, current time = 64.534
+r_b1a2 = 5337 mm  at t = 2239005 ms, current time = 64.551
+r_a1b2 = 5403 mm  at t = 2238937 ms, current time = 64.568
+r_b1b2 = 6213 mm  at t = 2239038 ms, current time = 64.584
+r_a1a2 = 4373 mm  at t = 2239020 ms, current time = 64.651
+r_b1a2 = 5314 mm  at t = 2239122 ms, current time = 64.668
+r_a1b2 = 5366 mm  at t = 2239054 ms, current time = 64.684
+r_b1b2 = 6190 mm  at t = 2239155 ms, current time = 64.701
+r_a1a2 = 4606 mm  at t = 2239137 ms, current time = 64.769
+r_b1a2 = 5337 mm  at t = 2239239 ms, current time = 64.785
+r_a1b2 = 5427 mm  at t = 2239170 ms, current time = 64.802
+r_b1b2 = 6190 mm  at t = 2239272 ms, current time = 64.818
+r_a1a2 = 4509 mm  at t = 2239254 ms, current time = 64.885
+r_b1a2 = 5389 mm  at t = 2239355 ms, current time = 64.901
+r_a1b2 = 5403 mm  at t = 2239286 ms, current time = 64.917
+r_b1b2 = 6213 mm  at t = 2239387 ms, current time = 64.933
+r_a1a2 = 4550 mm  at t = 2239369 ms, current time = 65.0
+r_b1a2 = 5389 mm  at t = 2239470 ms, current time = 65.016
+r_a1b2 = 5417 mm  at t = 2239401 ms, current time = 65.033
+r_b1b2 = 6218 mm  at t = 2239503 ms, current time = 65.049
+r_a1a2 = 4504 mm  at t = 2239484 ms, current time = 65.116
+r_b1a2 = 5352 mm  at t = 2239586 ms, current time = 65.132
+r_a1b2 = 5398 mm  at t = 2239517 ms, current time = 65.148
+r_b1b2 = 6166 mm  at t = 2239618 ms, current time = 65.165
+r_a1a2 = 4541 mm  at t = 2239601 ms, current time = 65.232
+r_b1a2 = 5361 mm  at t = 2239702 ms, current time = 65.249
+r_a1b2 = 5441 mm  at t = 2239634 ms, current time = 65.266
+r_b1b2 = 6204 mm  at t = 2239736 ms, current time = 65.282
+r_a1a2 = 4677 mm  at t = 2239717 ms, current time = 65.349
+r_b1a2 = 5370 mm  at t = 2239819 ms, current time = 65.366
+r_a1b2 = 5413 mm  at t = 2239751 ms, current time = 65.383
+r_b1b2 = 6195 mm  at t = 2239852 ms, current time = 65.399
+r_a1a2 = 4560 mm  at t = 2239834 ms, current time = 65.465
+r_b1a2 = drop 
+r_a1b2 = 5403 mm  at t = 2239860 ms, current time = 65.492
+r_b1b2 = 6195 mm  at t = 2239962 ms, current time = 65.509
+r_a1a2 = 4518 mm  at t = 2239944 ms, current time = 65.577
+r_b1a2 = 5291 mm  at t = 2240046 ms, current time = 65.593
+r_a1b2 = 5389 mm  at t = 2239977 ms, current time = 65.609
+r_b1b2 = 6195 mm  at t = 2240079 ms, current time = 65.626
+r_a1a2 = drop 
+r_b1a2 = 5314 mm  at t = 2240156 ms, current time = 65.703
+r_a1b2 = drop 
+r_b1b2 = 6166 mm  at t = 2240183 ms, current time = 65.73
+r_a1a2 = 4560 mm  at t = 2240165 ms, current time = 65.797
+r_b1a2 = 5380 mm  at t = 2240267 ms, current time = 65.814
+r_a1b2 = 5413 mm  at t = 2240199 ms, current time = 65.834
+r_b1b2 = 6209 mm  at t = 2240304 ms, current time = 65.852
+r_a1a2 = 4536 mm  at t = 2240286 ms, current time = 65.919
+r_b1a2 = 5380 mm  at t = 2240389 ms, current time = 65.937
+r_a1b2 = 5384 mm  at t = 2240322 ms, current time = 65.954
+r_b1b2 = drop 
+r_a1a2 = 4536 mm  at t = 2240399 ms, current time = 66.032
+r_b1a2 = 5342 mm  at t = 2240501 ms, current time = 66.048
+r_a1b2 = 5366 mm  at t = 2240432 ms, current time = 66.064
+r_b1b2 = 6171 mm  at t = 2240533 ms, current time = 66.082
+r_a1a2 = 4560 mm  at t = 2240517 ms, current time = 66.15
+r_b1a2 = drop 
+r_a1b2 = 5380 mm  at t = 2240544 ms, current time = 66.177
+r_b1b2 = 6209 mm  at t = 2240646 ms, current time = 66.195
+r_a1a2 = 4550 mm  at t = 2240630 ms, current time = 66.263
+r_b1a2 = 5319 mm  at t = 2240732 ms, current time = 66.282
+r_a1b2 = drop 
+r_b1b2 = drop 
+r_a1a2 = 4569 mm  at t = 2240738 ms, current time = 66.371
+r_b1a2 = 5370 mm  at t = 2240840 ms, current time = 66.389
+r_a1b2 = 5356 mm  at t = 2240773 ms, current time = 66.406
+r_b1b2 = 6138 mm  at t = 2240875 ms, current time = 66.423
+r_a1a2 = 4564 mm  at t = 2240857 ms, current time = 66.49
+r_b1a2 = drop 
+r_a1b2 = 5398 mm  at t = 2240884 ms, current time = 66.517
+r_b1b2 = 6176 mm  at t = 2240986 ms, current time = 66.535
+r_a1a2 = drop 
+r_b1a2 = 5328 mm  at t = 2241064 ms, current time = 66.612
+r_a1b2 = 5403 mm  at t = 2240996 ms, current time = 66.629
+r_b1b2 = 6195 mm  at t = 2241097 ms, current time = 66.646
+r_a1a2 = 4588 mm  at t = 2241079 ms, current time = 66.713
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 6213 mm  at t = 2241202 ms, current time = 66.751
+r_a1a2 = 4588 mm  at t = 2241185 ms, current time = 66.818
+r_b1a2 = 5342 mm  at t = 2241287 ms, current time = 66.835
+r_a1b2 = 5394 mm  at t = 2241219 ms, current time = 66.853
+r_b1b2 = 6176 mm  at t = 2241322 ms, current time = 66.87
+r_a1a2 = 4630 mm  at t = 2241303 ms, current time = 66.937
+r_b1a2 = 5384 mm  at t = 2241405 ms, current time = 66.954
+r_a1b2 = 5375 mm  at t = 2241337 ms, current time = 66.971
+r_b1b2 = 6232 mm  at t = 2241439 ms, current time = 66.987
+r_a1a2 = 4710 mm  at t = 2241420 ms, current time = 67.057
+r_b1a2 = drop 
+r_a1b2 = drop 
+r_b1b2 = 6199 mm  at t = 2241546 ms, current time = 67.095
+r_a1a2 = 4541 mm  at t = 2241529 ms, current time = 67.163
+r_b1a2 = 5337 mm  at t = 2241631 ms, current time = 67.179
+r_a1b2 = 5366 mm  at t = 2241563 ms, current time = 67.196
+r_b1b2 = 6218 mm  at t = 2241664 ms, current time = 67.213
+r_a1a2 = drop 
+r_b1a2 = 5366 mm  at t = 2241741 ms, current time = 67.289
+r_a1b2 = 5380 mm  at t = 2241672 ms, current time = 67.306
+r_b1b2 = 6181 mm  at t = 2241774 ms, current time = 67.322
+r_a1a2 = 4480 mm  at t = 2241755 ms, current time = 67.389
+r_b1a2 = 5337 mm  at t = 2241857 ms, current time = 67.406
+r_a1b2 = 5408 mm  at t = 2241789 ms, current time = 67.424
+r_b1b2 = 6227 mm  at t = 2241892 ms, current time = 67.44
+r_a1a2 = 4578 mm  at t = 2241873 ms, current time = 67.507
+r_b1a2 = 5413 mm  at t = 2241975 ms, current time = 67.524
+r_a1b2 = 5389 mm  at t = 2241906 ms, current time = 67.54
+r_b1b2 = 6166 mm  at t = 2242008 ms, current time = 67.557
+r_a1a2 = 4602 mm  at t = 2241990 ms, current time = 67.624
+r_b1a2 = 5352 mm  at t = 2242092 ms, current time = 67.641
+r_a1b2 = drop 
+r_b1b2 = 6166 mm  at t = 2242119 ms, current time = 67.668
+r_a1a2 = 4583 mm  at t = 2242101 ms, current time = 67.736
+r_b1a2 = 5380 mm  at t = 2242204 ms, current time = 67.753
+r_a1b2 = 5403 mm  at t = 2242136 ms, current time = 67.772
+r_b1b2 = 6176 mm  at t = 2242241 ms, current time = 67.79
+r_a1a2 = drop 
+r_b1a2 = 5333 mm  at t = 2242318 ms, current time = 67.867
+r_a1b2 = drop 
+r_b1b2 = 6195 mm  at t = 2242344 ms, current time = 67.893
+r_a1a2 = 4545 mm  at t = 2242326 ms, current time = 67.959
+r_b1a2 = 5370 mm  at t = 2242427 ms, current time = 67.976
+r_a1b2 = 5389 mm  at t = 2242359 ms, current time = 67.993
+r_b1b2 = drop 
+r_a1a2 = 4705 mm  at t = 2242434 ms, current time = 68.068
+r_b1a2 = 5342 mm  at t = 2242535 ms, current time = 68.085
+r_a1b2 = 5422 mm  at t = 2242467 ms, current time = 68.101
+r_b1b2 = 6185 mm  at t = 2242569 ms, current time = 68.118
+r_a1a2 = 4555 mm  at t = 2242550 ms, current time = 68.185
+r_b1a2 = 5347 mm  at t = 2242652 ms, current time = 68.202
+r_a1b2 = 5375 mm  at t = 2242584 ms, current time = 68.218
+r_b1b2 = 6181 mm  at t = 2242686 ms, current time = 68.235
+r_a1a2 = 4569 mm  at t = 2242667 ms, current time = 68.302
+r_b1a2 = 5370 mm  at t = 2242769 ms, current time = 68.319
+r_a1b2 = 5403 mm  at t = 2242701 ms, current time = 68.336
+r_b1b2 = 6171 mm  at t = 2242803 ms, current time = 68.352
+r_a1a2 = drop 
+r_b1a2 = drop 
+r_a1b2 = 5389 mm  at t = 2242804 ms, current time = 68.439
+r_b1b2 = 6152 mm  at t = 2242905 ms, current time = 68.455
+r_a1a2 = drop 
+r_b1a2 = 5384 mm  at t = 2242982 ms, current time = 68.532
+r_a1b2 = 5403 mm  at t = 2242913 ms, current time = 68.548
+r_b1b2 = 6195 mm  at t = 2243015 ms, current time = 68.564
+r_a1a2 = 4527 mm  at t = 2242996 ms, current time = 68.631
+r_b1a2 = 5398 mm  at t = 2243098 ms, current time = 68.649
+r_a1b2 = drop 
+r_b1b2 = 6185 mm  at t = 2243126 ms, current time = 68.676
+r_a1a2 = 4513 mm  at t = 2243107 ms, current time = 68.743
+r_b1a2 = drop 
+r_a1b2 = 5408 mm  at t = 2243135 ms, current time = 68.771
+r_b1b2 = 6195 mm  at t = 2243238 ms, current time = 68.788
+r_a1a2 = 4588 mm  at t = 2243219 ms, current time = 68.855
+r_b1a2 = 5375 mm  at t = 2243321 ms, current time = 68.871
+r_a1b2 = 5384 mm  at t = 2243253 ms, current time = 68.888
+r_b1b2 = 6209 mm  at t = 2243355 ms, current time = 68.905
+r_a1a2 = 4625 mm  at t = 2243337 ms, current time = 68.972
+r_b1a2 = 5375 mm  at t = 2243439 ms, current time = 68.989
+r_a1b2 = 5370 mm  at t = 2243370 ms, current time = 69.005
+r_b1b2 = 6162 mm  at t = 2243471 ms, current time = 69.021
+r_a1a2 = drop 
+r_b1a2 = 5361 mm  at t = 2243548 ms, current time = 69.098
+r_a1b2 = 5389 mm  at t = 2243479 ms, current time = 69.115
+r_b1b2 = 6166 mm  at t = 2243581 ms, current time = 69.132
+r_a1a2 = drop 
+r_b1a2 = 5389 mm  at t = 2243658 ms, current time = 69.208
+r_a1b2 = 5394 mm  at t = 2243589 ms, current time = 69.224
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5337 mm  at t = 2243760 ms, current time = 69.311
+r_a1b2 = drop 
+r_b1b2 = 6209 mm  at t = 2243787 ms, current time = 69.338
+r_a1a2 = 4448 mm  at t = 2243770 ms, current time = 69.406
+r_b1a2 = 5342 mm  at t = 2243872 ms, current time = 69.423
+r_a1b2 = 5375 mm  at t = 2243804 ms, current time = 69.439
+r_b1b2 = 6213 mm  at t = 2243905 ms, current time = 69.456
+r_a1a2 = drop 
+r_b1a2 = 5347 mm  at t = 2243981 ms, current time = 69.532
+r_a1b2 = 5394 mm  at t = 2243913 ms, current time = 69.549
+r_b1b2 = 6195 mm  at t = 2244015 ms, current time = 69.566
+r_a1a2 = 4602 mm  at t = 2243996 ms, current time = 69.632
+r_b1a2 = drop 
+r_a1b2 = 5417 mm  at t = 2244023 ms, current time = 69.659
+r_b1b2 = 6199 mm  at t = 2244125 ms, current time = 69.675
+r_a1a2 = 4531 mm  at t = 2244107 ms, current time = 69.744
+r_b1a2 = 5347 mm  at t = 2244216 ms, current time = 69.767
+r_a1b2 = drop 
+r_b1b2 = 6181 mm  at t = 2244244 ms, current time = 69.796
+r_a1a2 = 4625 mm  at t = 2244227 ms, current time = 69.863
+r_b1a2 = drop 
+r_a1b2 = 5417 mm  at t = 2244253 ms, current time = 69.889
+r_b1b2 = 6190 mm  at t = 2244354 ms, current time = 69.905
+r_a1a2 = 4531 mm  at t = 2244335 ms, current time = 69.971
+r_b1a2 = 5361 mm  at t = 2244437 ms, current time = 69.987
+r_a1b2 = 5380 mm  at t = 2244368 ms, current time = 70.004
+r_b1b2 = 6213 mm  at t = 2244469 ms, current time = 70.02
+r_a1a2 = drop 
+r_b1a2 = 5394 mm  at t = 2244545 ms, current time = 70.096
+r_a1b2 = 5384 mm  at t = 2244477 ms, current time = 70.113
+r_b1b2 = 6157 mm  at t = 2244579 ms, current time = 70.13
+r_a1a2 = 4560 mm  at t = 2244561 ms, current time = 70.197
+r_b1a2 = drop 
+r_a1b2 = 5389 mm  at t = 2244587 ms, current time = 70.224
+r_b1b2 = 6185 mm  at t = 2244689 ms, current time = 70.24
+r_a1a2 = 4560 mm  at t = 2244671 ms, current time = 70.308
+r_b1a2 = 5380 mm  at t = 2244773 ms, current time = 70.324
+r_a1b2 = 5375 mm  at t = 2244705 ms, current time = 70.342
+r_b1b2 = 6185 mm  at t = 2244807 ms, current time = 70.358
+r_a1a2 = 4541 mm  at t = 2244789 ms, current time = 70.426
+r_b1a2 = 5319 mm  at t = 2244891 ms, current time = 70.443
+r_a1b2 = 5380 mm  at t = 2244823 ms, current time = 70.46
+r_b1b2 = 6209 mm  at t = 2244925 ms, current time = 70.477
+r_a1a2 = 4555 mm  at t = 2244907 ms, current time = 70.544
+r_b1a2 = 5323 mm  at t = 2245009 ms, current time = 70.561
+r_a1b2 = 5408 mm  at t = 2244940 ms, current time = 70.578
+r_b1b2 = 6181 mm  at t = 2245043 ms, current time = 70.595
+r_a1a2 = 4719 mm  at t = 2245025 ms, current time = 70.662
+r_b1a2 = 5333 mm  at t = 2245127 ms, current time = 70.679
+r_a1b2 = 5375 mm  at t = 2245059 ms, current time = 70.696
+r_b1b2 = 6223 mm  at t = 2245160 ms, current time = 70.712
+r_a1a2 = 4531 mm  at t = 2245142 ms, current time = 70.779
+r_b1a2 = 5342 mm  at t = 2245243 ms, current time = 70.795
+r_a1b2 = 5384 mm  at t = 2245174 ms, current time = 70.811
+r_b1b2 = 6176 mm  at t = 2245276 ms, current time = 70.828
+r_a1a2 = 4578 mm  at t = 2245258 ms, current time = 70.895
+r_b1a2 = 5323 mm  at t = 2245359 ms, current time = 70.911
+r_a1b2 = 5352 mm  at t = 2245290 ms, current time = 70.928
+r_b1b2 = 6176 mm  at t = 2245392 ms, current time = 70.944
+r_a1a2 = 4545 mm  at t = 2245374 ms, current time = 71.011
+r_b1a2 = 5319 mm  at t = 2245475 ms, current time = 71.027
+r_a1b2 = 5417 mm  at t = 2245406 ms, current time = 71.044
+r_b1b2 = 6204 mm  at t = 2245508 ms, current time = 71.061
+r_a1a2 = 4574 mm  at t = 2245490 ms, current time = 71.127
+r_b1a2 = 5352 mm  at t = 2245592 ms, current time = 71.144
+r_a1b2 = 5427 mm  at t = 2245523 ms, current time = 71.16
+r_b1b2 = drop 
+r_a1a2 = 4597 mm  at t = 2245598 ms, current time = 71.235
+r_b1a2 = 5352 mm  at t = 2245700 ms, current time = 71.252
+r_a1b2 = 5408 mm  at t = 2245632 ms, current time = 71.27
+r_b1b2 = 6195 mm  at t = 2245734 ms, current time = 71.286
+r_a1a2 = 4517 mm  at t = 2245715 ms, current time = 71.352
+r_b1a2 = 5328 mm  at t = 2245816 ms, current time = 71.369
+r_a1b2 = 5417 mm  at t = 2245748 ms, current time = 71.386
+r_b1b2 = 6157 mm  at t = 2245850 ms, current time = 71.403
+r_a1a2 = 4620 mm  at t = 2245832 ms, current time = 71.47
+r_b1a2 = 5361 mm  at t = 2245934 ms, current time = 71.486
+r_a1b2 = 5380 mm  at t = 2245865 ms, current time = 71.503
+r_b1b2 = 6213 mm  at t = 2245967 ms, current time = 71.52
+r_a1a2 = 4658 mm  at t = 2245949 ms, current time = 71.586
+r_b1a2 = 5352 mm  at t = 2246050 ms, current time = 71.602
+r_a1b2 = 5370 mm  at t = 2245981 ms, current time = 71.619
+r_b1b2 = drop 
+r_a1a2 = 4625 mm  at t = 2246056 ms, current time = 71.695
+r_b1a2 = 5380 mm  at t = 2246158 ms, current time = 71.711
+r_a1b2 = 5394 mm  at t = 2246089 ms, current time = 71.728
+r_b1b2 = 6181 mm  at t = 2246192 ms, current time = 71.744
+r_a1a2 = 4555 mm  at t = 2246173 ms, current time = 71.811
+r_b1a2 = 5337 mm  at t = 2246274 ms, current time = 71.827
+r_a1b2 = 5380 mm  at t = 2246205 ms, current time = 71.843
+r_b1b2 = 6223 mm  at t = 2246306 ms, current time = 71.859
+r_a1a2 = 4536 mm  at t = 2246288 ms, current time = 71.926
+r_b1a2 = 5389 mm  at t = 2246390 ms, current time = 71.943
+r_a1b2 = 5398 mm  at t = 2246321 ms, current time = 71.959
+r_b1b2 = 6204 mm  at t = 2246423 ms, current time = 71.976
+r_a1a2 = 4513 mm  at t = 2246404 ms, current time = 72.043
+r_b1a2 = 5352 mm  at t = 2246506 ms, current time = 72.059
+r_a1b2 = 5398 mm  at t = 2246437 ms, current time = 72.077
+r_b1b2 = drop 
+r_a1a2 = drop 
+r_b1a2 = 5361 mm  at t = 2246610 ms, current time = 72.163
+r_a1b2 = 5380 mm  at t = 2246542 ms, current time = 72.179
+r_b1b2 = 6209 mm  at t = 2246643 ms, current time = 72.196
+r_a1a2 = 4527 mm  at t = 2246624 ms, current time = 72.263
+r_b1a2 = 5333 mm  at t = 2246727 ms, current time = 72.28
+r_a1b2 = 5408 mm  at t = 2246658 ms, current time = 72.296
+r_b1b2 = 6213 mm  at t = 2246760 ms, current time = 72.313
+r_a1a2 = 4644 mm  at t = 2246742 ms, current time = 72.381
+r_b1a2 = 5342 mm  at t = 2246845 ms, current time = 72.399
+r_a1b2 = 5384 mm  at t = 2246778 ms, current time = 72.417
+r_b1b2 = 6181 mm  at t = 2246880 ms, current time = 72.444
+r_a1a2 = 4569 mm  at t = 2246872 ms, current time = 72.511
+r_b1a2 = 5361 mm  at t = 2246974 ms, current time = 72.527
+r_a1b2 = 5394 mm  at t = 2246905 ms, current time = 72.543
+r_b1b2 = 6223 mm  at t = 2247006 ms, current time = 72.56
