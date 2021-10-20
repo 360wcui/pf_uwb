@@ -2,15 +2,17 @@ import random
 import numpy as np
 import helpers
 import read_data
+import time
 from helpers import draw_particles, resize_and_plot, draw_robot
 from robot import robot
 
 ## parameters
-data_file = '0926test3.data'
+#data_file = '0926test3.data'
+data_file = '10-14-21-test1.data'
 world_size = 500
 RESIZE = 500
 scale = 100.0
-THREE_FEET = 914.4 / scale  # mm to px
+D = 34 * 25.4/ scale  # mm to px distance between UWBs on a drone
 circle_size = 2 # for plot
 
 ## hyperparameters
@@ -23,10 +25,10 @@ measurements = experimental_data.get_all_measurements()
 
 ## initialize robot (Drone 1)
 myrobot = robot(world_size, noise, scale=scale)
-myrobot.set(new_a2x=world_size / 2 + THREE_FEET / 2, new_a2y=world_size / 2, new_orientation=np.pi / 2)
+myrobot.set(new_a2x=world_size / 2 + D / 2, new_a2y=world_size / 2, new_orientation=np.pi / 2)
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
-T = 30
+T = 2164
 
 ## initialize N particles
 p = []
@@ -57,7 +59,7 @@ for t in range(T):
     for i in range(N):
         w.append(p[i].measurement_prob(Z))
     # print('weights')
-    print(max(w), w)
+    # print(max(w), w)
     p3 = []
     index = int(random.random() * N)
     beta = 0.0
@@ -73,4 +75,4 @@ for t in range(T):
     draw_robot(myrobot, canvas, circle_size)
     draw_particles(p, canvas, circle_size, color=(255, 0, 0))
     resize_and_plot(canvas, RESIZE)
-    print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
+    # print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))

@@ -108,8 +108,8 @@ class robot:
         diff = (abs(r_a2b2) + abs(r_a1a2 - a1a2) + abs(r_a1b2 - a1b2) + abs(
             r_b1a2 - b1a2 ) + abs(r_b1b2 - b1b2))
 
-        print('diff', diff, abs(r_a2b2), abs(r_a1a2 - a1a2), abs(r_a1b2 - a1b2),
-              abs(r_b1a2 - b1a2), abs(r_b1b2 - b1b2))
+        # print('diff', diff, abs(r_a2b2), abs(r_a1a2 - a1a2), abs(r_a1b2 - a1b2),
+         #     abs(r_b1a2 - b1a2), abs(r_b1b2 - b1b2))
         # for i in range(len(measurement)):
         #     dist = measurement[i]
 
