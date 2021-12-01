@@ -8,13 +8,13 @@ import numpy as np
 
 
 class robot:
-    def __init__(self, world_size, noise, scale):
+    def __init__(self, world_size, noise, d, scale):
         self.orientation = random.random() * 2.0 * pi
-        self.THREE_FEET = 914.4 / scale
+        self.D = d
         self.a2x = random.random() * world_size
         self.a2y = random.random() * world_size
-        self.b2x = self.a2x + np.cos(self.orientation + np.pi/2) * self.THREE_FEET
-        self.b2y = self.a2y + np.sin(self.orientation + np.pi/2) * self.THREE_FEET
+        self.b2x = self.a2x + np.cos(self.orientation + np.pi/2) * self.D
+        self.b2y = self.a2y + np.sin(self.orientation + np.pi/2) * self.D
         self.x = (self.a2x + self.b2x) / 2
         self.y = (self.a2y + self.b2y) / 2
         self.forward_noise = noise * 2
@@ -32,8 +32,8 @@ class robot:
         #     raise (ValueError, 'Orientation must be in [0..2pi]')
         self.a2x = float(new_a2x)
         self.a2y = float(new_a2y)
-        self.b2x = self.a2x + self.THREE_FEET * cos(new_orientation + np.pi/2)
-        self.b2y = self.a2y + self.THREE_FEET * sin(new_orientation + np.pi/2)
+        self.b2x = self.a2x + self.D * cos(new_orientation + np.pi/2)
+        self.b2y = self.a2y + self.D * sin(new_orientation + np.pi/2)
         self.x = (self.a2x + self.b2x) / 2
         self.y = (self.a2y + self.b2y) / 2
         self.orientation = float(new_orientation)
@@ -75,7 +75,7 @@ class robot:
         # y %= self.world_size
 
         # set particle
-        res = robot(self.world_size, self.sense_noise, self.scale)
+        res = robot(self.world_size, self.sense_noise, self.D, self.scale)
         res.set(new_a2x=new_a2x, new_a2y=new_a2y, new_orientation=orientation)
         res.set_noise(self.forward_noise, self.turn_noise, self.sense_noise)
         return res
@@ -90,26 +90,26 @@ class robot:
         # y = self.y
         a1a2, a1b2, b1a2, b1b2 = measurement
         r_a1a2 = sqrt(
-            (self.a2x - self.world_size / 2 - self.THREE_FEET / 2) ** 2 + (
+            (self.a2x - self.world_size / 2 - self.D / 2) ** 2 + (
                         self.a2y - self.world_size / 2) ** 2)  # dist to b1
         r_a1b2 = sqrt(
-            (self.b2x - self.world_size / 2 - self.THREE_FEET / 2) ** 2 + (
+            (self.b2x - self.world_size / 2 - self.D / 2) ** 2 + (
                         self.b2y - self.world_size / 2) ** 2)  # dist to a1
 
         r_b1a2 = sqrt(
-            (self.a2x - self.world_size / 2 + self.THREE_FEET / 2) ** 2 + (
+            (self.a2x - self.world_size / 2 + self.D / 2) ** 2 + (
                         self.a2y - self.world_size / 2) ** 2)  # dist to b1
         r_b1b2 = sqrt(
-            (self.b2x - self.world_size / 2 + self.THREE_FEET / 2) ** 2 + (
+            (self.b2x - self.world_size / 2 + self.D / 2) ** 2 + (
                         self.b2y - self.world_size / 2) ** 2)  # dist to b1
 
-        r_a2b2 = sqrt((self.a2x - self.b2x) ** 2 + (self.a2y - self.b2y) ** 2) - self.THREE_FEET
+        r_a2b2 = sqrt((self.a2x - self.b2x) ** 2 + (self.a2y - self.b2y) ** 2) - self.D
 
         diff = (abs(r_a2b2) + abs(r_a1a2 - a1a2) + abs(r_a1b2 - a1b2) + abs(
-            r_b1a2 - b1a2 ) + abs(r_b1b2 - b1b2))
+            r_b1a2 - b1a2) + abs(r_b1b2 - b1b2))
 
-        # print('diff', diff, abs(r_a2b2), abs(r_a1a2 - a1a2), abs(r_a1b2 - a1b2),
-         #     abs(r_b1a2 - b1a2), abs(r_b1b2 - b1b2))
+        #print('diff', diff, abs(r_a2b2), abs(r_a1a2 - a1a2), abs(r_a1b2 - a1b2),
+        #      abs(r_b1a2 - b1a2), abs(r_b1b2 - b1b2))
         # for i in range(len(measurement)):
         #     dist = measurement[i]
 
