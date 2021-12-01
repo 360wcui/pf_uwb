@@ -7,12 +7,10 @@ import read_data
 from helpers import draw_particles, resize_and_plot, draw_robot, draw_best_guess_particle
 from robot import robot
 import cv2
+from scipy.io import savemat
 
 ## parameters
-data_file = '0926test3.data'
-data_file = '10-14-21-tests/10-14-21-test1'
-data_file = '10-14-21-tests/10-14-21-test4'
-data_file = '11-23-21-tests/11-23-21_test1'
+data_file = '11-23-21-tests/11-23-21_test6'
 world_size = 500
 RESIZE = 500
 scale = 30.0
@@ -33,7 +31,6 @@ myrobot.set(new_a2x=world_size / 2 + D / 2, new_a2y=world_size / 2, new_orientat
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
 T = 6000
-
 ## initialize N particles
 p = []
 for i in range(N):
@@ -46,11 +43,14 @@ draw_robot(myrobot, canvas, circle_size)
 resize_and_plot(canvas, RESIZE)
 
 # iterate through each time step (pressing a key is required)
-
+data_set= {'a2x':[], 'a2y':[], 'b2x':[], 'b2y':[], 'time': []}
 for t in range(T):
     canvas = np.ones((world_size, world_size, 3), np.uint8) * 255
     # myrobot = myrobot.move(0.0, 0.0)
-    Z = myrobot.sense(experimental_data.get_measurement())
+    current_measurement = experimental_data.get_measurement()
+    if current_measurement is None:
+        break
+    Z = myrobot.sense(current_measurement)
 
     # move particles according to robot motion
     p2 = []
@@ -90,6 +90,7 @@ for t in range(T):
         a2y_values.append(particle.a2y)
         b2x_values.append(particle.b2x)
         b2y_values.append(particle.b2y)
+
     w= np.array(w)
     w = w /np.sum(w)
     BestGuess_a2x = int(np.array(a2x_values) @ w.transpose())
@@ -99,6 +100,11 @@ for t in range(T):
 
     a2 = (BestGuess_a2x, BestGuess_a2y)
     b2 = (BestGuess_b2x, BestGuess_b2y)
+    data_set['a2x'].append(BestGuess_a2x)
+    data_set['a2y'].append(BestGuess_a2y)
+    data_set['b2x'].append(BestGuess_b2x)
+    data_set['b2y'].append(BestGuess_b2y)
+    data_set['time'].append(t)
 
     # for particles in p:
        # BestGuess_a2x += particles.a2x * w
@@ -109,3 +115,4 @@ for t in range(T):
 
     resize_and_plot(canvas, RESIZE)
     # print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
+savemat(data_file + '_pf.mat', data_set)
