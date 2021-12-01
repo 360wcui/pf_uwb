@@ -7,6 +7,7 @@ import read_data
 from helpers import draw_particles, resize_and_plot, draw_robot, draw_best_guess_particle
 from robot import robot
 import cv2
+import math
 
 ## parameters
 data_file = '0926test3.data'
@@ -23,6 +24,12 @@ circle_size = 2  # for plot
 N = 2000  # num of particles
 noise = 4  # px
 
+# open file in read mode
+with open(data_file, 'r') as fp:
+    for num_meas, line in enumerate(fp):
+        pass
+print('Total Lines', num_meas + 1)
+
 ## extract data
 experimental_data = read_data.Preprocessing(filename=data_file, scale=scale)
 measurements = experimental_data.get_all_measurements()
@@ -32,7 +39,7 @@ myrobot = robot(world_size, noise, D, scale=scale)
 myrobot.set(new_a2x=world_size / 2 + D / 2, new_a2y=world_size / 2, new_orientation=np.pi / 2)
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
-T = 6000
+T = math.floor((num_meas+1)/4)
 
 ## initialize N particles
 p = []
@@ -105,7 +112,7 @@ for t in range(T):
 
     #draw_best_guess_particle(p, canvas, color=(255, 0, 0))
     cv2.line(canvas, a2, b2, (255, 0, 0), 1)
-    cv2.circle(canvas, (int(BestGuess_a2x), int(BestGuess_a2y)), 2, (255, 0, 0), -1)
+    cv2.circle(canvas, (int(BestGuess_b2x), int(BestGuess_b2y)), 2, (255, 0, 0), -1)
 
     resize_and_plot(canvas, RESIZE)
     # print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
