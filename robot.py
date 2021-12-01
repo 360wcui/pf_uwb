@@ -88,7 +88,7 @@ class robot:
         # calculates how likely a measurement should be
         # x = self.x
         # y = self.y
-        a1a2, a1b2, b1a2, b1b2 = measurement
+        a1a2, a1b2, b1a2, b1b2, time = measurement
         r_a1a2 = sqrt(
             (self.a2x - self.world_size / 2 - self.D / 2) ** 2 + (
                         self.a2y - self.world_size / 2) ** 2)  # dist to b1
