@@ -45,6 +45,7 @@ class Preprocessing:
 
 
     def get_measurement(self):
-
+        if len(self.measurements) == 0:
+            return None
         return self.measurements.pop(0)
 
