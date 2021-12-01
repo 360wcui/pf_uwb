@@ -32,7 +32,7 @@ myrobot = robot(world_size, noise, D, scale=scale)
 myrobot.set(new_a2x=world_size / 2 + D / 2, new_a2y=world_size / 2, new_orientation=np.pi / 2)
 Z = myrobot.sense(experimental_data.get_measurement())
 # print(Z)
-T = 600
+T = 6000
 
 ## initialize N particles
 p = []
@@ -97,15 +97,15 @@ for t in range(T):
     BestGuess_b2x = int(np.array(b2x_values) @ w.transpose())
     BestGuess_b2y = int(np.array(b2y_values) @ w.transpose())
 
-    a2 = (BestGuess_a2x,BestGuess_a2y)
-    b2 = (BestGuess_b2x,BestGuess_b2y)
+    a2 = (BestGuess_a2x, BestGuess_a2y)
+    b2 = (BestGuess_b2x, BestGuess_b2y)
 
     # for particles in p:
        # BestGuess_a2x += particles.a2x * w
 
     #draw_best_guess_particle(p, canvas, color=(255, 0, 0))
     cv2.line(canvas, a2, b2, (255, 0, 0), 1)
-    cv2.circle(canvas, (int(BestGuess_a2x), int(BestGuess_a2y) ), 2, (255, 0, 0), -1)
+    cv2.circle(canvas, (int(BestGuess_a2x), int(BestGuess_a2y)), 2, (255, 0, 0), -1)
 
     resize_and_plot(canvas, RESIZE)
     # print('error: ', myrobot.x, myrobot.y, helpers.eval(myrobot, p, world_size))
